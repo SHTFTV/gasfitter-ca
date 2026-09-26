@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gasfitter.ca/sitemap.xml
+Sitemap: https://www.gasfitter.ca/sitemap.xml
