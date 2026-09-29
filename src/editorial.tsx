@@ -1,4 +1,5 @@
 import React from 'react';
+import { planningGuides } from './planning-guides';
 
 export const editorialPosts = [
   {
@@ -37,5 +38,9 @@ export const editorialPosts = [
       <p>Name documents by appliance and date. Add each future service invoice and any changes to the installation. For a strata property, coordinate relevant records with the responsible manager rather than assuming everything belongs to the individual owner. If something remains unresolved, record the question and the agreed next action; paperwork should clarify the status, not hide unfinished work.</p>
       <p>Planning the project first? Read <a href="/compare-gas-fitting-quotes-bc/">how to compare gas-fitting quotes</a>.</p>
     </>
-  }
+  },
+  ...planningGuides.map(guide => ({
+    slug: guide.slug, title: guide.title, description: guide.description,
+    body: <>{guide.sections.map(section => <React.Fragment key={section.heading}><h2>{section.heading}</h2><p>{section.text}</p></React.Fragment>)}<h2>Further reading</h2><ul>{guide.sources.map(source => <li key={source.url}><a href={source.url}>{source.label}</a></li>)}</ul><p><a href="/compare-gas-fitting-quotes-bc/">Compare contractor quotes</a> · <a href="/gas-work-handover-records-bc/">Keep your handover records</a></p></>
+  }))
 ];
