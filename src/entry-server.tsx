@@ -9,3 +9,5 @@ export function getRoutes(): string[] {
 export function render(url:string): string {
   return renderToString(<App pathName={url} />);
 }
+
+export { editorialPosts } from './editorial';
