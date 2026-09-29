@@ -2,6 +2,7 @@ import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { Flame, MapPin, ShieldCheck, Wrench, Phone, Mail, ArrowRight } from 'lucide-react';
 import './styles.css';
+import { editorialPosts } from './editorial';
 
 const services = [
   ['Gas line installation', 'Planning, sizing and routing information for renovations, additions and new appliances.'],
@@ -11,6 +12,7 @@ const services = [
 ];
 
 export const posts = [
+  ...editorialPosts.map(post => [post.slug, post.title]),
   ['moving-or-replacing-a-gas-appliance-during-a-renovation-planning-checklist','Moving or Replacing a Gas Appliance During a Renovation'],
   ['carbon-monoxide-alarms-and-gas-appliances-a-practical-homeowner-checklist','Carbon Monoxide Alarms and Gas Appliances'],
   ['gas-appliance-venting-what-homeowners-should-understand-before-renovating','Gas Appliance Venting Before Renovating'],
@@ -40,9 +42,11 @@ function Contact(){return <section id="contact" className="contact"><div><p clas
 
 function City({name}:{name:string}){return <Layout><main><section className="page-hero"><p className="eyebrow"><MapPin size={15}/> LOCAL SERVICE GUIDE</p><h1>Gas Fitter {name}</h1><p className="lede">Planning gas work in {name}? Start with the appliance, expected load, route, ventilation and permit requirementsâthen confirm the work with a qualified local gas fitter.</p></section><section><h2>Common gas projects in {name}</h2><div className="grid">{services.map(([t,d])=><article key={t}><h3>{t}</h3><p>{d}</p></article>)}</div></section><section className="split"><div><h2>Before work begins</h2><ul><li>Confirm licensing and insurance.</li><li>Ask whether a permit and inspection are required.</li><li>Verify gas-line capacity before adding appliances.</li><li>Keep manufacturer clearances and venting requirements in the plan.</li></ul></div><div className="note"><ShieldCheck/><h3>Local rules matter</h3><p>Requirements vary by province, municipality and utility. This page is planning information, not a substitute for an on-site assessment.</p></div></section><Contact/></main></Layout>}
 
+function EditorialGuide({post}:{post:typeof editorialPosts[number]}) { return <Layout><main><article className="guide"><p className="eyebrow">HOMEOWNER PLANNING GUIDE · BRITISH COLUMBIA</p><h1>{post.title}</h1><p className="lede">{post.description}</p>{post.body}<p><small>Sources checked September 29, 2026. Requirements vary by jurisdiction and project.</small></p></article><Contact/></main></Layout> }
+
 function Guide({title}:{title:string}){return <Layout><main><article className="guide"><p className="eyebrow">HOMEOWNER PLANNING GUIDE</p><h1>{title}</h1><p className="lede">A practical overview for discussing the work with a licensed gas professional.</p><h2>Start with the existing system</h2><p>Identify the appliance, input rating, gas type, existing pipe route, venting and the other connected loads. A qualified professional can then determine whether the system has enough capacity.</p><h2>Plan permits and access early</h2><p>Gas work may require permits, testing and inspection. Renovations can also affect walls, cabinets, finishes and access, so coordinate the gas scope before closing assemblies.</p><h2>Questions worth asking</h2><ul><li>Is the existing line correctly sized for the new load?</li><li>Does the appliance need new venting or combustion air?</li><li>Who obtains the permit and arranges inspection?</li><li>What must remain accessible for service?</li></ul><div className="note"><ShieldCheck/><h3>Do not improvise gas work</h3><p>Use a properly licensed gas contractor and follow the appliance manufacturerâs instructions and local requirements.</p></div></article><Contact/></main></Layout>}
 
-export function App({pathName}:{pathName?:string}={}){const path=(pathName??location.pathname).replace(/^\/+|\/+$/g,''); const city=cities.find(([s])=>s===path); const post=posts.find(([s])=>s===path); if(city)return <City name={city[1]}/>; if(post)return <Guide title={post[1]}/>; return <Home/>}
+export function App({pathName}:{pathName?:string}={}){const path=(pathName??location.pathname).replace(/^\/+|\/+$/g,''); const editorial=editorialPosts.find(post=>post.slug===path); if(editorial)return <EditorialGuide post={editorial}/>; const city=cities.find(([s])=>s===path); const post=posts.find(([s])=>s===path); if(city)return <City name={city[1]}/>; if(post)return <Guide title={post[1]}/>; return <Home/>}
 
 if (typeof document !== 'undefined') {
   createRoot(document.getElementById('root')!).render(<App/>);
