@@ -1,4 +1,14 @@
 {
+  "redirects": [
+    { "source": "/app", "destination": "/", "permanent": true },
+    { "source": "/contact", "destination": "/#contact", "permanent": true },
+    { "source": "/gas-lines-vancouver", "destination": "/gas-line-installation-guide-lower-mainland/", "permanent": true },
+    { "source": "/locations", "destination": "/#locations", "permanent": true },
+    { "source": "/management-system", "destination": "/", "permanent": true },
+    { "source": "/services", "destination": "/#services", "permanent": true },
+    { "source": "/testimonials", "destination": "/", "permanent": true },
+    { "source": "/whychooseus", "destination": "/", "permanent": true }
+  ],
   "routes": [
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/index.html" }
