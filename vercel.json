@@ -1,15 +1,13 @@
 {
-  "redirects": [
-    { "source": "/app", "destination": "/", "permanent": true },
-    { "source": "/contact", "destination": "/#contact", "permanent": true },
-    { "source": "/gas-lines-vancouver", "destination": "/gas-line-installation-guide-lower-mainland/", "permanent": true },
-    { "source": "/locations", "destination": "/#locations", "permanent": true },
-    { "source": "/management-system", "destination": "/", "permanent": true },
-    { "source": "/services", "destination": "/#services", "permanent": true },
-    { "source": "/testimonials", "destination": "/", "permanent": true },
-    { "source": "/whychooseus", "destination": "/", "permanent": true }
-  ],
   "routes": [
+    { "src": "/app/?", "headers": { "Location": "/" }, "status": 308 },
+    { "src": "/contact/?", "headers": { "Location": "/#contact" }, "status": 308 },
+    { "src": "/gas-lines-vancouver/?", "headers": { "Location": "/gas-line-installation-guide-lower-mainland/" }, "status": 308 },
+    { "src": "/locations/?", "headers": { "Location": "/#locations" }, "status": 308 },
+    { "src": "/management-system/?", "headers": { "Location": "/" }, "status": 308 },
+    { "src": "/services/?", "headers": { "Location": "/#services" }, "status": 308 },
+    { "src": "/testimonials/?", "headers": { "Location": "/" }, "status": 308 },
+    { "src": "/whychooseus/?", "headers": { "Location": "/" }, "status": 308 },
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/index.html" }
   ],
