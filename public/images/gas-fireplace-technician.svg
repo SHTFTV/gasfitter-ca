@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Gas fireplace inspection illustration</title>
+  <desc id="desc">A technician checks a modern residential gas fireplace.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e7f3f4"/>
+      <stop offset="1" stop-color="#bfd7da"/>
+    </linearGradient>
+    <linearGradient id="fire" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#ff8c00"/>
+      <stop offset="1" stop-color="#ffcf4a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="32" fill="url(#wall)"/>
+  <path d="M0 665h1200v235H0z" fill="#d9d3c6"/>
+  <path d="M90 96h620v592H90z" fill="#f8f7f2"/>
+  <path d="M150 180h500v420H150z" rx="18" fill="#102a43"/>
+  <path d="M190 220h420v340H190z" rx="12" fill="#071b2c"/>
+  <path d="M234 518c78-105 70-187 119-252 31 79 103 113 93 251z" fill="url(#fire)"/>
+  <path d="M360 518c62-77 55-136 94-183 20 65 83 87 75 182z" fill="#ffb703"/>
+  <path d="M186 575h428v28H186z" rx="12" fill="#334e68"/>
+  <path d="M773 269c0-66 44-115 105-115s106 49 106 115c0 42-18 74-43 95-18 16-27 32-27 51h-73c0-19-9-35-27-51-24-21-41-53-41-95z" fill="#d7a67e"/>
+  <path d="M759 267c4-90 48-145 121-145 79 0 124 64 117 151-31-11-52-38-64-75-38 40-93 62-174 69z" fill="#26394d"/>
+  <path d="M724 836l38-336c8-67 54-105 120-105s113 38 121 105l43 336z" fill="#087e8b"/>
+  <path d="M797 420h170l42 167-66 18-31-104-29 185H777l-23-185-34 113-67-20 49-174z" fill="#145b67"/>
+  <path d="M664 575l-43-13-75 78 42 38z" fill="#d7a67e"/>
+  <path d="M552 624l-42-21-89 78 47 46z" fill="#334e68"/>
+  <rect x="427" y="672" width="132" height="82" rx="12" fill="#102a43"/>
+  <circle cx="470" cy="713" r="17" fill="#ffb703"/>
+  <path d="M498 699h38M498 718h29M498 737h21" stroke="#f8f7f2" stroke-width="8" stroke-linecap="round"/>
+  <path d="M785 836h-90M1045 836h-93" stroke="#102a43" stroke-width="34" stroke-linecap="round"/>
+  <circle cx="604" cy="152" r="25" fill="#ffb703"/>
+  <path d="M604 133v38M585 152h38" stroke="#102a43" stroke-width="8" stroke-linecap="round"/>
+</svg>
