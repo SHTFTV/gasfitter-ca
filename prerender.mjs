@@ -13,13 +13,14 @@ for (const route of routes) {
   const title = route === '/' ? 'Gas Fitter Canada | Licensed Gas Services &amp; Local Guides' : `${heading || 'Gas Fitter Canada'} | Gas Fitter Canada`;
   const editorial = server.editorialPosts.find(post => `/${post.slug}/` === route);
   const escapeAttr = value => value.replaceAll('&', '&amp;').replaceAll('"', '&quot;').replaceAll('<', '&lt;');
-  const schema = editorial ? `<script type="application/ld+json">${JSON.stringify({'@context':'https://schema.org','@type':'Article',headline:editorial.title,description:editorial.description,url:canonical,mainEntityOfPage:canonical,inLanguage:'en-CA'}).replaceAll('<','\\u003c')}</script>` : '';
+  const schema = editorial ? `<script type="application/ld+json">${JSON.stringify({'@context':'https://schema.org','@type':'Article',headline:editorial.title,description:editorial.description,url:canonical,mainEntityOfPage:canonical,inLanguage:'en-CA',...(editorial.date?{datePublished:editorial.date,dateModified:editorial.date,author:{'@type':'Organization',name:'Gasfitter.ca'},image:'https://www.gasfitter.ca'+editorial.image}:{})}).replaceAll('<','\\u003c')}</script>` : '';
   let page = template.replace('<!--app-html-->', html)
     .replace('<!--app-head-->', `<link rel="canonical" href="${canonical}" /><meta property="og:url" content="${canonical}" />${schema}`)
     .replace(/<title>[\s\S]*?<\/title>/, `<title>${title}</title>`)
     .replace(/<meta property="og:title" content="[^"]*"\s*\/>/, `<meta property="og:title" content="${title.replaceAll('"', '&quot;')}" />`);
   if (editorial) page = page.replace(/<meta name="description" content="[^"]*"\s*\/>/, `<meta name="description" content="${escapeAttr(editorial.description)}" />`).replace(/<meta property="og:description" content="[^"]*"\s*\/>/, `<meta property="og:description" content="${escapeAttr(editorial.description)}" />`);
   if (editorial) page = page.replace('property="og:type" content="website"', 'property="og:type" content="article"').replace(/<meta property="og:image"[^>]*>/, '').replace('name="twitter:card" content="summary_large_image"', 'name="twitter:card" content="summary"');
+  if(editorial?.image) page=page.replace('name="twitter:card" content="summary"','name="twitter:card" content="summary_large_image"').replace('</head>',`<meta property="og:image" content="https://www.gasfitter.ca${editorial.image}" /><meta name="twitter:image" content="https://www.gasfitter.ca${editorial.image}" /></head>`);
   const target = path.join(dist, route === '/' ? '' : route);
   fs.mkdirSync(target, { recursive: true });
   fs.writeFileSync(path.join(target, 'index.html'), page);
