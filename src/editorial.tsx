@@ -1,7 +1,9 @@
 import React from 'react';
+import { firstFrostPosts } from './first-frost';
 import { planningGuides } from './planning-guides';
 
 export const editorialPosts = [
+  ...firstFrostPosts,
   {
     slug: 'compare-gas-fitting-quotes-bc',
     title: 'How to Compare Gas-Fitting Quotes in BC',
