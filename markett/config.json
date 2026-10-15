@@ -1,0 +1,32 @@
+{
+  "repo": "gasfitter-ca",
+  "name": "Gas Fitter Canada",
+  "key": "gasfitter",
+  "colour": "#f3b46b",
+  "kicker": "COMFORT BEGINS WITH A CLEARER PLAN",
+  "title": "A warmer home.<br><em>A well-planned project.</em>",
+  "intro": "Fireplaces, gas lines and appliance connections. Understand the project, then confirm the details with a qualified gas fitter.",
+  "href": "/#services",
+  "action": "Explore gas projects",
+  "second": "/#contact",
+  "secondlabel": "Tell us what you\u2019re planning",
+  "caption": "Warmth is the result; appliance, venting and gas supply belong in the plan. AI-generated fireplace illustration; not an actual installation.",
+  "alt": "Sealed glass-front gas fireplace in a warm contemporary living room",
+  "cardkicker": "BEFORE THE CONNECTION",
+  "cardtitle": "The appliance.<br>The details that matter.",
+  "cardintro": "Share a clearer scope so the right professional can assess the work.",
+  "steps": [
+    [
+      "The appliance",
+      "Model, fuel and intended location."
+    ],
+    [
+      "The existing system",
+      "Supply, venting and access to assess."
+    ],
+    [
+      "The professional review",
+      "Licensing, permits and inspection."
+    ]
+  ]
+}
