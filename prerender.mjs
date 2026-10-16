@@ -29,3 +29,8 @@ const today = new Date().toISOString().slice(0,10);
 const sitemap = ['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',...routes.map(route=>`  <url><loc>https://www.gasfitter.ca${route}</loc><lastmod>${today}</lastmod></url>`),'</urlset>'].join('\n');
 fs.writeFileSync(path.join(dist,'sitemap.xml'),sitemap);
 console.log(`prerendered ${routes.length} routes`);
+
+// Decode the original hero artwork into the static output.
+const heroSource = JSON.parse(fs.readFileSync(path.join(process.cwd(), "markett/gasfitter-hero-v4.json"), "utf8"));
+fs.mkdirSync(path.join(dist,"images"),{recursive:true});
+fs.writeFileSync(path.join(dist,"images",heroSource.file),Buffer.from(heroSource.data,"base64"));
