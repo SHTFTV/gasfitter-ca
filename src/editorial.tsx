@@ -1,8 +1,10 @@
 import React from 'react';
+import { noHeatPosts } from './no-heat';
 import { firstFrostPosts } from './first-frost';
 import { planningGuides } from './planning-guides';
 
 export const editorialPosts = [
+  ...noHeatPosts,
   ...firstFrostPosts,
   {
     slug: 'compare-gas-fitting-quotes-bc',
