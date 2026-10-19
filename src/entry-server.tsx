@@ -11,3 +11,5 @@ export function render(url:string): string {
 }
 
 export { editorialPosts } from './editorial';
+
+export { planningPoints } from './planning-visual';
