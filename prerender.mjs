@@ -23,7 +23,9 @@ for(const route of routes){
  const points=server.planningPoints(heading);
  const lines=wrap(heading,36).slice(0,4);
  let art=`<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><rect width="1200" height="630" fill="#102a43"/><rect x="0" width="16" height="630" fill="#ffbd7b"/><text x="58" y="64" fill="#ffbd7b" font-family="Arial,sans-serif" font-size="19" letter-spacing="3">GAS FITTER CANADA / ${editorial?'JOURNAL':isCity?'LOCAL PLANNING GUIDE':'PROJECT PLANNING'}</text>${lines.map((l,i)=>`<text x="58" y="${145+i*57}" fill="white" font-family="Arial,sans-serif" font-size="47" font-weight="700">${esc(l)}</text>`).join('')}${points.map((p,i)=>`<g transform="translate(${58+i*370},405)"><rect width="345" height="105" rx="12" fill="#193b50"/><circle cx="33" cy="34" r="17" fill="#ffbd7b"/><text x="33" y="40" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#102a43">${i+1}</text><text x="20" y="80" font-family="Arial,sans-serif" font-size="21" fill="white">${esc(p)}</text></g>`).join('')}<text x="58" y="574" fill="#c9dfdf" font-family="Arial,sans-serif" font-size="19">${editorial?'A practical guide · Gasfitter.ca editorial':isCity?'Reference diagram · Not a local project photograph':'Plan the conversation. Confirm the work directly.'}</text></svg>`;
- if(editorial?.slug==='older-boiler-no-heat-burnaby-repair-assessment'){
+ if(editorial?.slug==='bc-heat-pump-gas-furnace-planning'){
+  fs.copyFileSync('public/images/bc-heat-pump-gas-furnace-planning.jpg',path.join(dist,'share',key+'.jpg'));
+ }else if(editorial?.slug==='older-boiler-no-heat-burnaby-repair-assessment'){
   fs.copyFileSync('public/images/burnaby-boiler-service-share.jpg',path.join(dist,'share',key+'.jpg'));
  }else await sharp(Buffer.from(art)).jpeg({quality:88}).toFile(path.join(dist,'share',key+'.jpg'));
  const schema={'@context':'https://schema.org','@type':editorial?'Article':'WebPage',headline:heading,name:heading,description,url:canonical,inLanguage:'en-CA',...(editorial?{datePublished:byline,author:{'@type':'Organization',name:'Gasfitter.ca'},image:share,mainEntityOfPage:canonical}:{})};

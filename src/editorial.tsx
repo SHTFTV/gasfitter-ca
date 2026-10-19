@@ -1,9 +1,11 @@
 import React from 'react';
+import { bcHeatPumpPosts } from './bc-heat-pump';
 import { noHeatPosts } from './no-heat';
 import { firstFrostPosts } from './first-frost';
 import { planningGuides } from './planning-guides';
 
 export const editorialPosts = [
+  ...bcHeatPumpPosts,
   ...noHeatPosts,
   ...firstFrostPosts,
   {
