@@ -6,7 +6,7 @@ import '../markett.css';
 import { editorialPosts } from './editorial';
 import { PlanningVisual } from './planning-visual';
 import { ServiceHero } from './service-hero';
-import { EquipmentBands } from './equipment-bands';
+import { EquipmentBands, EquipmentDetail, equipmentCategories } from './equipment-bands';
 
 const services = [
   ['Gas line installation', 'Planning, sizing and routing information for renovations, additions and new equipment.'],
@@ -52,7 +52,7 @@ const supportPages:Record<string,{title:string,desc:string,sections:[string,stri
 };
 function SupportPage({slug}:{slug:string}){const page=supportPages[slug];return <Layout><main><section className="page-hero"><p className="eyebrow">GAS FITTER CANADA / {slug.replaceAll('-',' ')}</p><h1>{page.title}</h1><p className="lede">{page.desc}</p><PlanningVisual subject={page.title}/></section><section className="support-content">{page.sections.map(([title,text])=><article key={title}><h2>{title}</h2><p>{text}</p></article>)}{slug==='locations'&&<div className="location-directory">{cities.map(([s,c])=><a href={`/${s}/`} key={s}>{c}</a>)}</div>}<p><a href="/blog/">Read the planning guides</a> · <a href="/older-boiler-no-heat-burnaby-repair-assessment/">Read an attributed service example</a></p></section><Contact/></main></Layout>}
 
-export function App({pathName}:{pathName?:string}={}){const path=(pathName??location.pathname).replace(/^\/+|\/+$/g,''); if(path==='blog')return <Blog/>; if(supportPages[path])return <SupportPage slug={path}/>; const editorial=editorialPosts.find(post=>post.slug===path); if(editorial)return <EditorialGuide post={editorial}/>; const city=cities.find(([s])=>s===path); if(city)return <City name={city[1]}/>; return <Home/>}
+export function App({pathName}:{pathName?:string}={}){const path=(pathName??location.pathname).replace(/^\/+|\/+$/g,''); if(equipmentCategories.some(x=>x.id===path))return <Layout><EquipmentDetail id={path}/></Layout>; if(path==='blog')return <Blog/>; if(supportPages[path])return <SupportPage slug={path}/>; const editorial=editorialPosts.find(post=>post.slug===path); if(editorial)return <EditorialGuide post={editorial}/>; const city=cities.find(([s])=>s===path); if(city)return <City name={city[1]}/>; return <Home/>}
 
 if (typeof document !== 'undefined') {
   createRoot(document.getElementById('root')!).render(<App/>);
