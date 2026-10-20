@@ -10,3 +10,24 @@
 
 
 @media(max-width:850px){header{height:auto;min-height:76px;flex-wrap:wrap;gap:8px;padding-top:16px;padding-bottom:8px}header nav{display:flex;flex-wrap:wrap;width:100%;gap:20px;font-size:13px}header nav a{padding:8px 0;min-height:36px}.brand{font-size:14px}}
+
+/* Compact homepage location finder; the complete directory lives on /locations/. */
+.location-finder{max-width:none;background:#e7f3f4;padding:68px max(5vw,24px);scroll-margin-top:100px}
+.location-finder-inner{max-width:1120px;margin:auto;display:grid;grid-template-columns:.85fr 1.15fr;gap:64px;align-items:center}
+.location-finder h2{font-family:Manrope;font-size:clamp(2.4rem,4vw,3.8rem);line-height:1.03;letter-spacing:-.05em;margin:16px 0 18px}
+.location-intro{max-width:32ch;color:#486581;margin:0}
+.location-picker{min-width:0;background:#fff;border:1px solid #c8dddf;border-radius:18px;padding:30px}
+.location-picker label{display:block;font-weight:700;font-size:14px;margin-bottom:12px}
+.location-picker-controls{display:flex;gap:10px}
+.location-picker select{font:inherit;min-width:0;flex:1;width:100%;border:1px solid #9fb8c4;border-radius:8px;padding:13px 12px;color:#102a43;background:#fff}
+.location-picker button{font:inherit;display:inline-flex;align-items:center;justify-content:center;gap:10px;flex-shrink:0;border:0;border-radius:8px;padding:13px 18px;color:#fff;background:#102a43;cursor:pointer;font-weight:700}
+.location-picker button:hover{background:#087e8b}
+.location-picker select:focus-visible,.location-picker button:focus-visible,.location-picker a:focus-visible{outline:3px solid #087e8b;outline-offset:4px}
+.location-shortcuts{display:flex;flex-wrap:wrap;gap:8px 14px;font-size:13px;margin:20px 0;color:#486581}
+.location-shortcuts a{text-decoration:underline;text-underline-offset:3px;color:#102a43}
+.location-directory-link{display:inline-flex;gap:10px;align-items:center;font-size:14px;font-weight:700;color:#087e8b}
+.location-directory{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0 30px;margin:32px 0}
+.location-directory a{padding:13px 0;border-bottom:1px solid #d9e2ec;font-weight:600}
+.location-directory a:hover{color:#087e8b}
+@media(max-width:850px){.location-finder-inner{grid-template-columns:1fr;gap:28px}.location-finder h2 br{display:none}.location-finder{padding-top:48px;padding-bottom:48px}}
+@media(max-width:520px){.location-picker{padding:22px}.location-picker-controls{flex-direction:column}.location-picker button{min-height:48px}.location-directory{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 18px}}
