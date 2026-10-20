@@ -56,7 +56,7 @@ export function ServiceHero() {
       </div>
       <div className="service-hero-shade" />
       <div className="service-hero-copy">
-        <div className="service-hero-logo"><img src="/images/gasfitter-logo-v1.webp" alt="Gasfitter.ca — People Prices Products You Can Trust" width="1463" height="576" fetchPriority="high"/></div>
+        <div className="service-hero-logo"><img src="/images/gasfitter-logo-light-v2.webp" alt="Gasfitter.ca — People Prices Products You Can Trust" width="1463" height="576" fetchPriority="high"/></div>
         <h1>Every connection.<br/><em>More comfort.</em></h1>
         <p className="service-hero-intro">Furnaces, boilers, hot water and the gas connections that bring your home to life.</p>
         <a className="service-hero-cta" href="/#contact">Tell us what you need <ArrowRight size={20} aria-hidden="true"/></a>

@@ -14,3 +14,9 @@
 @media(max-width:650px){.service-hero-stage{min-height:740px;padding-bottom:0}.service-hero-media{inset:0;height:100%;z-index:-1}.service-hero-shade{inset:0;height:100%;z-index:-1;background:linear-gradient(0deg,#081b2bf2,#081b2b66 45%,#081b2b55)}.service-hero-copy{background:none;padding:65px 24px 200px}.service-hero-logo{width:min(390px,88vw);padding:17px 19px;border-radius:13px;margin-bottom:25px}.service-hero h1{font-size:32px;line-height:1.15}.service-hero h1 br{display:block}.service-hero h1 em{margin-left:0}.service-hero-intro{font-size:15px;max-width:32ch}.service-hero-play{top:14px;bottom:auto;right:16px}.service-hero-scene{bottom:90px}.service-hero-credit{bottom:14px}}
 
 .service-hero-logo{background:transparent;box-shadow:none;border-radius:0;padding:0}@media(max-width:650px){.service-hero-logo{padding:0;border-radius:0}}
+
+/* Consistent logo contrast throughout all six moving scenes. */
+.service-hero-shade{background:linear-gradient(180deg,#06111c99 0%,#06111c40 80%),radial-gradient(ellipse at 50% 32%,#06111cb8 0%,#06111c66 42%,transparent 78%)}
+.service-hero-logo{width:min(580px,78vw);filter:drop-shadow(0 3px 5px #000b);margin-bottom:28px}
+.service-hero-copy{padding-top:48px}.service-hero h1{font-weight:700;font-size:clamp(32px,3.5vw,50px);text-shadow:0 2px 12px #0008}.service-hero-intro{text-shadow:0 2px 8px #000;color:#fff}.service-hero-cta{background:#ffad54;box-shadow:0 7px 25px #0004}.service-hero-secondary{text-shadow:0 2px 8px #000}
+@media(max-width:650px){.service-hero-logo{width:min(440px,88vw);margin-bottom:27px}.service-hero-copy{padding-top:70px}.service-hero h1{font-size:34px}.service-hero-shade{background:linear-gradient(180deg,#06111c88,#06111c66 65%,#06111ce6),radial-gradient(ellipse at 50% 28%,#06111c99,transparent 80%)}}
