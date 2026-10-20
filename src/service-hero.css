@@ -12,3 +12,5 @@
 .service-hero h1{font-size:clamp(30px,3.2vw,46px);max-width:none;letter-spacing:-.045em;margin-bottom:12px}.service-hero h1 br{display:none}.service-hero h1 em{margin-left:.18em}
 .service-hero-intro{max-width:48ch;font-size:16px;margin:0 0 8px}.service-hero-secondary{margin-top:15px}
 @media(max-width:650px){.service-hero-stage{min-height:740px;padding-bottom:0}.service-hero-media{inset:0;height:100%;z-index:-1}.service-hero-shade{inset:0;height:100%;z-index:-1;background:linear-gradient(0deg,#081b2bf2,#081b2b66 45%,#081b2b55)}.service-hero-copy{background:none;padding:65px 24px 200px}.service-hero-logo{width:min(390px,88vw);padding:17px 19px;border-radius:13px;margin-bottom:25px}.service-hero h1{font-size:32px;line-height:1.15}.service-hero h1 br{display:block}.service-hero h1 em{margin-left:0}.service-hero-intro{font-size:15px;max-width:32ch}.service-hero-play{top:14px;bottom:auto;right:16px}.service-hero-scene{bottom:90px}.service-hero-credit{bottom:14px}}
+
+.service-hero-logo{background:transparent;box-shadow:none;border-radius:0;padding:0}@media(max-width:650px){.service-hero-logo{padding:0;border-radius:0}}
