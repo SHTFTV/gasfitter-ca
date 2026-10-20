@@ -5,6 +5,33 @@ import { firstFrostPosts } from './first-frost';
 import { planningGuides } from './planning-guides';
 
 export const editorialPosts = [
+  {
+    slug: 'extend-patio-season-gas-heater',
+    title: 'Getting Cold Out? Extend Your Patio Season with the Right Heater',
+    description: 'Keep enjoying your outdoor space: compare patio-heater options, plan a gas connection and check clearances, ventilation and strata approvals before buying.',
+    date: '2026-10-19',
+    image: '/images/patio-heating-guide.svg',
+    body: <>
+      <figure><img src="/images/patio-heating-guide.svg" alt="Gasfitter.ca illustrated patio-heating planning guide" width="1200" height="630" style={{width:'100%',height:'auto',borderRadius:16}}/><figcaption>Patio heating: plan the space, supply and clearances. Concept illustration, not an installation drawing.</figcaption></figure>
+      <p>Getting cold out does not have to mean putting the patio furniture away. A suitable outdoor heater can make a cool evening more comfortable, whether you are sharing dinner, having a coffee or staying outside a little longer. Start with where people sit and how the space is used, then choose equipment suited to that setting.</p>
+      <h2>Heat the seating area you actually use</h2>
+      <p>Bring the contractor photos, approximate patio dimensions and the location of your table or seating. Include the roof, awnings, walls, screens and nearby doors. Ask how the proposed heater will serve the seating area in typical conditions. A large advertised heat output alone does not establish whether a heater will suit your patio.</p>
+      <h2>Portable propane, fixed gas or electric?</h2>
+      <p>A portable propane heater offers flexibility where its instructions and the site allow it, but cylinder storage and handling need a plan. A fixed natural-gas heater needs a suitable gas supply and professional installation. An electric radiant heater may also be worth considering; ask a qualified electrical contractor about the circuit and outdoor installation requirements. Compare the complete installation and operating arrangements rather than just the purchase price.</p>
+      <h2>An existing barbecue outlet is a starting point, not an answer</h2>
+      <p>Do not assume a nearby gas outlet has the capacity or correct connection for another appliance. Give a licensed gas contractor the proposed heater model and the other appliances using the supply. Have them assess capacity, routing, controls and any required changes. Avoid improvised adapters or attempting a fuel conversion yourself.</p>
+      <h2>A covered patio needs particular attention</h2>
+      <p>Outdoor gas heaters belong outdoors. Adding glazing, screens or temporary walls can change whether a space is suitable. Do not use an outdoor patio heater in a garage or enclosed room. Follow the specific appliance instructions for ventilation, mounting and clearance from furniture, roofing and other combustible materials; there is no single clearance suitable for every heater.</p>
+      <p>Technical Safety BC explains the fire and carbon monoxide risks of incorrect patio-heater use in its <a href="https://blog.technicalsafetybc.ca/warming-patio-heaters-what-british-columbians-need-know-stay-safe?hs_amp=true">patio-heater safety guide</a>. Its <a href="https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-gas-fired-heaters-used-indoors">gas-fired heater bulletin</a> addresses covered and partially enclosed spaces. Have the actual setting assessed before choosing equipment.</p>
+      <h2>For strata patios and commercial spaces, ask first</h2>
+      <p>Check applicable strata bylaws and obtain any necessary written approval before ordering equipment or changing shared building elements. For a restaurant or other business, confirm local patio and fire requirements as well as the installation scope. Ask the contractor which authority handles the address and who arranges required permits. Technical Safety BC’s <a href="https://www.technicalsafetybc.ca/technologies/gas/installation-permits">gas permit guidance</a> is a useful starting point in BC.</p>
+      <h2>Get a quote that covers the whole project</h2>
+      <ul><li>The selected heater model, fuel and intended position.</li><li>Supply assessment, piping or electrical work and installation.</li><li>Mounting, access and any building repairs outside the heater installation.</li><li>Permit responsibilities, commissioning and operating instructions.</li><li>Maintenance, warranty terms and any exclusions.</li></ul>
+      <p>Send your city, patio photos and the heater model you are considering to <a href="mailto:colin@gasfitter.ca?subject=Patio%20heater%20project">Colin at Gasfitter.ca</a> to start the conversation. Confirm the contractor, scope, price and availability directly before booking.</p>
+      <p>Next: <a href="/compare-gas-fitting-quotes-bc/">compare gas-fitting quotes</a> and <a href="/gas-work-handover-records-bc/">know which records to keep after installation</a>.</p>
+    </>
+  },
+
   ...bcHeatPumpPosts,
   ...noHeatPosts,
   ...firstFrostPosts,
