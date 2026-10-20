@@ -35,7 +35,7 @@ export function ServiceHero() {
     const video = videoRef.current;
     if (video && video.readyState >= 1) {
       video.pause();
-      video.currentTime = index * 4 + 0.1;
+      video.currentTime = index * 4 + 0.6;
     }
   };
   const toggle = () => {
