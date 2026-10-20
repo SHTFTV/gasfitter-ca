@@ -4,9 +4,9 @@ export function planningPoints(subject:string):[string,string,string] {
  if(/quot|contractor|hire/i.test(subject))return ['Written scope','Contractor credentials','Exclusions & records'];
  if(/alarm|carbon monoxide/i.test(subject))return ['Alarm instructions','Emergency response','Professional follow-up'];
  if(/handover|record/i.test(subject))return ['Equipment details','Completion documents','Maintenance record'];
- if(/vent/i.test(subject))return ['Appliance instructions','Venting assessment','Clearances & access'];
- if(/fireplace|maintenance|repair/i.test(subject))return ['Appliance & history','Service assessment','Findings & next steps'];
- if(/underground|gas line|capacity/i.test(subject))return ['Appliance demand','Route & site constraints','Qualified assessment'];
+ if(/vent/i.test(subject))return ['Equipment instructions','Venting assessment','Clearances & access'];
+ if(/fireplace|maintenance|repair/i.test(subject))return ['Equipment & history','Service assessment','Findings & next steps'];
+ if(/underground|gas line|capacity/i.test(subject))return ['Equipment demand','Route & site constraints','Qualified assessment'];
  return ['Your project brief','Local requirements','Qualified assessment'];
 }
 
