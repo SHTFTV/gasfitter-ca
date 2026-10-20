@@ -20,3 +20,9 @@
 .service-hero-logo{width:min(580px,78vw);filter:drop-shadow(0 3px 5px #000b);margin-bottom:28px}
 .service-hero-copy{padding-top:48px}.service-hero h1{font-weight:700;font-size:clamp(32px,3.5vw,50px);text-shadow:0 2px 12px #0008}.service-hero-intro{text-shadow:0 2px 8px #000;color:#fff}.service-hero-cta{background:#ffad54;box-shadow:0 7px 25px #0004}.service-hero-secondary{text-shadow:0 2px 8px #000}
 @media(max-width:650px){.service-hero-logo{width:min(440px,88vw);margin-bottom:27px}.service-hero-copy{padding-top:70px}.service-hero h1{font-size:34px}.service-hero-shade{background:linear-gradient(180deg,#06111c88,#06111c66 65%,#06111ce6),radial-gradient(ellipse at 50% 28%,#06111c99,transparent 80%)}}
+
+/* Animate only the original orange flame, leaving the wordmark steady. */
+.service-hero-logo{position:relative}.service-hero-logo .service-logo-flame{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;clip-path:polygon(62% 0,81% 0,81% 43%,62% 43%);transform-origin:71.5% 39%;animation:gas-logo-flicker 1.7s ease-in-out infinite;pointer-events:none}
+@keyframes gas-logo-flicker{0%,100%{transform:scale(1,1) skewX(0deg);filter:brightness(1.04) drop-shadow(0 0 4px #ff931955)}22%{transform:scale(1.015,1.045) skewX(-1deg);filter:brightness(1.2) drop-shadow(0 0 9px #ff9319bb)}43%{transform:scale(.995,1.01) skewX(.8deg);filter:brightness(1.06) drop-shadow(0 0 5px #ff931977)}68%{transform:scale(1.02,1.065) skewX(-.7deg);filter:brightness(1.25) drop-shadow(0 0 12px #ffb54fcc)}84%{transform:scale(1.005,1.025) skewX(.5deg);filter:brightness(1.12) drop-shadow(0 0 6px #ff931988)}}
+.service-hero:has(.service-hero-play[aria-label="Play service video"]) .service-logo-flame{animation-play-state:paused}
+@media(prefers-reduced-motion:reduce){.service-hero-logo .service-logo-flame{animation:none;filter:none}}
