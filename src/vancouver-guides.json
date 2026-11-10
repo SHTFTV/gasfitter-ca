@@ -1,5 +1,149 @@
 [
   {
+    "slug": "kitsilano-gas-bbq-planning-first-site-visit",
+    "title": "Kitsilano Gas BBQ Planning: Before the First Site Visit",
+    "description": "Planning a gas BBQ in Kitsilano? Prepare model and fuel records, shared-supply questions, a route sketch and a clear scope for the first contractor assessment.",
+    "date": "2026-11-10",
+    "publishedAt": "2026-11-10T17:31:16.721878+00:00",
+    "image": "/images/vancouver-lmr-planner.png",
+    "imageAlt": "Gasfitter.ca branded gas-line sketch planner used to prepare appliance and route information",
+    "imageCredit": "Original screenshot of Gasfitter.ca\u2019s own planning tool; not a Kitsilano property, barbecue product or completed installation photograph.",
+    "useOriginalImage": true,
+    "intro": [
+      "Before adding a natural-gas barbecue at a Kitsilano property, identify the exact appliance and fuel, describe the proposed location, and ask a qualified gas contractor to assess the existing supply and complete project scope. An existing outdoor outlet or a short-looking route does not establish compatibility or spare capacity. Gasfitter.ca\u2019s sketch planner can organize appliance inputs, shared branches and entered measurements for that conversation. It cannot approve a connection, choose a pipe diameter or certify the installation.",
+      "This guide is about preparing a useful first assessment, rather than performing gas work. Its focus is the decision between reusing an existing arrangement, changing a connection and planning an outdoor cooking area from the beginning. Those are different enquiries. Giving the contractor a clear description before ordering equipment helps avoid treating a product purchase as approval for the work that surrounds it. The neighbourhood identifies the project location; it does not tell us what piping or equipment is installed at your address."
+    ],
+    "sections": [
+      {
+        "heading": "Define the barbecue project before choosing the appointment",
+        "paragraphs": [
+          "Write one sentence describing the proposed change. For example: \u201cWe want to replace our current barbecue and ask whether the existing outdoor gas arrangement is suitable for the proposed model.\u201d Another project might be: \u201cWe want a new outdoor kitchen and need the gas scope assessed before the patio design is finalized.\u201d These are illustrative briefs, not reported customer jobs. The first centres on existing equipment and compatibility; the second introduces route, construction and coordination questions.",
+          "Identify whether you have already bought the appliance, are comparing models or are only exploring the idea. Include your preferred timing, but distinguish a hoped-for completion date from an agreed appointment. If the project depends on another contractor\u2019s work, explain that dependency. The assessor can then tell you whether an initial document review, photographs or a site visit would be the appropriate next step. Do not book a simple connection service when your actual request includes unknown supply changes."
+        ]
+      },
+      {
+        "heading": "Confirm the exact fuel and model",
+        "paragraphs": [
+          "A grill\u2019s name, colour or burner count is not enough to identify its fuel configuration. Use the model number, the actual fuel designation and the applicable manufacturer documentation. Keep a retailer\u2019s description separate from the equipment\u2019s identifying record. If an appliance is second-hand, explain what documentation came with it and what remains uncertain. A seller\u2019s statement that a grill \u201cshould work with house gas\u201d is a question to investigate, not a compatibility finding you should put into the brief as fact.",
+          "Weber\u2019s Canadian guidance is one manufacturer-specific example: it explains that its North American gas grills are designed for their specified fuel and says it does not allow conversions or provide conversion kits. Do not generalize that statement into a conversion policy for every brand. Check the exact manufacturer and model before purchase. This article provides no fuel-conversion procedure, connector selection or instructions for modifying a grill. The important preparation task is to obtain reliable identification and ask the right compatibility question."
+        ]
+      },
+      {
+        "heading": "Describe the actual property and who can authorize work",
+        "paragraphs": [
+          "Say whether the proposed barbecue belongs to a detached-home project, a rental property, an individual strata unit or another arrangement. Identify the person who can approve the work and coordinate access. Where more than one owner or manager is involved, distinguish a conversation about the idea from permission to alter the property. A contractor\u2019s ability to assess gas equipment does not establish that the proposed outdoor use has been accepted by the people responsible for the building.",
+          "The City of Vancouver identifies Kitsilano as a city neighbourhood. That location gives the enquiry useful geographic context, but it does not establish a particular building type, installation date or available contractor. Describe your actual space rather than assuming a neighbourhood guide represents your property. For a strata or rented property, ask the responsible manager which property documents or permissions are needed. Keep those questions separate from the technical assessment and from any application the permit authority may require."
+        ]
+      },
+      {
+        "heading": "Show the proposed cooking location without designing the installation",
+        "paragraphs": [
+          "A simple overview photograph or annotated drawing can explain where you hope to place the grill and how the surrounding space will be used. Identify fixed features that are relevant to the conversation, such as a wall, access path, proposed counter or planned enclosure. Describe features as observations rather than declaring that they meet the appliance\u2019s requirements. The assessor and applicable manufacturer documents must establish the suitability of the intended arrangement; a convenient-looking location is not a completed design.",
+          "If the patio design is still changing, show the alternatives instead of presenting one position as final. Tell the contractor which elements are movable and which construction decisions have already been made. Do not publish a universal clearance distance copied from a different appliance, and do not treat a photograph as a measurement. The useful outcome of this preparation is a shared understanding of the proposal and the remaining questions, not an instruction to position or connect the equipment yourself."
+        ]
+      },
+      {
+        "heading": "Include the other appliances on the supply being assessed",
+        "paragraphs": [
+          "The proposed barbecue is one part of the system question. List the appliances you know are connected to the gas supply being discussed, and separate existing equipment from future ideas. The furnace, water heater, range or fireplace might be relevant to that review, but do not draw a shared connection unless you know it exists. If you are unsure which appliances share a branch or meter, mark that uncertainty. An honest incomplete list gives the contractor a clear identification task.",
+          "Use actual gas input information when it is available in an appropriate record. Do not fill the barbecue entry with a familiar number from another model. The planner totals the inputs you enter and identifies unknown entries, so a missing value remains visible. A complete-looking total built from assumed loads is less useful than a partial total with a precise explanation of what still needs confirmation. Keep the record that supplied each value with the corresponding appliance name and fuel."
+        ]
+      },
+      {
+        "heading": "Use the sketch to separate shared sections from appliance branches",
+        "paragraphs": [
+          "In the planner, start with the supply symbol and add junctions only where you can describe the intended or known arrangement. Each appliance has a connection to an upstream item and a measured section length. A shared section can serve more than one downstream appliance. This makes the sketch useful for explaining why the barbecue question may involve more than the last piece of pipe beside the patio. The drawing still needs professional interpretation before it represents an assessed installation.",
+          "An original software example illustrates the distinction without prescribing equipment loads: imagine a measured shared section followed by separate routes to a range and a proposed barbecue. If you change the barbecue branch length, its route total changes. That does not change the range\u2019s entered branch length, and it does not tell you the shared section\u2019s approved capacity. Keep route measurements, appliance input and the suitability decision as separate pieces of information. The website performs the first bookkeeping tasks; it does not perform the final approval."
+        ]
+      },
+      {
+        "heading": "Record lengths consistently and leave hidden routes unknown",
+        "paragraphs": [
+          "A preliminary measurement should say what it includes. The planner has a section-length field and a separate additional-vertical-distance field. Add a vertical distance separately only if it is not already included in the section measurement. Otherwise the same distance could be counted twice. Where an existing route is concealed or uncertain, leave the measurement blank and describe the gap. Do not open a wall, disturb equipment or expose a buried service merely to complete a website form.",
+          "Moving a symbol on the sketch changes the presentation, not the entered distance. That is helpful when several branches overlap visually: you can spread the drawing out without pretending the physical route has changed. Use understandable labels such as \u201cexisting range\u201d and \u201cproposed BBQ,\u201d and keep proposed junctions distinguishable from confirmed ones in the notes. Ask the contractor what measurements are necessary for the next stage rather than spending time making an attractive drawing that conceals the important unknowns."
+        ]
+      },
+      {
+        "heading": "Keep pressure and meter records separate from spare-capacity claims",
+        "paragraphs": [
+          "If you have confirmed supply information, record the pressure together with its unit and source. If it is unknown, leave it unknown. The planner can retain pressure in inches of water column, psi or kilopascals as an entered record. It does not calculate a permissible pressure drop, decide where pressure zones begin or establish the correct assessment method for the project. Do not adjust a regulator or undertake a gas-pressure test in order to answer a preparation question.",
+          "The same distinction applies to a meter rating. A label or an old document is information to review, not an automatic declaration of capacity available for another appliance. The planner does not silently convert a flow rating into a gas input or subtract connected loads to approve the addition. Ask who will confirm the service arrangement and whether utility involvement is needed. Save that response with the brief so a later reader can distinguish a confirmed finding from the original question."
+        ]
+      },
+      {
+        "heading": "Check the Vancouver permit route for the actual scope",
+        "paragraphs": [
+          "The City of Vancouver states that new natural-gas installations and alterations require a gas permit and explains the installations it administers. Its guidance also identifies circumstances involving Technical Safety BC. An enquiry about an existing barbecue arrangement should therefore describe whether piping, equipment or other regulated work would change. Do not assume that buying a portable grill, replacing an appliance and installing a new outdoor connection are the same permit question. Ask the responsible authority or contractor about the proposed scope.",
+          "Assign permit responsibility explicitly when work is agreed. Record which business is obtaining any required permit, what the accepted scope covers and which completion documents will be provided. The official process and the property\u2019s authorization arrangements address different questions; one does not replace the other. This guide does not determine applicant eligibility or promise a particular application outcome. Follow the current official guidance for the installation rather than relying on a neighbourhood article as if it were an approval issued for your address."
+        ]
+      },
+      {
+        "heading": "Ask for an assessment scope before comparing prices",
+        "paragraphs": [
+          "FortisBC\u2019s contractor guidance recommends looking for licensed, appropriately qualified contractors and checking the contents of a quotation. Use its current page as a starting resource, then ask the business about the particular equipment and work you are proposing. A directory entry or a published guide does not guarantee availability, insurance status at a later date or acceptance of the job. Confirm the business, relevant qualifications and intended assessment directly before treating an enquiry as an arrangement.",
+          "When you receive proposals, compare what each includes. Does the visit cover the existing supply as well as the barbecue location? Are equipment identification, route assessment and any utility question included or left for another stage? Who handles access, finishing work and changes if the selected appliance is different? A lower price for a narrower task is not necessarily a competing price for the complete proposal. Ask for the assumptions and exclusions in writing so the comparison remains understandable later."
+        ]
+      },
+      {
+        "heading": "Coordinate the patio project and keep a clear handover",
+        "paragraphs": [
+          "For an outdoor-kitchen project, agree when the gas assessment needs to happen relative to counters, landscaping, surface repairs and other work. A finished design may still need revision if an important supply or equipment question was left open. Tell the people coordinating the project which decisions remain provisional. Do not authorize excavation or hide a route under completed finishes on the strength of a preliminary sketch. The purpose of the early conversation is to identify the decisions that need qualified review first.",
+          "After the scope is agreed and work is completed, retain the equipment documentation and the records supplied by the responsible contractor. Keep outstanding questions visible rather than interpreting a paid invoice as proof that every related project issue has been resolved. If a later appliance change is proposed, return to the actual model and scope before assuming the previous assessment applies. A useful handover explains what was done, what information was confirmed and whom to contact about an unresolved point."
+        ]
+      },
+      {
+        "heading": "Prepare a concise first enquiry",
+        "paragraphs": [
+          "Your first message can identify Kitsilano as the project area, describe the property arrangement and state whether you are replacing a barbecue or planning a new connection. Include the exact proposed model and fuel if known, the stage of the purchase decision, and the principal question you want assessed. Attach an exported sketch only when it helps explain that question. Do not send access codes, account credentials or unrelated household records as part of a general equipment enquiry.",
+          "Keep a copy of what you sent and of the response. A request for additional information, an offered appointment and a confirmed scope are different stages. If the project changes, update the brief rather than leaving the contractor to reconcile conflicting versions. The best result of preparation is a specific next action: obtain the missing model record, clarify the intended route, arrange the appropriate assessment or revise the proposed equipment. That is more useful than an immediate answer to a question that has not yet been defined."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I use a propane barbecue on a natural-gas connection?",
+        "answer": "Do not assume compatibility. Identify the exact appliance fuel and follow its manufacturer\u2019s applicable guidance. Weber\u2019s cited policy does not allow fuel conversions for its North American grills. Other brands require their own model-specific review; this guide provides no conversion instructions."
+      },
+      {
+        "question": "Does an existing barbecue outlet mean a replacement will fit?",
+        "answer": "No. The existing arrangement, proposed appliance and relevant installation requirements need assessment. A visible outlet does not establish fuel compatibility, supply capacity, connection suitability or the condition of components that have not been evaluated."
+      },
+      {
+        "question": "Can the planner approve spare capacity for my BBQ?",
+        "answer": "No. It organizes entered routes, known appliance inputs and supply records. It does not choose pipe sizes, calculate an approved pressure drop or certify meter capacity. Give the exported brief to the qualified professional assessing the actual system."
+      },
+      {
+        "question": "Does a Kitsilano address change the technical sizing rules?",
+        "answer": "The neighbourhood name identifies the project area, not the installed system or a separate approval. The applicable requirements depend on the actual equipment, property, scope and responsible authority. Use current City of Vancouver guidance for the permit question."
+      },
+      {
+        "question": "What if I do not know the gas input or route length?",
+        "answer": "Leave the field blank and explain what remains unknown. The planner can show an incomplete route or unknown appliance input. Ask which information is needed next instead of guessing a value or disturbing concealed equipment to complete the sketch."
+      }
+    ],
+    "sources": [
+      {
+        "label": "City of Vancouver: gas permits",
+        "url": "https://vancouver.ca/home-property-development/gas-permit.aspx"
+      },
+      {
+        "label": "City of Vancouver: Kitsilano neighbourhood",
+        "url": "https://vancouver.ca/news-calendar/kitsilano.aspx"
+      },
+      {
+        "label": "FortisBC: tips for hiring a contractor",
+        "url": "https://www.fortisbc.com/build-renovate/find-a-contractor/tips-for-hiring-a-contractor"
+      },
+      {
+        "label": "Weber Canada: manufacturer policy on fuel conversion",
+        "url": "https://www.weber.com/CA/en/blog/burning-questions/can-i-convert-my-gas-grill/weber-29870.html"
+      }
+    ],
+    "bodyWordCount": 2271,
+    "contentOrigin": "original-tool-guide",
+    "rightsEvidence": "Publisher-owned tool screenshot retained from verified production QA; no third-party product or property imagery."
+  },
+  {
     "slug": "vancouver-gas-fitter-longest-measured-run-stove-bbq-pool-heater",
     "title": "Vancouver Gas Fitter: Longest Measured Run Guide",
     "description": "Prepare a Vancouver gas-project brief before adding a stove, BBQ or pool heater: longest measured run, appliance loads, meter records and local permit questions.",
