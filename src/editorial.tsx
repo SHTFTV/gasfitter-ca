@@ -1,10 +1,22 @@
 import React from 'react';
+import vancouverGuides from './vancouver-guides.json';
 import { bcHeatPumpPosts } from './bc-heat-pump';
 import { noHeatPosts } from './no-heat';
 import { firstFrostPosts } from './first-frost';
 import { planningGuides } from './planning-guides';
 
 export const editorialPosts = [
+  ...vancouverGuides.map(guide => ({
+    ...guide,
+    body: <><figure><img src={guide.image} alt={guide.imageAlt} width="1280" height="720" style={{width:'100%',height:'auto',borderRadius:16}}/><figcaption>{guide.imageCredit}</figcaption></figure>
+      {guide.intro.map(p=><p key={p}>{p}</p>)}
+      <p><a href="/gas-line-planner/">Open the gas-line sketch planner →</a></p>
+      {guide.sections.map(section=><React.Fragment key={section.heading}><h2>{section.heading}</h2>{section.paragraphs.map(p=><p key={p}>{p}</p>)}</React.Fragment>)}
+      <h2>Frequently asked questions</h2>{guide.faqs.map(faq=><React.Fragment key={faq.question}><h3>{faq.question}</h3><p>{faq.answer}</p></React.Fragment>)}
+      <h2>Sources and next steps</h2><ul>{guide.sources.map(source=><li key={source.url}><a href={source.url}>{source.label}</a></li>)}</ul>
+      <p><a href="/gas-line-planner/">Prepare your sketch</a> · <a href="/compare-gas-fitting-quotes-bc/">Compare gas-fitting quotes</a> · <a href="/gas-work-handover-records-bc/">Keep handover records</a></p>
+    </>
+  })),
   {
     slug: "fireplace-service-enquiry-observations-records",
     title: "Before a Fireplace Service Enquiry: Separate Observations from Diagnosis",

@@ -1,0 +1,135 @@
+[
+  {
+    "slug": "vancouver-gas-fitter-longest-measured-run-stove-bbq-pool-heater",
+    "title": "Vancouver Gas Fitter: Longest Measured Run Guide",
+    "description": "Prepare a Vancouver gas-project brief before adding a stove, BBQ or pool heater: longest measured run, appliance loads, meter records and local permit questions.",
+    "date": "2026-11-09",
+    "publishedAt": "2026-11-09T21:44:43-08:00",
+    "image": "/images/vancouver-lmr-planner.png",
+    "imageAlt": "Gasfitter.ca national sketch planner showing the publisher logo and project-planning introduction",
+    "imageCredit": "Original screenshot of Gasfitter.ca\u2019s own planning tool; not an installation photograph.",
+    "useOriginalImage": true,
+    "intro": [
+      "A longest measured run sketch helps a Vancouver gas contractor understand the measured route from the gas supply to the appliances. It also helps you list the equipment you already have and the appliances you want to add. It does not establish that an existing pipe or meter has enough capacity. Use Gasfitter.ca\u2019s sketch planner to organize the information, then ask the contractor to confirm the supply arrangement, applicable sizing method and permit responsibilities for the actual property.",
+      "This guide follows a practical question: what changes when a stove, barbecue or pool heater joins an existing gas system? The answer starts with the whole connected arrangement, not only the distance to the new appliance. A clear sketch can reveal missing measurements, shared branches and unknown appliance inputs before those gaps turn into assumptions in a quote. You do not need to inspect hidden components or operate equipment differently to prepare that first conversation."
+    ],
+    "sections": [
+      {
+        "heading": "What longest measured run means in this planner",
+        "paragraphs": [
+          "The planner follows each connected path from the meter symbol to an appliance symbol. It adds the section lengths you enter along that path, including an additional vertical distance when you enter one separately. When every appliance path has complete measurements and connections, it highlights the longest entered route. Moving a symbol across the screen changes the drawing, not the measured length. The sketch is a communication tool rather than a scaled survey.",
+          "The words \u201clongest measured run\u201d also belong in professional sizing discussions, where the applicable method and documentation matter. Do not assume that the longest line highlighted by a website is automatically the final length a contractor will use for every calculation. Regulators, different materials, fittings and other project details can affect the assessment. Ask which method applies and what additional information it requires. Keep the contractor\u2019s completed assessment separate from your preliminary entered measurements."
+        ]
+      },
+      {
+        "heading": "Start with the existing system, not just the addition",
+        "paragraphs": [
+          "Before drawing the proposed barbecue connection, make an equipment list for the property. Include the furnace, boiler, water heater, fireplace, cooking equipment and any outdoor appliances that are actually connected to the system being discussed. Record proposed equipment separately so the person reviewing the brief can tell what exists and what is only planned. If you are unsure whether an appliance shares that supply, leave the question visible instead of drawing a connection as a fact.",
+          "For each appliance, use the gas input stated in an applicable record or a safely accessible nameplate. The planner accepts BTU per hour. Do not substitute the heating output, a familiar number from another model, or the electrical rating of a generator. Where a value is unknown, leave it blank. The summary distinguishes known inputs from missing inputs, which is more useful than a seemingly complete total built from guesses. Keep the source document with the equipment name."
+        ]
+      },
+      {
+        "heading": "An example of two appliances sharing a branch",
+        "paragraphs": [
+          "The planner\u2019s illustrative example has a twenty-foot section from the meter to a junction. One appliance then has a fifteen-foot section plus five feet of additional vertical distance. Its total entered route is forty feet. A second appliance has a twenty-five-foot section after the same junction, giving a forty-five-foot route. The longer entered route is therefore forty-five feet. These values demonstrate the software; they are not measurements from a Vancouver installation.",
+          "The example furnace input is sixty thousand BTU per hour and the example range input is forty thousand. The known total is one hundred thousand BTU per hour. The shared upstream branch serves both example loads, while each downstream section serves its own appliance. This explains why looking only at the new appliance\u2019s individual branch can miss an important part of the conversation. None of those example numbers recommends a pipe diameter, a meter model or a permissible addition."
+        ]
+      },
+      {
+        "heading": "Adding a gas stove or range",
+        "paragraphs": [
+          "For a stove replacement or kitchen renovation, begin with the exact proposed model, fuel and installation documentation. Record whether the appliance is replacing existing equipment or creating a new connection. Identify the intended location on the sketch and describe any change from the current position. A similar cabinet opening or a visually similar appliance does not prove that the existing gas connection, supply arrangement or surrounding installation can be reused without assessment.",
+          "Keep the kitchen project coordinated with the other work. Ask who will assess the gas scope, who will handle any associated electrical or ventilation questions, and when the relevant trades need access. The sketch can show the intended appliance position and the measured route information you already have. It cannot confirm clearances, ventilation suitability or a compliant connection. Do not disconnect a stove, move a live connection or expose concealed piping simply to complete the drawing."
+        ]
+      },
+      {
+        "heading": "Adding a barbecue or outdoor kitchen",
+        "paragraphs": [
+          "A barbecue proposal should identify the actual appliance and whether you are planning a fixed gas connection, a replacement or a different outdoor arrangement. Add its proposed location to the sketch and explain how the outdoor space will be used. Include other proposed gas equipment so the reviewer sees the complete plan. A barbecue symbol is a useful reminder to discuss the equipment; it is not approval for a connector, outlet, location or installation method.",
+          "If the route passes through a finished garden, patio or another building area, describe the surfaces and the planned construction sequence. Ask the contractor which measurements and route records are needed before landscaping or finishing decisions are made. Do not treat an old drawing as confirmation of the current buried route. A useful early brief identifies uncertainties and assigns the next assessment step. It should not encourage digging, uncovering services or choosing underground materials without the appropriate professional process."
+        ]
+      },
+      {
+        "heading": "Adding a pool heater",
+        "paragraphs": [
+          "A pool heater deserves its own appliance entry and its actual nameplate gas input. Do not give it the value used for a barbecue, fireplace or another pool heater merely because the equipment appears similar. Record the exact proposed model and fuel, whether this is a replacement or a new installation, and the location of the equipment area. If the equipment has not been selected, say that the appliance input remains unknown rather than entering a purchasing estimate as a verified load.",
+          "Describe what else is changing around the pool project. The contractor may need to coordinate the gas assessment with the equipment installer and other responsible trades. Keep the supply question separate from water-side connections, electrical work, access and manufacturer installation requirements. A pool-heater entry can change the total known demand in your brief, but that change does not establish that the present meter or shared piping can support it. Ask for the complete supply assessment before assuming the addition is straightforward."
+        ]
+      },
+      {
+        "heading": "Record pressure and meter information without assuming approval",
+        "paragraphs": [
+          "The national planner includes fields for gas type, recorded supply pressure, pressure unit, recorded meter rating and meter-rating unit. These fields preserve information in the brief. They do not calculate an approved pressure drop or available meter capacity. Enter a value only when you have an appropriate existing record or confirmation, and keep the associated unit. A number without its unit or rating conditions can create a different question from the one you intended to answer.",
+          "A meter rating in cubic feet per hour is not automatically interchangeable with an appliance input in BTU per hour. The planner deliberately does not assume a conversion or subtract your total from a meter label to announce spare capacity. Ask the utility or contractor to confirm what the recorded rating means for the actual service arrangement. Leave pressure unknown when it is unknown; do not adjust a regulator or perform a pressure test to fill in the form."
+        ]
+      },
+      {
+        "heading": "A Vancouver address needs a Vancouver permit check",
+        "paragraphs": [
+          "The City of Vancouver publishes its own gas-permit guidance and describes which installations fall within its administration and which require Technical Safety BC involvement. Confirm the responsible authority for the actual installation rather than assuming every British Columbia project follows the same application route. The City\u2019s guidance also explains applicant eligibility and its inspection process. Use the current official page and ask the contractor to identify who will obtain the required permit and retain the completion records.",
+          "The neighbourhood name is useful for describing the project location, access and the scope of an enquiry. It does not create a separate technical rule or establish the age, condition or capacity of a particular property. A Kitsilano address does not tell us what piping is installed. A Kerrisdale address does not prove that a pool heater is appropriate. We use local guides to organize real questions, while the actual building, equipment and responsible authority determine the project assessment."
+        ]
+      },
+      {
+        "heading": "Measure consistently and leave uncertain sections visible",
+        "paragraphs": [
+          "For a preliminary sketch, label each section so another person can understand what your measurement represents. The planner provides a section-length field and an additional vertical-distance field. Enter vertical distance separately only when it has not already been included in the section length. Otherwise the same distance can be counted twice. If you cannot establish part of a route from available information, leave that section unknown and tell the reviewer why. Incomplete is an honest and useful result.",
+          "A drawing position is not a measurement. Dragging an appliance closer to the meter makes the page easier to read but should not shorten the route total. Use labels that distinguish existing and proposed appliances, and keep junctions understandable. Where a regulator appears in the sketch, retain the pressure-zone question for professional review. The current tool does not calculate fitting allowances, choose material-specific tables or certify that your chosen drawing connections reproduce the installed system."
+        ]
+      },
+      {
+        "heading": "Save a brief that another person can actually review",
+        "paragraphs": [
+          "Download an editable JSON plan when you want to preserve the nodes, entered measurements and supply records for another session. Download the text brief when you want a readable summary of the appliance list and entered routes. The print option can help you prepare a document for discussion. These actions do not send an enquiry or upload your floor-plan image. A restored plan needs its optional floor-plan image selected again, so retain the original image privately if you need it later.",
+          "Before sending anything, check the recipient and remove information that is unnecessary for an initial enquiry. Include your city, the equipment under consideration and the question you want answered. Ask which documents or photographs the contractor needs next instead of circulating every household record. An exported sketch is supporting material, not a booking, accepted quote or approved installation design. Save the response with the original brief so later decisions can be traced to what was actually confirmed."
+        ]
+      },
+      {
+        "heading": "What a useful contractor response should clarify",
+        "paragraphs": [
+          "A good next conversation should identify the equipment and property being assessed, the remaining information needed, and the scope of any site visit. Ask whether the review covers the shared gas system as well as the proposed branch. Clarify who will address utility or meter questions, permit responsibility, relevant manufacturer documents and records at completion. The initial response may legitimately ask for more information. That is preferable to a confident conclusion based on an incomplete sketch or assumed appliance inputs.",
+          "When comparing proposals, compare the assessment and work included rather than treating every price as the same service. Record exclusions, access needs, finishing responsibilities and the handling of changes. If you later choose a different appliance, send the revised model information and ask whether the earlier assessment still applies. Keep the sketch\u2019s original assumptions visible. The purpose of the preparation is to make the professional decision clearer, not to force the equipment into an answer obtained before the project was understood."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I add a stove, barbecue and pool heater to one sketch?",
+        "answer": "Yes. Give each appliance a separate entry, connect it to the appropriate proposed branch and enter its actual gas input when known. The tool totals known loads and entered routes. It does not approve their combined demand for the existing supply."
+      },
+      {
+        "question": "Does the longest route tell me which pipe size to buy?",
+        "answer": "No. It is one part of the information a professional may need. The actual sizing method also depends on the supply arrangement and applicable material and installation requirements. The planner does not select a pipe size or provide purchasing instructions."
+      },
+      {
+        "question": "Is the biggest entered appliance necessarily the longest run?",
+        "answer": "No. Appliance input and route length describe different things. A high-input appliance may have a short route, while another appliance may sit at the end of the longest entered path. Keep both the measured paths and the known inputs in the brief."
+      },
+      {
+        "question": "Does selecting British Columbia confirm Vancouver compliance?",
+        "answer": "No. Province selection records location. It does not select a code edition, identify the permit authority for every installation or certify compliance. Check current City of Vancouver and Technical Safety BC information with the professional responsible for your project."
+      },
+      {
+        "question": "Can I use this tool before I have every measurement?",
+        "answer": "Yes. Leave unknown measurements or inputs blank and use the sketch to show what still needs clarification. An incomplete-route message is preferable to inventing a length. Save the brief and ask which missing information is needed for the next assessment stage."
+      }
+    ],
+    "sources": [
+      {
+        "label": "City of Vancouver: get a gas permit",
+        "url": "https://vancouver.ca/home-property-development/gas-permit.aspx"
+      },
+      {
+        "label": "Technical Safety BC: gas installation permits",
+        "url": "https://www.technicalsafetybc.ca/technologies/gas/installation-permits"
+      },
+      {
+        "label": "City of Vancouver: areas of the city",
+        "url": "https://vancouver.ca/news-calendar/areas-of-the-city.aspx"
+      }
+    ],
+    "bodyWordCount": 2056,
+    "contentOrigin": "original-tool-guide",
+    "rightsEvidence": "Original publisher-owned tool screenshot captured during live production QA; no external property/manufacturer imagery."
+  }
+]

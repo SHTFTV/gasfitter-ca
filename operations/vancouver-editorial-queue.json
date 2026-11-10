@@ -1,0 +1,199 @@
+{
+  "site": "gasfitter.ca",
+  "timezone": "America/Los_Angeles",
+  "cadence": "one guide daily at 09:00 via Codex automation",
+  "automationId": "publish-daily-vancouver-gas-guide",
+  "minimumBodyWords": 2000,
+  "minimumIsNotPermissionToPad": true,
+  "noInventedLocalFacts": true,
+  "neighbourhoodAuthority": "https://vancouver.ca/news-calendar/areas-of-the-city.aspx",
+  "published": [
+    {
+      "slug": "vancouver-gas-fitter-longest-measured-run-stove-bbq-pool-heater",
+      "date": "2026-11-09",
+      "bodyWords": 2056
+    }
+  ],
+  "queue": [
+    {
+      "order": 1,
+      "neighbourhood": "Kitsilano",
+      "topic": "Adding a gas BBQ: appliance records, shared branches and the first site visit",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 2,
+      "neighbourhood": "Kerrisdale",
+      "topic": "Planning a pool-heater addition without assuming spare meter capacity",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 3,
+      "neighbourhood": "Mount Pleasant",
+      "topic": "Moving a gas stove during a kitchen renovation: coordinating the brief",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 4,
+      "neighbourhood": "Grandview-Woodland",
+      "topic": "Adding a gas dryer: separate appliance inputs and shared-system questions",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 5,
+      "neighbourhood": "Dunbar-Southlands",
+      "topic": "Outdoor kitchen planning before patio finishes are chosen",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 6,
+      "neighbourhood": "Fairview",
+      "topic": "A strata gas-appliance enquiry: responsibility, approvals and access",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 7,
+      "neighbourhood": "Hastings-Sunrise",
+      "topic": "Replacing a furnace: existing records versus a new appliance input",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 8,
+      "neighbourhood": "Riley Park",
+      "topic": "Two outdoor appliances on one sketch: what shared branches show",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 9,
+      "neighbourhood": "Marpole",
+      "topic": "Moving a fireplace: identifying the complete professional scope",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 10,
+      "neighbourhood": "West End",
+      "topic": "A balcony BBQ enquiry: property rules, equipment and who to ask",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 11,
+      "neighbourhood": "Oakridge",
+      "topic": "Renovation handover: keeping a gas-system change record",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 12,
+      "neighbourhood": "Renfrew-Collingwood",
+      "topic": "Unknown gas-line routes: how to prepare an honest incomplete sketch",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 13,
+      "neighbourhood": "South Cambie",
+      "topic": "Recording pressure units: avoiding ambiguous project notes",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 14,
+      "neighbourhood": "Sunset",
+      "topic": "Gas range replacement: identifying the exact proposed model",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 15,
+      "neighbourhood": "Victoria-Fraserview",
+      "topic": "A detached-building enquiry: route records and separate project scopes",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 16,
+      "neighbourhood": "West Point Grey",
+      "topic": "Pool equipment replacement: separating gas supply from other trades",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 17,
+      "neighbourhood": "Arbutus Ridge",
+      "topic": "Comparing quotes for a gas addition: exclusions and assessment scope",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 18,
+      "neighbourhood": "Kensington-Cedar Cottage",
+      "topic": "Existing and proposed appliances: building a readable equipment list",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 19,
+      "neighbourhood": "Killarney",
+      "topic": "Gas-water-heater replacement: documents to gather before an enquiry",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 20,
+      "neighbourhood": "Shaughnessy",
+      "topic": "A regulator on the sketch: identifying unanswered pressure-zone questions",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 21,
+      "neighbourhood": "Strathcona",
+      "topic": "A mixed-use property enquiry: ownership, access and permit responsibility",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 22,
+      "neighbourhood": "Downtown",
+      "topic": "Commercial gas-equipment enquiries: identifying the responsible permit authority",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 23,
+      "neighbourhood": "Kitsilano",
+      "topic": "Gas fireplace service records: observations versus diagnosis",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 24,
+      "neighbourhood": "Kerrisdale",
+      "topic": "Two pool-heater proposals: comparing model documents before selection",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 25,
+      "neighbourhood": "Mount Pleasant",
+      "topic": "Kitchen renovation changes: when to update the gas-project brief",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 26,
+      "neighbourhood": "Grandview-Woodland",
+      "topic": "Gas BBQ versus range inputs: reading the correct equipment record",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 27,
+      "neighbourhood": "Dunbar-Southlands",
+      "topic": "Saving and restoring a gas sketch for a contractor conversation",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 28,
+      "neighbourhood": "Fairview",
+      "topic": "Shared property records: what to send and what to keep private",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 29,
+      "neighbourhood": "Hastings-Sunrise",
+      "topic": "Gas appliance retirement: planning disconnection and handover responsibilities",
+      "status": "requires-research-writing-and-visual-review"
+    },
+    {
+      "order": 30,
+      "neighbourhood": "Riley Park",
+      "topic": "Longest run versus biggest load: a worked software example",
+      "status": "requires-research-writing-and-visual-review"
+    }
+  ]
+}
