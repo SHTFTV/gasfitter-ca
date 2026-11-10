@@ -37,7 +37,7 @@ for(const route of routes){
  page=page.replace('</head>','<link rel="alternate" type="application/rss+xml" title="Gasfitter.ca journal updates" href="https://www.gasfitter.ca/feed.xml"/></head>');
  const target=path.join(dist,route==='/'?'':route);fs.mkdirSync(target,{recursive:true});fs.writeFileSync(path.join(target,'index.html'),page);
 }
-const sitemap=['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',...routes.map(route=>`<url><loc>https://www.gasfitter.ca${route}</loc></url>`),'</urlset>'].join('\n');
+const sitemap=['<?xml version="1.0" encoding="UTF-8"?>','<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">',...[...routes,"/gas-line-planner/"].map(route=>`<url><loc>https://www.gasfitter.ca${route}</loc></url>`),'</urlset>'].join('\n');
 fs.writeFileSync(path.join(dist,'sitemap.xml'),sitemap);
 const heroSource=JSON.parse(fs.readFileSync('markett/gasfitter-hero-v4.json','utf8'));fs.mkdirSync(path.join(dist,'images'),{recursive:true});fs.writeFileSync(path.join(dist,'images',heroSource.file),Buffer.from(heroSource.data,'base64'));
 console.log(`prerendered ${routes.length} distinct routes and share images`);
