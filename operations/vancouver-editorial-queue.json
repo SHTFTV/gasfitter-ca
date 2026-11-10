@@ -12,6 +12,13 @@
       "slug": "vancouver-gas-fitter-longest-measured-run-stove-bbq-pool-heater",
       "date": "2026-11-09",
       "bodyWords": 2056
+    },
+    {
+      "slug": "kitsilano-gas-bbq-planning-first-site-visit",
+      "date": "2026-11-10",
+      "bodyWords": 2271,
+      "url": "https://www.gasfitter.ca/kitsilano-gas-bbq-planning-first-site-visit/",
+      "verifiedAt": "2026-11-10T17:34:45.247153+00:00"
     }
   ],
   "queue": [
@@ -19,10 +26,13 @@
       "order": 1,
       "neighbourhood": "Kitsilano",
       "topic": "Adding a gas BBQ: appliance records, shared branches and the first site visit",
-      "status": "prepared-for-publication",
+      "status": "published",
       "slug": "kitsilano-gas-bbq-planning-first-site-visit",
       "bodyWords": 2271,
-      "date": "2026-11-10"
+      "date": "2026-11-10",
+      "url": "https://www.gasfitter.ca/kitsilano-gas-bbq-planning-first-site-visit/",
+      "commit": "f9ca861787f6322e260e13ae489ee5176ecd6ee1",
+      "verifiedAt": "2026-11-10T17:34:45.247153+00:00"
     },
     {
       "order": 2,
@@ -198,5 +208,12 @@
       "topic": "Longest run versus biggest load: a worked software example",
       "status": "requires-research-writing-and-visual-review"
     }
-  ]
+  ],
+  "lastScheduledRun": {
+    "date": "2026-11-10",
+    "status": "succeeded",
+    "article": "https://www.gasfitter.ca/kitsilano-gas-bbq-planning-first-site-visit/",
+    "bodyWords": 2271,
+    "deployment": "dpl_B89pskCxC57SsjGLogfhwD7wfisR"
+  }
 }

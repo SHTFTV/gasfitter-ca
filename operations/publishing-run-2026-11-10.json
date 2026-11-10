@@ -1,0 +1,40 @@
+{
+  "url": "https://www.gasfitter.ca/kitsilano-gas-bbq-planning-first-site-visit/",
+  "status": "succeeded",
+  "bodyWords": 2271,
+  "schema": [
+    "Article",
+    "FAQPage"
+  ],
+  "faqCount": 5,
+  "publishedAt": "2026-11-10T17:31:16.721878+00:00",
+  "image": "https://www.gasfitter.ca/images/vancouver-lmr-planner.png",
+  "discovery": {
+    "/": true,
+    "/blog/": true,
+    "/sitemap.xml": true,
+    "/feed.xml": true
+  },
+  "visualQA": {
+    "preview": "desktop and390px phone passed",
+    "production": "desktop and390px phone passed",
+    "phoneDocumentWidth": 390,
+    "phoneViewportWidth": 390,
+    "brokenImages": 0,
+    "homepageCard": "visually verified with November10 date and article link",
+    "screenshots": [
+      "desktop.png",
+      "phone.png"
+    ]
+  },
+  "automationId": "publish-daily-vancouver-gas-guide",
+  "commit": "f9ca861787f6322e260e13ae489ee5176ecd6ee1",
+  "deployment": "dpl_B89pskCxC57SsjGLogfhwD7wfisR",
+  "sourceChecks": {
+    "vancouverOfficialPages": "Current content read successfully through web tool; direct automated HTTP fetch403, not treated as broken-link proof",
+    "fortisbc": "HTTP200",
+    "weber": "HTTP200"
+  },
+  "completedAt": "2026-11-10T17:34:45.247153+00:00",
+  "publicationMechanism": "Codex scheduled heartbeat; not standalone website cron"
+}
