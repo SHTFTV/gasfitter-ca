@@ -1,5 +1,169 @@
 [
   {
+    "slug": "kerrisdale-pool-heater-gas-supply-planning",
+    "title": "Kerrisdale Pool Heater Planning: Gas Supply Before Purchase",
+    "description": "Plan a Kerrisdale gas pool-heater addition or replacement: exact appliance records, connected demand, meter questions and Vancouver permit responsibilities.",
+    "date": "2026-11-11",
+    "publishedAt": "2026-11-11T17:25:20.590198+00:00",
+    "image": "/images/kerrisdale-pool-heater-planning-1600x900.jpg",
+    "imageAlt": "Pool photograph from Raypak\u2019s official pool-heater brochure, with a small Gasfitter.ca brand label",
+    "imageCredit": "Pool photograph from Raypak\u2019s Professional Gas Pool and Spa Heater brochure. Promotional setting; not a Kerrisdale property or a customer installation. No heater model is depicted.",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "imageProvenance": {
+      "sourcePage": "https://s3.amazonaws.com/AWSProd/sites/raypakcom/documents/6200.13.pdf",
+      "sourceAsset": "Raypak Professional Gas Pool and Spa Heater brochure, page1 embedded Im0.jpg",
+      "originalDimensions": [
+        2688,
+        2764
+      ],
+      "sourceSha256": "7aaeac3c12ce761b37460fd94a7e341db00ffd86b5819e74a00ed72bfd236b6c",
+      "crop": {
+        "left": 0,
+        "top": 1100,
+        "width": 2688,
+        "height": 1512
+      },
+      "output": "public/images/kerrisdale-pool-heater-planning-1600x900.jpg",
+      "outputDimensions": [
+        1600,
+        900
+      ],
+      "outputSha256": "2c52fcf962966ed1b0de2598eb9cb5264ba1ea97a2605341729b7977d8f1738d",
+      "transforms": "Crop, downsample, small publisher brand label only; no generated or reconstructed subject",
+      "reuseBasis": "Owner explicitly directed editorial use of public official manufacturer images in the November11 automation instruction. No manufacturer licence, partnership or endorsement claimed.",
+      "credit": "Pool photograph from Raypak\u2019s Professional Gas Pool and Spa Heater brochure. Promotional setting; not a Kerrisdale property or a customer installation. No heater model is depicted.",
+      "scope": "Original pool-heater planning guide. Exact manufacturer-brochure pool photograph; not a stock-library substitute."
+    },
+    "useOriginalImage": true,
+    "intro": [
+      "Before adding or replacing a gas pool heater at a Kerrisdale property, identify the proposed model and fuel, collect the existing appliance records, and ask a qualified gas contractor to assess the complete supply arrangement. A meter label, an old heater\u2019s performance or a short route to the equipment area does not establish spare capacity. Use the Gasfitter.ca planner to organize known appliance inputs and measured routes, while leaving pressure-based sizing, utility decisions and installation approval to the professionals responsible for the project.",
+      "This guide focuses on the decisions before purchase: whether you are replacing equipment, adding a new load or changing the pool project itself. It explains how to prepare a supply-assessment brief without treating a website total as a completed design. Kerrisdale identifies the project area in Vancouver; it does not establish the condition of any particular home or its gas system. The manufacturer-supplied pool photograph is a promotional setting from a Raypak brochure, not a Kerrisdale installation or a photograph of a specified heater model."
+    ],
+    "sections": [
+      {
+        "heading": "Separate the swimming-pool goal from the gas-supply question",
+        "paragraphs": [
+          "Start by describing what you want the pool project to achieve and what is actually changing. You might be replacing equipment identified in existing records, comparing a different heater, or planning a new equipment location. State whether the appliance has already been purchased. Keep the intended use and the proposed equipment distinct: wanting a different swimming schedule does not tell a gas contractor which appliance input or supply arrangement needs assessment. The precise question should be visible before anybody compares installation proposals.",
+          "A useful first brief might say: \u201cWe are considering a replacement gas pool heater and want the proposed model reviewed against the existing system before ordering.\u201d A different brief could say: \u201cOur equipment area is being relocated, and we need the gas scope coordinated with the pool contractor.\u201d These are original planning examples, not reported customer projects. Each opens a different conversation about identification, access and responsibilities. Neither assumes that a replacement is automatically a connection-only task or that an existing route can simply be extended."
+        ]
+      },
+      {
+        "heading": "Identify the appliance using the right records",
+        "paragraphs": [
+          "Obtain the proposed manufacturer, exact model designation and fuel version from the supplier\u2019s documentation. Keep a quotation or shopping description separate from the applicable installation document. Similar-looking heaters may belong to different versions, so the appearance of a cabinet is not enough to establish the configuration. If the supplier has not selected the equipment, record the selection as undecided. Ask when the model information must be finalized for the assessment and what happens if the proposed equipment changes after a quote is issued.",
+          "For the existing heater, use a previous invoice, manual or safely visible identifying record when available. Do not remove panels or disturb connections to produce a more complete enquiry. Record the current information as existing equipment, rather than copying it into the proposed-appliance entry. If the old and new documents use different descriptions, show both and ask for clarification. The assessor should not have to infer whether a number belongs to the old appliance, an alternative purchase or the exact heater that will be installed."
+        ]
+      },
+      {
+        "heading": "Use gas input, not pool output or an advertising comparison",
+        "paragraphs": [
+          "The planner\u2019s appliance field accepts gas input in BTU per hour. That input should come from an applicable record for the actual equipment. A headline about heating performance, an efficiency percentage, a pool\u2019s volume or an electrical rating is not interchangeable with that field. If a specification is ambiguous, leave the input unknown and identify the document you are using. An unanswered question can be resolved; an assumed number can quietly influence every total that follows it through the brief.",
+          "Do not borrow the value used for a neighbour\u2019s equipment or for a different model in a product family. The photograph accompanying this guide does not establish an appliance input and is not a specification source. Likewise, the fact that a manufacturer sells several pool-heater options does not identify which one suits the project. Keep the selection discussion with the relevant professionals and supplier. The preliminary brief should communicate confirmed equipment information while preserving the distinction between an identified load and a model still under consideration."
+        ]
+      },
+      {
+        "heading": "List the whole connected arrangement",
+        "paragraphs": [
+          "Prepare an equipment inventory for the supply being assessed. Include the existing gas appliances that are actually relevant, and distinguish them from additions being considered for later. A pool-heater proposal can otherwise arrive as a single equipment question without revealing the other demands the assessor needs to understand. Where you do not know whether two appliances share a meter or branch, state that uncertainty. Do not make the sketch look complete by drawing a connection that you cannot support with the records available to you.",
+          "A readable inventory identifies each appliance, its location or purpose, whether it exists or is proposed, its fuel and the source of its known input. Keep unknown values visible. The planner can total the inputs that have been entered, but the total only describes those entries. It does not prove that all relevant appliances have been found. Ask the contractor to confirm the inventory and explain which additional information is required. That review is particularly useful when the enquiry includes several planned changes rather than one isolated replacement."
+        ]
+      },
+      {
+        "heading": "Explain shared branches before concentrating on the final section",
+        "paragraphs": [
+          "A proposed heater may be shown at the end of one branch while other appliances connect upstream or through another branch. The measured route to the pool equipment is therefore only one part of the supply conversation. In the planner, the connection chosen for each item determines which entered sections belong to its path. A junction helps express a shared arrangement, but a symbol placed on the screen is not evidence that the installed piping follows that connection. Label proposed and confirmed information clearly.",
+          "Consider an original software example with a shared section leading to a junction and separate branches leading to an existing appliance and proposed pool heater. Changing the pool-heater branch measurement changes its entered route. It does not automatically change the other branch\u2019s measurement, and neither route result approves the shared section\u2019s capacity. This distinction helps you ask a specific question: does the assessment include the shared supply and the complete proposed demand? It avoids reducing the project to the last visible connection near the heater."
+        ]
+      },
+      {
+        "heading": "Describe the real route without opening hidden spaces",
+        "paragraphs": [
+          "If you have a reliable route record or measurements already available, explain what each measurement includes. The planner offers a measured-section field and an additional vertical-distance field. Enter vertical distance separately only when it is not already included in the section length. Where the route is concealed or the record is uncertain, leave that portion unknown. A preliminary planning form is not a reason to uncover buried services, open finishes, move equipment or inspect components that are not safely accessible during normal use.",
+          "The diagram is not to scale. Moving the pool-heater symbol to make the page easier to read does not change its entered length. Use clear labels and note any question about the meter, a regulator or the route origin. The current tool does not calculate fitting allowances or choose the applicable material-specific sizing method. Its role is to preserve the measurements and connections you enter so the person assessing the work can see both the information and its limitations. A tidy drawing should never hide an uncertain route."
+        ]
+      },
+      {
+        "heading": "Treat meter records as information to verify",
+        "paragraphs": [
+          "Record a meter rating only when you have a suitable existing record or confirmation, and retain the stated unit. A rating in cubic feet per hour, cubic metres per hour or BTU per hour is not automatically an approved allowance available for your new heater. Do not subtract the planner\u2019s known-load total from a label and call the difference spare capacity. The planner deliberately makes no such approval. Ask the contractor which service details need confirmation and whether a utility review is part of the next stage.",
+          "FortisBC maintains a dedicated gas-service upgrade resource for customers considering changes to their service. Use its current information when a utility question arises, and clarify who will coordinate that enquiry. A contractor\u2019s assessment of downstream work and the utility\u2019s service decision are related but different responsibilities. This guide does not promise an upgrade is necessary or unnecessary, what it would cost, or when it could be completed. Save any actual utility response with the project documents instead of replacing it with an estimate borrowed from another property."
+        ]
+      },
+      {
+        "heading": "Preserve pressure units and regulator questions",
+        "paragraphs": [
+          "Supply-pressure information needs its unit and context. If you have an appropriate confirmed record, the planner can retain it alongside the project notes. If not, leave the field unknown. A pressure value written without a unit can create a different question from the one intended. Where a regulator appears in the proposed sketch, ask the assessor how the pressure arrangement affects the scope. Do not assume that the meter is the correct sizing origin for every part of a system or that one pressure value describes every branch.",
+          "The planner does not calculate approved pressure loss, determine regulator settings or certify a pipe diameter. Do not adjust equipment, undertake a pressure test or reproduce an operating fault to complete the form. An owner\u2019s useful contribution is an accurate record of what is already known and the question that remains unresolved. Keep the contractor\u2019s subsequent findings separate from the initial notes. If a confirmed value changes, update the record and ask whether any earlier proposal needs revision rather than leaving conflicting versions in circulation."
+        ]
+      },
+      {
+        "heading": "Coordinate the equipment location and the other trades",
+        "paragraphs": [
+          "Explain whether the heater will stay in the existing equipment area or move elsewhere. Supply assessment is only one part of choosing and preparing a location. Give the pool contractor and gas contractor the same current model information and identify the people responsible for the other relevant project work. Do not treat a connection sketch as confirmation of water-side suitability, electrical arrangements, ventilation, access or manufacturer clearances. Those questions need their own applicable assessment and documentation rather than assumptions based on the available space.",
+          "If landscaping, an enclosure, counters or finished surfaces are part of the project, explain their stage of design. Ask which decisions must remain provisional until the equipment and supply scope have been reviewed. This can prevent one trade from treating another trade\u2019s unfinished assumption as a settled instruction. A preliminary sketch should describe the proposed arrangement, not authorize excavation or concealment of work. Agree how revisions will be communicated so the people coordinating the project can identify the latest accepted scope without relying on an old drawing."
+        ]
+      },
+      {
+        "heading": "Check the Vancouver authority and permit responsibilities",
+        "paragraphs": [
+          "The City of Vancouver publishes its gas-permit guidance, including the installations within its administration and circumstances involving Technical Safety BC. A Kerrisdale address provides local context, but the actual equipment, supply arrangement and work determine the permit question. Describe whether you are adding a load, replacing equipment, altering piping or relocating the equipment area. Ask the responsible contractor or authority which process applies rather than assuming that every pool-heater project follows the same application route or that a neighbourhood guide establishes eligibility.",
+          "When work is agreed, record who will obtain the required permits and which inspection or completion records will be supplied. Keep property authorization separate from the technical and regulatory process. If the property has more than one owner, a manager or another party responsible for approving changes, identify that arrangement early. The City\u2019s Kerrisdale neighbourhood page is geographic background, not a record of a particular installation. This guide does not claim a staffed local office, available appointment or previous pool-heater project at your address."
+        ]
+      },
+      {
+        "heading": "Compare assessment scope and keep the decisions traceable",
+        "paragraphs": [
+          "Before comparing prices, ask each business what it is assessing and what it is excluding. Does the proposed visit address the complete connected arrangement or only the heater connection? Who will resolve the appliance identification, any uncertain route and a possible utility question? Which work belongs to the pool installer or another trade? A proposal for a narrower task can look cheaper without answering the same project question. Ask for assumptions and exclusions in writing so you can compare the actual scope rather than only the total.",
+          "Keep the identifying documents, initial brief, accepted proposal and later changes together. An exported sketch supports the conversation; it does not constitute a booking or approval. If the proposed heater changes, send the new model and fuel information and ask whether the assessment remains applicable. At handover, retain the actual work and completion records and leave outstanding questions clearly marked. A useful project folder lets the next person distinguish what was originally proposed, what was professionally confirmed and what was actually completed, instead of treating every document as the same kind of evidence."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does replacing a gas pool heater automatically require a bigger meter?",
+        "answer": "Not automatically. The actual equipment, connected demand and service arrangement need assessment. This guide does not determine available capacity. Ask the qualified contractor which information must be confirmed and whether utility involvement is necessary before ordering the replacement."
+      },
+      {
+        "question": "Can the planner choose the pipe size for a pool heater?",
+        "answer": "No. It totals entered appliance inputs and measured routes and retains supply records. It does not select a pipe diameter, calculate approved pressure loss or certify meter capacity. Give the exported brief to the professional assessing the actual system."
+      },
+      {
+        "question": "Can I enter a typical pool-heater input before choosing a model?",
+        "answer": "Leave the input unknown until an applicable record identifies it. A borrowed value can make an incomplete proposal look confirmed. State that equipment selection remains open, then ask when the exact model and fuel must be finalized for the assessment."
+      },
+      {
+        "question": "Is the featured pool photograph a Kerrisdale installation?",
+        "answer": "No. It is a real promotional pool photograph embedded in Raypak\u2019s official pool-heater brochure, cropped and labelled for this guide. It is not a customer installation, local property photograph or evidence of a particular heater model at that setting."
+      },
+      {
+        "question": "What should I send in a first Kerrisdale pool-heater enquiry?",
+        "answer": "Describe the area, property arrangement, proposed change and equipment selection stage. Include the actual model and fuel documents if known, identify missing measurements and ask what assessment is needed next. Keep account credentials, access codes and unrelated private records out of the general enquiry."
+      }
+    ],
+    "sources": [
+      {
+        "label": "City of Vancouver: gas permits and authority",
+        "url": "https://vancouver.ca/home-property-development/gas-permit.aspx"
+      },
+      {
+        "label": "City of Vancouver: Kerrisdale neighbourhood",
+        "url": "https://vancouver.ca/news-calendar/kerrisdale.aspx"
+      },
+      {
+        "label": "FortisBC: upgrade your gas service",
+        "url": "https://www.fortisbc.com/services/natural-gas-services/upgrade-your-natural-gas-service"
+      },
+      {
+        "label": "Raypak: Professional Gas Pool and Spa Heater brochure; featured photograph source",
+        "url": "https://s3.amazonaws.com/AWSProd/sites/raypakcom/documents/6200.13.pdf"
+      }
+    ],
+    "bodyWordCount": 2248,
+    "contentOrigin": "original-planning-guide",
+    "rightsEvidence": "Owner explicitly directed editorial use of public official manufacturer images in the November11 automation instruction. No manufacturer licence, partnership or endorsement claimed."
+  },
+  {
     "slug": "kitsilano-gas-bbq-planning-first-site-visit",
     "title": "Kitsilano Gas BBQ Planning: Before the First Site Visit",
     "description": "Planning a gas BBQ in Kitsilano? Prepare model and fuel records, shared-supply questions, a route sketch and a clear scope for the first contractor assessment.",

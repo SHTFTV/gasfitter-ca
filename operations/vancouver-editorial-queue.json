@@ -38,7 +38,10 @@
       "order": 2,
       "neighbourhood": "Kerrisdale",
       "topic": "Planning a pool-heater addition without assuming spare meter capacity",
-      "status": "requires-research-writing-and-visual-review"
+      "status": "prepared-for-publication",
+      "slug": "kerrisdale-pool-heater-gas-supply-planning",
+      "bodyWords": 2248,
+      "date": "2026-11-11"
     },
     {
       "order": 3,
@@ -215,5 +218,21 @@
     "article": "https://www.gasfitter.ca/kitsilano-gas-bbq-planning-first-site-visit/",
     "bodyWords": 2271,
     "deployment": "dpl_B89pskCxC57SsjGLogfhwD7wfisR"
+  },
+  "featuredImageStandard": {
+    "required": "real story-matching source/manufacturer photograph",
+    "size": [
+      1600,
+      900
+    ],
+    "upscaling": false,
+    "brand": "small Gasfitter.ca label",
+    "qa": "decoded dimensions and desktop/phone framing",
+    "disallowed": [
+      "planner screenshot as featured image",
+      "generated concept artwork",
+      "stock filler"
+    ],
+    "ownerInstructionDate": "2026-11-11"
   }
 }

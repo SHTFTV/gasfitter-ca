@@ -8,7 +8,7 @@ import { planningGuides } from './planning-guides';
 export const editorialPosts = [
   ...vancouverGuides.map(guide => ({
     ...guide,
-    body: <><figure><img src={guide.image} alt={guide.imageAlt} width="1280" height="720" style={{width:'100%',height:'auto',borderRadius:16}}/><figcaption>{guide.imageCredit}</figcaption></figure>
+    body: <><figure style={guide.imageProvenance?{margin:'24px 0'}:undefined}><img src={guide.image} alt={guide.imageAlt} width={guide.imageWidth||1280} height={guide.imageHeight||720} style={{width:'100%',height:'auto',borderRadius:16}}/><figcaption>{guide.imageCredit}</figcaption></figure>
       {guide.intro.map(p=><p key={p}>{p}</p>)}
       <p><a href="/gas-line-planner/">Open the gas-line sketch planner →</a></p>
       {guide.sections.map(section=><React.Fragment key={section.heading}><h2>{section.heading}</h2>{section.paragraphs.map(p=><p key={p}>{p}</p>)}</React.Fragment>)}

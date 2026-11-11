@@ -1,0 +1,25 @@
+{
+  "sourcePage": "https://s3.amazonaws.com/AWSProd/sites/raypakcom/documents/6200.13.pdf",
+  "sourceAsset": "Raypak Professional Gas Pool and Spa Heater brochure, page1 embedded Im0.jpg",
+  "originalDimensions": [
+    2688,
+    2764
+  ],
+  "sourceSha256": "7aaeac3c12ce761b37460fd94a7e341db00ffd86b5819e74a00ed72bfd236b6c",
+  "crop": {
+    "left": 0,
+    "top": 1100,
+    "width": 2688,
+    "height": 1512
+  },
+  "output": "public/images/kerrisdale-pool-heater-planning-1600x900.jpg",
+  "outputDimensions": [
+    1600,
+    900
+  ],
+  "outputSha256": "2c52fcf962966ed1b0de2598eb9cb5264ba1ea97a2605341729b7977d8f1738d",
+  "transforms": "Crop, downsample, small publisher brand label only; no generated or reconstructed subject",
+  "reuseBasis": "Owner explicitly directed editorial use of public official manufacturer images in the November11 automation instruction. No manufacturer licence, partnership or endorsement claimed.",
+  "credit": "Pool photograph from Raypak\u2019s Professional Gas Pool and Spa Heater brochure. Promotional setting; not a Kerrisdale property or a customer installation. No heater model is depicted.",
+  "scope": "Original pool-heater planning guide. Exact manufacturer-brochure pool photograph; not a stock-library substitute."
+}
