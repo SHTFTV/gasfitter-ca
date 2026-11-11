@@ -19,6 +19,13 @@
       "bodyWords": 2271,
       "url": "https://www.gasfitter.ca/kitsilano-gas-bbq-planning-first-site-visit/",
       "verifiedAt": "2026-11-10T17:34:45.247153+00:00"
+    },
+    {
+      "slug": "kerrisdale-pool-heater-gas-supply-planning",
+      "date": "2026-11-11",
+      "bodyWords": 2248,
+      "url": "https://www.gasfitter.ca/kerrisdale-pool-heater-gas-supply-planning/",
+      "verifiedAt": "2026-11-11T17:58:26.546769+00:00"
     }
   ],
   "queue": [
@@ -38,10 +45,13 @@
       "order": 2,
       "neighbourhood": "Kerrisdale",
       "topic": "Planning a pool-heater addition without assuming spare meter capacity",
-      "status": "prepared-for-publication",
+      "status": "published",
       "slug": "kerrisdale-pool-heater-gas-supply-planning",
       "bodyWords": 2248,
-      "date": "2026-11-11"
+      "date": "2026-11-11",
+      "url": "https://www.gasfitter.ca/kerrisdale-pool-heater-gas-supply-planning/",
+      "commit": "83644d6908195bbea20948e541dced23ed0faba0",
+      "verifiedAt": "2026-11-11T17:58:26.546769+00:00"
     },
     {
       "order": 3,
@@ -213,11 +223,15 @@
     }
   ],
   "lastScheduledRun": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "status": "succeeded",
-    "article": "https://www.gasfitter.ca/kitsilano-gas-bbq-planning-first-site-visit/",
-    "bodyWords": 2271,
-    "deployment": "dpl_B89pskCxC57SsjGLogfhwD7wfisR"
+    "article": "https://www.gasfitter.ca/kerrisdale-pool-heater-gas-supply-planning/",
+    "bodyWords": 2248,
+    "deployment": "dpl_D8ZDBDr6vTskK3jkwYk8bpENaHVs",
+    "featuredPhotograph": [
+      1600,
+      900
+    ]
   },
   "featuredImageStandard": {
     "required": "real story-matching source/manufacturer photograph",
@@ -234,5 +248,13 @@
       "stock filler"
     ],
     "ownerInstructionDate": "2026-11-11"
+  },
+  "historicalMediaReview": {
+    "status": "pending-backfill",
+    "slugs": [
+      "vancouver-gas-fitter-longest-measured-run-stove-bbq-pool-heater",
+      "kitsilano-gas-bbq-planning-first-site-visit"
+    ],
+    "reason": "Old planner screenshots do not meet November11 featured-photograph standard; preserve original publication dates."
   }
 }

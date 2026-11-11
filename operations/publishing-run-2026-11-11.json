@@ -1,0 +1,69 @@
+{
+  "url": "https://www.gasfitter.ca/kerrisdale-pool-heater-gas-supply-planning/",
+  "bodyWords": 2248,
+  "faqCount": 5,
+  "publicationDate": "2026-11-11T17:25:20.590198+00:00",
+  "schemaValid": true,
+  "sameHeroCardSocial": "https://www.gasfitter.ca/images/kerrisdale-pool-heater-planning-1600x900.jpg",
+  "decodedImageSize": [
+    1600,
+    900
+  ],
+  "discovery": {
+    "/": true,
+    "/blog/": true,
+    "/sitemap.xml": true,
+    "/feed.xml": true
+  },
+  "visualQA": {
+    "preview": "passed desktop and390px phone after correcting phone brand visibility",
+    "production": "passed desktop and390px phone hero and homepage card",
+    "phoneViewport": 390,
+    "phoneDocumentWidth": 390,
+    "brokenImages": 0,
+    "decodedRaster": [
+      1600,
+      900
+    ],
+    "upscaled": false,
+    "subject": "Actual source-brochure pool setting; no depicted heater model or local installation claimed",
+    "branding": "Legible Gasfitter.ca label; visible in hero and card on desktop/phone",
+    "screenshots": [
+      "desktop.png",
+      "phone.png",
+      "home-card-desktop.png",
+      "home-card-phone.png"
+    ]
+  },
+  "status": "succeeded",
+  "automationId": "publish-daily-vancouver-gas-guide",
+  "commit": "83644d6908195bbea20948e541dced23ed0faba0",
+  "deployment": "dpl_D8ZDBDr6vTskK3jkwYk8bpENaHVs",
+  "completedAt": "2026-11-11T17:58:26.546769+00:00",
+  "imageProvenance": {
+    "sourcePage": "https://s3.amazonaws.com/AWSProd/sites/raypakcom/documents/6200.13.pdf",
+    "sourceAsset": "Raypak Professional Gas Pool and Spa Heater brochure, page1 embedded Im0.jpg",
+    "originalDimensions": [
+      2688,
+      2764
+    ],
+    "sourceSha256": "7aaeac3c12ce761b37460fd94a7e341db00ffd86b5819e74a00ed72bfd236b6c",
+    "crop": {
+      "left": 0,
+      "top": 1100,
+      "width": 2688,
+      "height": 1512
+    },
+    "output": "public/images/kerrisdale-pool-heater-planning-1600x900.jpg",
+    "outputDimensions": [
+      1600,
+      900
+    ],
+    "outputSha256": "2c52fcf962966ed1b0de2598eb9cb5264ba1ea97a2605341729b7977d8f1738d",
+    "transforms": "Crop, downsample, small publisher brand label only; no generated or reconstructed subject",
+    "reuseBasis": "Owner explicitly directed editorial use of public official manufacturer images in the November11 automation instruction. No manufacturer licence, partnership or endorsement claimed.",
+    "credit": "Pool photograph from Raypak\u2019s Professional Gas Pool and Spa Heater brochure. Promotional setting; not a Kerrisdale property or a customer installation. No heater model is depicted.",
+    "scope": "Original pool-heater planning guide. Exact manufacturer-brochure pool photograph; not a stock-library substitute."
+  },
+  "historicalMediaLimit": "November9 and10 guide featured planner screenshots remain unchanged and are not recertified under the new photograph standard. Backfill requires story-specific source photos; preserve their original dates."
+}
