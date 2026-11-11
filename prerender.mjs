@@ -29,7 +29,7 @@ for(const route of routes){
   if(editorial.imageProvenance){const m=await sharp(path.join(dist,editorial.image)).metadata();if(m.width!==1600||m.height!==900)throw new Error('Featured photograph must decode to1600x900');if(editorial.imageProvenance.originalDimensions[0]<1600||editorial.imageProvenance.originalDimensions[1]<900)throw new Error('Source photograph too small');}
  }else if(editorial?.slug==='fireplace-service-enquiry-observations-records'){
   fs.copyFileSync('public/images/fireplace-enquiry-records-share.jpg',path.join(dist,'share',key+'.jpg'));
- }else if(editorial?.slug==='bc-heat-pump-gas-furnace-planning'){
+ }else if(['bc-heat-pump-gas-furnace-planning','fortisbc-dual-fuel-rebate-gas-work'].includes(editorial?.slug)){
   fs.copyFileSync('public/images/bc-heat-pump-gas-furnace-planning.jpg',path.join(dist,'share',key+'.jpg'));
  }else if(editorial?.slug==='older-boiler-no-heat-burnaby-repair-assessment'){
   fs.copyFileSync('public/images/burnaby-boiler-service-share.jpg',path.join(dist,'share',key+'.jpg'));
@@ -51,3 +51,4 @@ console.log(`prerendered ${routes.length} distinct routes and share images`);
 const feedItems=server.editorialPosts.filter(post=>post.publishedAt).sort((a,b)=>b.publishedAt.localeCompare(a.publishedAt));
 const feed=`<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Gasfitter.ca journal updates</title><link>https://www.gasfitter.ca/blog/</link><description>Original project-planning guides. Earlier articles remain in the journal archive.</description><language>en-ca</language>${feedItems.map(post=>`<item><title>${esc(post.title)}</title><link>https://www.gasfitter.ca/${post.slug}/</link><guid isPermaLink="true">https://www.gasfitter.ca/${post.slug}/</guid><pubDate>${new Date(post.publishedAt).toUTCString()}</pubDate><description>${esc(post.description)}</description></item>`).join('')}</channel></rss>`;
 fs.writeFileSync(path.join(dist,'feed.xml'),feed);
+

@@ -1,4 +1,5 @@
 import React from 'react';
+import { fortisbcPosts } from './fortisbc-rebates';
 import vancouverGuides from './vancouver-guides.json';
 import { bcHeatPumpPosts } from './bc-heat-pump';
 import { noHeatPosts } from './no-heat';
@@ -6,6 +7,7 @@ import { firstFrostPosts } from './first-frost';
 import { planningGuides } from './planning-guides';
 
 export const editorialPosts = [
+  ...fortisbcPosts,
   ...vancouverGuides.map(guide => ({
     ...guide,
     body: <><figure style={guide.imageProvenance?{margin:'24px 0'}:undefined}><img src={guide.image} alt={guide.imageAlt} width={guide.imageWidth||1280} height={guide.imageHeight||720} style={{width:'100%',height:'auto',borderRadius:16}}/><figcaption>{guide.imageCredit}</figcaption></figure>
@@ -99,3 +101,4 @@ export const editorialPosts = [
     body: <>{guide.sections.map(section => <React.Fragment key={section.heading}><h2>{section.heading}</h2><p>{section.text}</p></React.Fragment>)}<h2>Further reading</h2><ul>{guide.sources.map(source => <li key={source.url}><a href={source.url}>{source.label}</a></li>)}</ul><p><a href="/compare-gas-fitting-quotes-bc/">Compare contractor quotes</a> · <a href="/gas-work-handover-records-bc/">Keep your handover records</a></p></>
   }))
 ];
+
