@@ -1,6 +1,6 @@
 {
   "site": "gasfitter.ca",
-  "revision": 2,
+  "revision": 3,
   "approved": true,
   "source": "Standing owner requirements plus explicit November12 appliance rotation request",
   "repository": "SHTFTV/gasfitter-ca",
@@ -12,7 +12,7 @@
   "publicationPolicy": {
     "revision": 2,
     "source": "Explicit owner November12 follow-up",
-    "daily": "Change BOTH neighbourhood and appliance from the previous new guide; unique intent and project example required.",
+    "daily": "Change BOTH neighbourhood and normalized appliance family. Range/stove aliases are one family; outdoor kitchen is not distinct from BBQ.",
     "minimumBodyWords": 2000,
     "requiredAngle": "Can I add this exact appliance? Longest measured route, shared loads, known material/pressure/meter records, verified existing planner flow and qualified assessment.",
     "planner": "Naturally link the working national planner and verify desktop/phone interaction. No pipe sizing, pressure drop or capacity approval claims.",
@@ -56,5 +56,6 @@
     "Atomic writer lease and per-item bounded retry/failure isolation not proven",
     "Independent scheduled visual checker and supervisor not proven",
     "External watchdog worker+supervisor silence, incident/canary reader delivery and verified recovery not proven"
-  ]
+  ],
+  "leaseProtocol": "Before each publish use scripts/publisher-lease.mjs and operations/publisher-state.json under operations/PUBLISHER-LEASE.md. Existing GitHub expected_sha CAS only; no force, second writer or expired-lease theft."
 }
