@@ -26,6 +26,13 @@
       "bodyWords": 2248,
       "url": "https://www.gasfitter.ca/kerrisdale-pool-heater-gas-supply-planning/",
       "verifiedAt": "2026-11-11T17:58:26.546769+00:00"
+    },
+    {
+      "slug": "mount-pleasant-gas-stove-kitchen-renovation-planning",
+      "date": "2026-11-12",
+      "bodyWords": 2443,
+      "url": "https://www.gasfitter.ca/mount-pleasant-gas-stove-kitchen-renovation-planning/",
+      "verifiedAt": "2026-11-12T17:15:21.168698+00:00"
     }
   ],
   "queue": [
@@ -57,10 +64,13 @@
       "order": 3,
       "neighbourhood": "Mount Pleasant",
       "topic": "Moving a gas stove during a kitchen renovation: coordinating the brief",
-      "status": "prepared-for-publication",
+      "status": "published",
       "slug": "mount-pleasant-gas-stove-kitchen-renovation-planning",
       "bodyWords": 2443,
-      "date": "2026-11-12"
+      "date": "2026-11-12",
+      "url": "https://www.gasfitter.ca/mount-pleasant-gas-stove-kitchen-renovation-planning/",
+      "commit": "ae25b8a4d6d5053b22a840e50d613034b91ff9ab",
+      "verifiedAt": "2026-11-12T17:15:21.168698+00:00"
     },
     {
       "order": 4,
@@ -226,11 +236,11 @@
     }
   ],
   "lastScheduledRun": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "status": "succeeded",
-    "article": "https://www.gasfitter.ca/kerrisdale-pool-heater-gas-supply-planning/",
-    "bodyWords": 2248,
-    "deployment": "dpl_D8ZDBDr6vTskK3jkwYk8bpENaHVs",
+    "article": "https://www.gasfitter.ca/mount-pleasant-gas-stove-kitchen-renovation-planning/",
+    "bodyWords": 2443,
+    "deployment": "dpl_6hjiBwTcVeMm8CuGeRHQvyv9FShB",
     "featuredPhotograph": [
       1600,
       900

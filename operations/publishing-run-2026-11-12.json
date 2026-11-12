@@ -1,0 +1,41 @@
+{
+  "url": "https://www.gasfitter.ca/mount-pleasant-gas-stove-kitchen-renovation-planning/",
+  "http": 200,
+  "bodyWords": 2443,
+  "datePublished": "2026-11-12T17:09:29.057460+00:00",
+  "schema": [
+    "Article",
+    "FAQPage"
+  ],
+  "faqCount": 5,
+  "canonicalValid": true,
+  "image": "https://www.gasfitter.ca/images/mount-pleasant-gas-stove-renovation-1600x900.jpg",
+  "imageDimensions": [
+    1600,
+    900
+  ],
+  "liveImageHashMatches": true,
+  "discovery": {
+    "/": true,
+    "/blog/": true,
+    "/feed.xml": true,
+    "/sitemap.xml": true
+  },
+  "visualQA": {
+    "desktop": "passed",
+    "phone390": "passed",
+    "heroAndHomeCard": "passed",
+    "overflow": false,
+    "note": "Three unrelated offscreen homepage images were deferred lazy loads, not failed requests.",
+    "screenshots": [
+      "desktop.png",
+      "phone.png",
+      "home-card-desktop.png",
+      "home-card-phone.png"
+    ]
+  },
+  "status": "succeeded",
+  "verifiedAt": "2026-11-12T17:15:21.168698+00:00",
+  "commit": "ae25b8a4d6d5053b22a840e50d613034b91ff9ab",
+  "deployment": "dpl_6hjiBwTcVeMm8CuGeRHQvyv9FShB"
+}
