@@ -18,5 +18,11 @@
   "latestPublicationCommit": "a9344c801dcd0f71525100edc1b9c60dcb202feb",
   "latestDeployment": "dpl_AsKu5xryykJq1PcbmkETKbqKyRDL",
   "bodyWords": 2197,
-  "verifiedGuidesInSeries": 5
+  "verifiedGuidesInSeries": 5,
+  "status": "partial",
+  "nativeSupervisor": {
+    "status": "push-run-verified-native-schedule-pending",
+    "runUrl": "https://github.com/SHTFTV/gasfitter-ca/actions/runs/43285148666",
+    "sourceCommit": "89f52ee41dc55a145823b960ca902f56619c86d2"
+  }
 }
