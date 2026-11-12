@@ -1,5 +1,177 @@
 [
   {
+    "slug": "mount-pleasant-gas-stove-kitchen-renovation-planning",
+    "title": "Moving a Gas Stove in Mount Pleasant: Renovation Planning",
+    "description": "Moving a gas stove in a Mount Pleasant kitchen renovation? Coordinate model records, layout changes, trades, Vancouver permits and handover before work begins.",
+    "date": "2026-11-12",
+    "publishedAt": "2026-11-12T17:09:29.057460+00:00",
+    "image": "/images/mount-pleasant-gas-stove-renovation-1600x900.jpg",
+    "imageAlt": "Caf\u00e9 cooking range in GE Appliances\u2019 archival 2019 KBIS Matte White Kitchen Suite photograph, with Gasfitter.ca branding",
+    "imageCredit": "GE Appliances / Caf\u00e9 pressroom: 2019 KBIS Matte White Kitchen Suite. Archival manufacturer showroom photograph; not a Mount Pleasant home or a Gasfitter.ca installation. Exact appliance model and current availability are not established by this image.",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "imageProvenance": {
+      "sourcePage": "https://pressroom.geappliances.com/file?fid=5c76d7482cfac258307a61ae",
+      "download": "https://pressroom.geappliances.com/_gallery/get_file/?file_id=5c76d7482cfac258307a61ae&album_id=",
+      "final": "https://download.iprsoftware.com/create_memory_file/?f_id=5c76d7482cfac258307a61ae&content_verified=True&download=True",
+      "originalDimensions": [
+        6402,
+        4268
+      ],
+      "asset": "CAFE 2019 KBIS Matte White Kitchen Suite",
+      "credit": "GE Appliances / Caf\u00e9 pressroom: 2019 KBIS Matte White Kitchen Suite. Archival manufacturer showroom photograph; not a Mount Pleasant home or a Gasfitter.ca installation. Exact appliance model and current availability are not established by this image.",
+      "sourceSha256": "e7e88233c77800189f92cad8044a79f74faf3c5d024d0ca4ebcd3069fd476556",
+      "crop": {
+        "left": 96,
+        "top": 0,
+        "width": 6208,
+        "height": 3492
+      },
+      "output": "public/images/mount-pleasant-gas-stove-renovation-1600x900.jpg",
+      "outputDimensions": [
+        1600,
+        900
+      ],
+      "outputSha256": "17ad727715e71cf2c07a05757b422194e19262fc471d5cbce0b10cec278fe595",
+      "transforms": "Crop/downsample and small Gasfitter.ca label only; no generated/reconstructed content",
+      "reuseBasis": "Owner-directed editorial use of public official manufacturer photography; no manufacturer licence, partnership or endorsement claimed."
+    },
+    "useOriginalImage": true,
+    "intro": [
+      "Before moving a gas stove during a Mount Pleasant kitchen renovation, agree on the proposed appliance and location, identify the gas work that may change, and coordinate that assessment with the kitchen designer and other responsible trades. A cabinet drawing or an existing gas connection does not establish that the new arrangement is suitable. Check the City of Vancouver\u2019s current renovation and gas-permit guidance, then ask the qualified contractor to define the actual scope before demolition, ordering or finishing decisions make changes harder.",
+      "This guide follows the project from the first layout discussion to handover. Its purpose is to help you give each person the same reliable information: what exists, what is proposed, which decisions remain open and who will confirm them. It does not provide disconnection, reconnection or pipe-sizing instructions. The featured photograph is GE Appliances\u2019 archival Caf\u00e9 kitchen-suite press photograph from the 2019 KBIS collection. It illustrates a cooking-appliance setting, not a Mount Pleasant property or a project undertaken by Gasfitter.ca."
+    ],
+    "sections": [
+      {
+        "heading": "Decide whether the project is a replacement, a move or both",
+        "paragraphs": [
+          "Begin with the change itself rather than the shopping list. Replacing a stove in its existing position, moving the current stove to another wall and installing a different appliance in a revised kitchen are three different proposals. A combined project can include both relocation and equipment changes. Write down the existing appliance, the proposed appliance and the intended location separately. If you are still comparing layouts, present them as options rather than giving different trades conflicting versions of a supposedly settled plan.",
+          "An original example makes the distinction clear. One brief might say, \u201cWe want to replace the existing range in the same cabinet opening and need the proposed model assessed.\u201d Another might say, \u201cWe want the cooking area on the opposite wall and need the layout reviewed before cabinets are ordered.\u201d These are planning examples, not reported local jobs. The second introduces route and coordination questions even if the appliance itself stays the same. The first can still raise compatibility and surrounding-installation questions; unchanged location is not the same as unchanged scope."
+        ]
+      },
+      {
+        "heading": "Confirm the property arrangement and project decision-maker",
+        "paragraphs": [
+          "Identify who owns or manages the property and who can approve the work. For a strata unit, rented home or property with several responsible parties, distinguish the person using the kitchen from the person authorizing alterations. Ask which property documents or permissions the designer and contractor need to see. Keep those arrangements separate from municipal approvals and technical assessment. An appliance purchase, a contractor enquiry and an accepted renovation scope are different stages, and none should be quietly substituted for another in the project folder.",
+          "Mount Pleasant is a neighbourhood within Vancouver, as described by the City\u2019s area page. That geographic context is useful for identifying the project location, but it does not establish your building\u2019s age, layout, piping or approval history. Describe the actual property and any existing documents you have. Do not assume that a guide written for the neighbourhood represents every kitchen there. If responsibility for shared equipment, access or a proposed alteration is unclear, make that a question to resolve before asking a trade to proceed on an assumed authorization."
+        ]
+      },
+      {
+        "heading": "Give the designer and gas contractor the same appliance record",
+        "paragraphs": [
+          "Collect the proposed appliance\u2019s manufacturer, model designation, fuel version and applicable installation documentation. Keep the supplier\u2019s quotation with the identifying record, but do not assume a short sales description includes every installation detail. If the equipment has not been selected, mark the model as undecided and ask when selection must be finalized. A kitchen plan based on an approximate appliance opening can become inconsistent with the actual equipment if the model changes while cabinets, surfaces or related work are already being ordered.",
+          "For existing equipment, retain the records already available, such as a manual, invoice or safely visible identifying information. Do not move a connected stove or remove components to create a more complete enquiry. Label old and proposed documents clearly so nobody uses the former appliance\u2019s information as if it described the replacement. The historic Caf\u00e9 photograph accompanying this article is not a specification source for your project. It does not establish an exact model, current availability, required clearances or suitability for a Canadian installation."
+        ]
+      },
+      {
+        "heading": "Distinguish room measurements from gas-route measurements",
+        "paragraphs": [
+          "A kitchen drawing and a gas-route sketch answer different questions. The room drawing can identify the intended appliance position, adjacent cabinets, other equipment and the proposed work area. The gas sketch can organize known or proposed upstream connections and measured route sections. Do not treat a dimension between two cabinet faces as the assessed gas-route length. Explain what each measurement represents and who supplied it. Where a route is concealed or uncertain, the drawing should show a missing fact rather than disguising it with a neat line.",
+          "Gasfitter.ca\u2019s planner adds the section lengths entered along each connected appliance path. Its drawing is not to scale, and moving a symbol across the screen does not change the entered distance. Additional vertical distance should be entered separately only when it is not already part of the section measurement. The tool does not calculate an approved fitting allowance or select a pipe diameter. Use it to preserve the information you have and to identify the questions the contractor needs to answer, not to turn an early cabinet layout into an installation design."
+        ]
+      },
+      {
+        "heading": "Ask what happens before demolition starts",
+        "paragraphs": [
+          "Agree when the existing cooking appliance needs to be taken out of use and who will handle the relevant gas work. The general renovation schedule should identify that step before other trades begin removing cabinets or working around the equipment. A demolition crew should not have to infer that the stove has been dealt with because it appears on an empty-room drawing. Ask the responsible contractor how the work will be coordinated and what confirmation the project lead needs before the next stage begins.",
+          "Do not disconnect equipment, disturb a live connection or move the stove as a shortcut to help the renovation begin. The planning task is to assign responsibility and make the sequence visible. Ask what temporary arrangements are needed for the household and which parts of the kitchen will be unavailable. Keep the timing realistic by distinguishing a requested date from a confirmed appointment. If another part of the project is delayed, tell the affected trades promptly rather than letting an old schedule operate as an instruction after the circumstances have changed."
+        ]
+      },
+      {
+        "heading": "Coordinate ventilation, electrical work and surrounding finishes",
+        "paragraphs": [
+          "Moving the cooking area can affect more than the gas connection. Ask the designer and the appropriate trades which associated ventilation, electrical and surrounding-installation questions need assessment. Record who is responsible for each part and which model documents they are using. Do not infer that an existing hood, outlet or cabinet arrangement will suit the revised location simply because it served the old stove. A photograph of an attractive showroom kitchen is useful for discussing appearance, but it is not evidence that the same arrangement is appropriate at your property.",
+          "Keep the scope questions connected without confusing responsibility. The gas contractor should not be expected to approve an unrelated trade\u2019s work through a general comment on the kitchen drawing. Similarly, a cabinetry decision should not silently determine where regulated work must go without the relevant assessment. Ask for the decisions that need to be confirmed before a cabinet or countertop order is released. Where a point remains open, label it as a dependency rather than relying on several separate emails to preserve the uncertainty."
+        ]
+      },
+      {
+        "heading": "Include the connected system when discussing a different stove",
+        "paragraphs": [
+          "If the proposed appliance changes the gas demand under consideration, provide its actual input information from the applicable record. The planner\u2019s input field is in BTU per hour. Do not substitute oven volume, electrical demand, a heating-output figure or the value listed for another appliance. Where the input remains unknown, leave it unknown. A plausible-looking number can make an incomplete proposal appear settled and can be copied into later documents without anybody noticing that the original assumption was never confirmed.",
+          "Also identify the other relevant appliances on the supply being assessed, while distinguishing confirmed connections from questions. A stove relocation is not automatically a review of the whole property, so ask what the proposed assessment includes. Pressure and meter-rating fields in the planner retain entered records; they do not approve pressure loss, choose material-specific tables or certify spare capacity. Ask who will confirm the supply arrangement and whether another responsible party needs to be involved. Keep that finding separate from your preliminary drawing and the initial equipment inventory."
+        ]
+      },
+      {
+        "heading": "Check the City of Vancouver renovation and gas-permit guidance",
+        "paragraphs": [
+          "The City\u2019s current home-renovation page distinguishes cosmetic changes from work such as moving existing gas lines and other services. Read it alongside the gas-permit page rather than treating a kitchen project as one generic permission question. Describe the actual proposal when asking the City or contractor what applies. A cabinet replacement, an appliance move and an alteration to regulated systems may raise different issues within the same renovation. The purpose of checking early is to identify those issues before the scope is obscured by a single label such as \u201ckitchen refresh.\u201d",
+          "The gas-permit guidance also explains the installations administered by Vancouver and circumstances involving Technical Safety BC. Have the responsible professional identify the authority and process for the actual work. This article does not determine applicant eligibility, promise a permit outcome or certify a proposed layout. When the scope is agreed, record who will obtain the required permits and provide the relevant completion information. Keep the current official links in the project folder so a later change can be checked against the real requirements rather than against an earlier informal assumption."
+        ]
+      },
+      {
+        "heading": "Build one change record for equipment and layout revisions",
+        "paragraphs": [
+          "Kitchen plans often pass through several versions. Give each accepted drawing a date or version and identify which appliance record belongs with it. If you change the proposed stove or move the cooking position again, tell the people assessing the work and ask whether their earlier assumptions remain valid. Do not rely on a revised image in a messaging thread to notify every trade. The project lead should be able to point to one current brief and explain which earlier version it replaces.",
+          "A useful change record states what changed, why it changed, who needs to review it and whether price or timing remains open. For example, a different appliance choice might require a new review before an existing quote can be treated as applicable. That is not proof that additional work will necessarily be needed; it is a reason to confirm rather than guess. Keep an unaccepted proposal separate from an authorized change. This makes later comparisons and handover questions easier to resolve without reconstructing the project from memory."
+        ]
+      },
+      {
+        "heading": "Compare quotations by responsibilities and exclusions",
+        "paragraphs": [
+          "Ask each business what its proposal covers. Does it include assessing the intended location, the relevant existing arrangement, the proposed appliance documents and the work that follows? Which questions are left to a site visit or another trade? Who handles finishing, access, return visits and revisions? A quotation for a narrow connection task should not be compared as if it necessarily covers a broader relocation and renovation review. Request enough detail to understand the work represented by the price instead of assuming that similar totals describe equivalent services.",
+          "Keep those responsibilities visible in the overall renovation agreement. If the designer, general contractor, gas contractor and appliance supplier each have a different role, identify where information passes between them. Confirm which business accepts the work and the basis on which an appointment becomes confirmed. Gasfitter.ca publishes planning information; an article or email enquiry does not create a booking or establish local availability. Choose the professional arrangement directly and retain the accepted scope, questions and exclusions with the appliance and layout records."
+        ]
+      },
+      {
+        "heading": "Prepare for the stage before finishes hide the work",
+        "paragraphs": [
+          "Ask the responsible contractor and project lead which checks or records are needed before work becomes inaccessible behind completed finishes. Do not decide on behalf of an authority that a site visit or document is unnecessary because the work looks simple. Equally, do not call work \u201cinspected\u201d unless the actual record supports that description. Agree on the next-stage requirements and who will communicate completion so the people installing finishes are working from confirmed project information rather than a presumed green light.",
+          "This coordination is especially useful when separate trades return at different times. A person arriving to finish cabinets or surfaces should know which work is ready for the next stage and which part remains outstanding. Keep the communication factual: what was completed, what was checked, what document is available and what still needs to happen. A photograph can support the record but does not replace the responsible person\u2019s confirmation. If a discrepancy appears between the current drawing and the actual work, raise it before treating the drawing as an accurate handover record."
+        ]
+      },
+      {
+        "heading": "Keep the handover useful for the next owner or service visit",
+        "paragraphs": [
+          "At completion, gather the documents supplied for the actual equipment and work: the applicable appliance information, accepted changes, relevant permit or completion records, and the contractor\u2019s service or warranty details. Ask who to contact if a question concerns the appliance rather than the renovation work. Keep unresolved items clearly identified. A paid invoice, a product registration and a regulatory record establish different things, so store them with understandable descriptions instead of interpreting any one document as proof of every aspect of the project.",
+          "Save the final accepted layout with the equipment record and keep earlier versions distinguishable. If another appliance change is proposed later, the next person should be able to identify what was actually installed without relying on a showroom photograph or an old shopping list. The most useful outcome of preparation is a traceable sequence: initial proposal, professional assessment, accepted scope, recorded changes and completed work. That sequence helps a later enquiry begin with reliable information and reduces the chance that a preliminary planning assumption survives as an alleged installation fact."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I move a connected gas stove myself to begin demolition?",
+        "answer": "Do not move or disconnect it as a renovation shortcut. Arrange the relevant gas work with the qualified professional and coordinate its timing before other trades begin. Ask what confirmation the project lead needs before the next stage proceeds."
+      },
+      {
+        "question": "Does moving the same stove mean the supply assessment stays unchanged?",
+        "answer": "Not necessarily. A different position may change the route and the surrounding project scope even when the appliance is retained. Describe the actual change and ask the contractor which existing assumptions remain applicable instead of treating unchanged equipment as an unchanged installation."
+      },
+      {
+        "question": "Does a cabinet drawing establish the correct gas-line length?",
+        "answer": "No. Room dimensions and gas-route measurements are different information. The planner adds entered route sections but does not survey concealed piping, calculate an approved pressure drop or select a pipe size. Leave unknown route details visible for assessment."
+      },
+      {
+        "question": "Is the featured kitchen a Mount Pleasant renovation?",
+        "answer": "No. It is GE Appliances\u2019 official 2019 KBIS Caf\u00e9 Matte White Kitchen Suite press photograph, cropped and branded for this guide. It is not a customer project, a current product recommendation or evidence of a particular Canadian installation."
+      },
+      {
+        "question": "What should I send before asking for a stove-relocation quote?",
+        "answer": "Describe the property arrangement, existing and proposed appliance, intended location and renovation stage. Include the applicable model documents and current layout if available, identify unknowns and ask what assessment is needed. Keep credentials, access codes and unrelated private records out of the general enquiry."
+      }
+    ],
+    "sources": [
+      {
+        "label": "City of Vancouver: home renovation requirements",
+        "url": "https://vancouver.ca/home-property-development/renovate-home.aspx"
+      },
+      {
+        "label": "City of Vancouver: gas permits and authority",
+        "url": "https://vancouver.ca/home-property-development/gas-permit.aspx"
+      },
+      {
+        "label": "City of Vancouver: Mount Pleasant neighbourhood",
+        "url": "https://vancouver.ca/news-calendar/mount-pleasant.aspx"
+      },
+      {
+        "label": "GE Appliances pressroom: Caf\u00e9 2019 KBIS Matte White Kitchen Suite; featured photo source",
+        "url": "https://pressroom.geappliances.com/file?fid=5c76d7482cfac258307a61ae"
+      }
+    ],
+    "bodyWordCount": 2443,
+    "contentOrigin": "original-planning-guide",
+    "rightsEvidence": "Owner-directed editorial use of public official manufacturer photography; no manufacturer licence, partnership or endorsement claimed."
+  },
+  {
     "slug": "kerrisdale-pool-heater-gas-supply-planning",
     "title": "Kerrisdale Pool Heater Planning: Gas Supply Before Purchase",
     "description": "Plan a Kerrisdale gas pool-heater addition or replacement: exact appliance records, connected demand, meter questions and Vancouver permit responsibilities.",

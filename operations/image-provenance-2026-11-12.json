@@ -1,0 +1,26 @@
+{
+  "sourcePage": "https://pressroom.geappliances.com/file?fid=5c76d7482cfac258307a61ae",
+  "download": "https://pressroom.geappliances.com/_gallery/get_file/?file_id=5c76d7482cfac258307a61ae&album_id=",
+  "final": "https://download.iprsoftware.com/create_memory_file/?f_id=5c76d7482cfac258307a61ae&content_verified=True&download=True",
+  "originalDimensions": [
+    6402,
+    4268
+  ],
+  "asset": "CAFE 2019 KBIS Matte White Kitchen Suite",
+  "credit": "GE Appliances / Caf\u00e9 pressroom: 2019 KBIS Matte White Kitchen Suite. Archival manufacturer showroom photograph; not a Mount Pleasant home or a Gasfitter.ca installation. Exact appliance model and current availability are not established by this image.",
+  "sourceSha256": "e7e88233c77800189f92cad8044a79f74faf3c5d024d0ca4ebcd3069fd476556",
+  "crop": {
+    "left": 96,
+    "top": 0,
+    "width": 6208,
+    "height": 3492
+  },
+  "output": "public/images/mount-pleasant-gas-stove-renovation-1600x900.jpg",
+  "outputDimensions": [
+    1600,
+    900
+  ],
+  "outputSha256": "17ad727715e71cf2c07a05757b422194e19262fc471d5cbce0b10cec278fe595",
+  "transforms": "Crop/downsample and small Gasfitter.ca label only; no generated/reconstructed content",
+  "reuseBasis": "Owner-directed editorial use of public official manufacturer photography; no manufacturer licence, partnership or endorsement claimed."
+}
