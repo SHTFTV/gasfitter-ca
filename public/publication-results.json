@@ -1,0 +1,26 @@
+{
+  "site": "gasfitter.ca",
+  "schemaVersion": 1,
+  "events": [
+    {
+      "id": "gasfitter.ca:publication:grandview-woodland-natural-gas-bbq-longest-run",
+      "site": "gasfitter.ca",
+      "status": "done",
+      "publicationStatus": "published",
+      "title": "Can I Add a Natural Gas Barbecue in Grandview-Woodland? Start With the Longest Run",
+      "url": "https://www.gasfitter.ca/grandview-woodland-natural-gas-bbq-longest-run/",
+      "publishedAt": "2026-11-12T17:54:40.946062+00:00",
+      "verifiedAt": "2026-11-12T18:53:49.588533+00:00",
+      "checkedAt": "2026-11-12T18:53:49.588533+00:00",
+      "featuredImageUrl": "https://www.gasfitter.ca/images/grandview-woodland-natural-gas-bbq-longest-run-1600x900.jpg",
+      "featuredImageCredit": "Weber: Spirit E-325 cooking-surface detail from its Canadian Natural Gas model 1500844 product page. Manufacturer promotional photograph; not a Vancouver installation, a Gasfitter.ca test or evidence of site compliance.",
+      "featuredImageType": "source-photo",
+      "featuredImageStatus": "verified",
+      "sotVersion": 2,
+      "policyVersion": 1,
+      "runTrigger": "user-authorized-manual",
+      "receiptState": "Actual authorized Codex publication; production desktop/phone checks retained. Not a native cloud writer claim.",
+      "runUrl": "https://vercel.com/colins-projects-208e3ca1/gasfitter-ca/AsKu5xryykJq1PcbmkETKbqKyRDL"
+    }
+  ]
+}

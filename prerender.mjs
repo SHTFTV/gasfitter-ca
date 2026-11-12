@@ -52,3 +52,5 @@ const feedItems=server.editorialPosts.filter(post=>post.publishedAt).sort((a,b)=
 const feed=`<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Gasfitter.ca journal updates</title><link>https://www.gasfitter.ca/blog/</link><description>Original project-planning guides. Earlier articles remain in the journal archive.</description><language>en-ca</language>${feedItems.map(post=>`<item><title>${esc(post.title)}</title><link>https://www.gasfitter.ca/${post.slug}/</link><guid isPermaLink="true">https://www.gasfitter.ca/${post.slug}/</guid><pubDate>${new Date(post.publishedAt).toUTCString()}</pubDate><description>${esc(post.description)}</description></item>`).join('')}</channel></rss>`;
 fs.writeFileSync(path.join(dist,'feed.xml'),feed);
 
+
+fs.writeFileSync(path.join(dist,'release-identity.json'),JSON.stringify({site:'gasfitter.ca',sourceCommit:process.env.VERCEL_GIT_COMMIT_SHA||process.env.GITHUB_SHA||'local-preview',builtAt:new Date().toISOString()}));

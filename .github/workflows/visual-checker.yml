@@ -1,0 +1,35 @@
+name: Gasfitter independent visual checker
+on:
+  schedule:
+    - cron: '23,53 * * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/visual-checker.yml'
+      - 'operations/visual/**'
+permissions:
+  contents: read
+concurrency:
+  group: gasfitter-visual-checker
+  cancel-in-progress: false
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '24'
+      - run: npm install --global pnpm@11.25.0
+      - run: pnpm --dir operations/visual install --ignore-workspace --frozen-lockfile --ignore-scripts
+      - run: cd operations/visual && npx playwright install --with-deps chromium
+      - run: cd operations/visual && node check.mjs
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: always()
+        with:
+          name: gasfitter-visual-${{ github.run_id }}
+          path: role-output/
+          retention-days: 30
