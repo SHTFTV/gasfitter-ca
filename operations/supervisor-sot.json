@@ -1,0 +1,12 @@
+{
+  "site": "gasfitter.ca",
+  "role": "supervisor",
+  "revision": 1,
+  "approved": true,
+  "operatingStandardVersion": 2,
+  "qualityPolicyVersion": 1,
+  "source": "Explicit owner November12 Four Roles audit and completion request",
+  "scope": "Read-only source/publication/sitemap/feed/status observations;3 bounded retries, independent task failures retained,30day GitHub artifacts. Cannot certify provider deployment identity, writer or external watchdog.",
+  "schedule": "Existing repository GitHub Actions every30minutes; native run proof separate from push/manual",
+  "alerts": "GitHub failed job/artifact is NOT proof of Command Center delivery or owner read."
+}

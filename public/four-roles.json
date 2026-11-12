@@ -15,9 +15,10 @@
       "blocked": "Independent scheduled checker runtime and native execution evidence absent."
     },
     "supervisor": {
-      "status": "prepared",
+      "status": "configured-awaiting-native-proof",
       "verified": "This run read live GitHub/Vercel/content/Command Center evidence",
-      "blocked": "No deployed independent scheduled supervisor with attributable SOT load and durable receipt."
+      "blocked": "No deployed independent scheduled supervisor with attributable SOT load and durable receipt.",
+      "prepared": "Read-only GitHub workflow every30minutes, own approved SOT SHA256 loading, retained per-check outcomes and artifacts,3 bounded attempts; native schedule/deployment API verification still missing."
     },
     "independent-watchdog": {
       "status": "blocked",

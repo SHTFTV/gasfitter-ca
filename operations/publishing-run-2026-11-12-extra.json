@@ -1,0 +1,61 @@
+{
+  "url": "https://www.gasfitter.ca/grandview-woodland-natural-gas-bbq-longest-run/",
+  "http": 200,
+  "bodyWords": 2197,
+  "faqCount": 5,
+  "canonical": true,
+  "imageDimensions": [
+    1600,
+    900
+  ],
+  "photoHashMatch": true,
+  "discovery": [
+    "home",
+    "blog",
+    "sitemap",
+    "feed"
+  ],
+  "commit": "a9344c801dcd0f71525100edc1b9c60dcb202feb",
+  "deployment": "dpl_AsKu5xryykJq1PcbmkETKbqKyRDL",
+  "visualQA": {
+    "desktop": [
+      1280,
+      720
+    ],
+    "phone": [
+      390,
+      844
+    ],
+    "heroCardBrandCredit": "passed",
+    "articleOverflow": false,
+    "articleBrokenImages": 0,
+    "screenshots": [
+      "article-desktop.png",
+      "article-phone.png",
+      "home-desktop.png",
+      "home-phone.png",
+      "planner-phone.png"
+    ]
+  },
+  "status": "succeeded",
+  "verifiedAt": "2026-11-12T18:53:49.588533+00:00",
+  "plannerQA": {
+    "live": true,
+    "knownInput": 31000,
+    "routesVerifiedFt": [
+      50,
+      45,
+      46
+    ],
+    "positionControlX": 521,
+    "phoneDocumentWidth": 390,
+    "phoneViewportWidth": 390,
+    "jsonDownload": "gasfitter-gas-plan (1).json",
+    "limits": "Input recorder and route/load arithmetic only; no pipe sizing, pressure-drop or capacity approval."
+  },
+  "failedRelease": {
+    "commit": "ce3f2cad9858cba771ea9201eb5a705eee05174f",
+    "deployment": "dpl_4c6GWtAYhwazfD4KVUyfZZyA9YjN",
+    "reason": "Image transport truncated base64; corrected full bytes in a9344c801dcd0f71525100edc1b9c60dcb202feb. Previous production remained serving."
+  }
+}

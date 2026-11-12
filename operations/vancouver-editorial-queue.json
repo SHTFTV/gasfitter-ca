@@ -33,6 +33,15 @@
       "bodyWords": 2443,
       "url": "https://www.gasfitter.ca/mount-pleasant-gas-stove-kitchen-renovation-planning/",
       "verifiedAt": "2026-11-12T17:15:21.168698+00:00"
+    },
+    {
+      "slug": "grandview-woodland-natural-gas-bbq-longest-run",
+      "date": "2026-11-12",
+      "bodyWords": 2197,
+      "url": "https://www.gasfitter.ca/grandview-woodland-natural-gas-bbq-longest-run/",
+      "verifiedAt": "2026-11-12T18:53:49.588533+00:00",
+      "appliance": "natural-gas-bbq",
+      "neighbourhood": "Grandview-Woodland"
     }
   ],
   "queue": [
@@ -299,11 +308,14 @@
       "neighbourhood": "Grandview-Woodland",
       "appliance": "natural-gas-bbq",
       "topic": "Can I add a Weber Spirit E-325 natural gas BBQ? Longest entered route and shared-load planning",
-      "status": "prepared-for-publication",
+      "status": "published",
       "slug": "grandview-woodland-natural-gas-bbq-longest-run",
       "bodyWords": 2197,
       "date": "2026-11-12",
-      "ownerExtraPublication": true
+      "ownerExtraPublication": true,
+      "url": "https://www.gasfitter.ca/grandview-woodland-natural-gas-bbq-longest-run/",
+      "commit": "a9344c801dcd0f71525100edc1b9c60dcb202feb",
+      "verifiedAt": "2026-11-12T18:53:49.588533+00:00"
     }
   ],
   "lastScheduledRun": {
@@ -365,5 +377,13 @@
       "Run length as installation approval"
     ],
     "photography": "Exact model real official source; native pixels sufficient for1600x900 crop, modest own-brand label, truthful credit and browser hero/card/social checks."
+  },
+  "lastOwnerRequestedExtraRun": {
+    "date": "2026-11-12",
+    "status": "succeeded",
+    "url": "https://www.gasfitter.ca/grandview-woodland-natural-gas-bbq-longest-run/",
+    "commit": "a9344c801dcd0f71525100edc1b9c60dcb202feb",
+    "deployment": "dpl_AsKu5xryykJq1PcbmkETKbqKyRDL",
+    "dailyCapResumes": "2026-11-13"
   }
 }

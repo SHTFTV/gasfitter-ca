@@ -1,0 +1,30 @@
+name: Gasfitter read-only supervisor
+on:
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/supervisor.yml'
+      - 'scripts/supervise.mjs'
+permissions:
+  contents: read
+concurrency:
+  group: gasfitter-read-only-supervisor
+  cancel-in-progress: false
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: node scripts/supervise.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: gasfitter-supervisor-${{ github.run_id }}
+          path: role-output/
+          retention-days: 30
