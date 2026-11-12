@@ -1,0 +1,29 @@
+{
+  "site": "gasfitter.ca",
+  "checkedAt": "2026-11-12T17:59:45.095304+00:00",
+  "operationally_complete": false,
+  "receipts": [],
+  "roles": {
+    "worker": {
+      "status": "partial",
+      "verified": "Codex heartbeat publications November10/11/12 and source-to-Vercel production receipts",
+      "blocked": "No native cloud source-loading publisher, production-tested LLM API, transactional writer lease or same-run failure isolation proof."
+    },
+    "visual-checker": {
+      "status": "partial",
+      "verified": "Actual human-visible browser desktop/phone hero/card and planner interaction evidence from Codex runs",
+      "blocked": "Independent scheduled checker runtime and native execution evidence absent."
+    },
+    "supervisor": {
+      "status": "prepared",
+      "verified": "This run read live GitHub/Vercel/content/Command Center evidence",
+      "blocked": "No deployed independent scheduled supervisor with attributable SOT load and durable receipt."
+    },
+    "independent-watchdog": {
+      "status": "blocked",
+      "verified": null,
+      "blocked": "No separate-provider detector for BOTH worker and supervisor silence; no Gasfitter incident/canary delivery match or verified recovery."
+    }
+  },
+  "reason": "Existing Codex publication and QA receipts are task-scoped; native Four Roles acceptance remains unproven."
+}

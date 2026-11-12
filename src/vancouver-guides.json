@@ -1,5 +1,180 @@
 [
   {
+    "slug": "grandview-woodland-natural-gas-bbq-longest-run",
+    "title": "Can I Add a Natural Gas Barbecue in Grandview-Woodland? Start With the Longest Run",
+    "description": "Can you add a natural gas BBQ in Grandview-Woodland? Sketch the longest measured run, record the Weber E-325 input and prepare a qualified assessment.",
+    "date": "2026-11-12",
+    "publishedAt": "2026-11-12T17:54:40.946062+00:00",
+    "image": "/images/grandview-woodland-natural-gas-bbq-longest-run-1600x900.jpg",
+    "imageAlt": "Official Weber Spirit E-325 cooking-surface detail with Gasfitter.ca label",
+    "imageCredit": "Weber: Spirit E-325 cooking-surface detail from its Canadian Natural Gas model 1500844 product page. Manufacturer promotional photograph; not a Vancouver installation, a Gasfitter.ca test or evidence of site compliance.",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "imageProvenance": {
+      "sourcePage": "https://amer.weber.com/en-ca/products/spirit-e-325-gas-grill-natural-gas-black-1500844",
+      "sourceImage": "https://amer.weber.com/cdn/shop/files/02_SpiritE325_Searzone_sync.jpg?v=1788180653",
+      "sourceDimensions": [
+        1800,
+        1800
+      ],
+      "sourceSha256": "64fa2bee3752b1b9e5201ed53d2212efc3469f4a42ba9dee35cb4c6459a8949b",
+      "crop": {
+        "left": 4,
+        "top": 390,
+        "width": 1792,
+        "height": 1008
+      },
+      "output": "public/images/grandview-woodland-natural-gas-bbq-longest-run-1600x900.jpg",
+      "outputDimensions": [
+        1600,
+        900
+      ],
+      "outputSha256": "9279e74554db78acb5cf17378603f6164be911551d2890ece1b70b237663d598",
+      "transforms": "Crop/downsample and small Gasfitter.ca label only; no generated/reconstructed content",
+      "reuseBasis": "Owner-directed editorial use of public official manufacturer photography; no manufacturer licence, partnership or endorsement claimed.",
+      "credit": "Weber: Spirit E-325 cooking-surface detail from its Canadian Natural Gas model 1500844 product page. Manufacturer promotional photograph; not a Vancouver installation, a Gasfitter.ca test or evidence of site compliance.",
+      "originalDimensions": [
+        1800,
+        1800
+      ]
+    },
+    "useOriginalImage": true,
+    "intro": [
+      "You may be able to add a natural gas barbecue at a Grandview-Woodland property, but the distance to the patio does not decide the answer. Start with the exact natural gas appliance, a sketch of the known supply route, the longest measured route and the other connected appliances. Then have a qualified gas contractor assess the supply, location, installation and permit scope. Use the Gasfitter.ca sketch planner to build that brief before requesting an assessment; its totals organize your inputs and do not approve pipe size, pressure drop or meter capacity.",
+      "This guide works through a barbecue-specific planning exercise rather than assuming every Vancouver backyard has the same system. The example appliance is the Weber Spirit E-325 Natural Gas, Canadian part number 1500844. The manufacturer\u2019s current Canadian product page identifies that fuel version and lists 31,000 BTU per hour for its main burners. Confirm the actual appliance\u2019s rating plate and matching documents before using any figure in a real project. The worked distances below are invented teaching inputs, never measurements from a customer installation."
+    ],
+    "sections": [
+      {
+        "heading": "Start with your property, rather than a neighbourhood assumption",
+        "paragraphs": [
+          "The City identifies Grandview-Woodland as a Vancouver neighbourhood associated with Commercial Drive and extending south toward Trout Lake. That local context helps identify the project area; it cannot reveal your meter pressure, concealed piping or permission to alter shared property. A useful enquiry starts with the actual property arrangement: detached home, rented premises or a strata property, along with who can authorize changes. Do not infer a building\u2019s gas capacity from its street, apparent age or a nearby installation.",
+          "Describe the outdoor space you actually want to use. A freestanding barbecue beside an open patio is a different proposal from a built-in counter, covered area or balcony. Take ordinary photographs of the intended position and surrounding features when it is safe to do so. Show access routes, doors and nearby equipment without asserting that any separation is compliant. A contractor needs enough context to identify questions; a polished photograph with important surroundings cropped out is a poor substitute for a clear brief.",
+          "Separate your preferred cooking position from the proposed gas outlet. Those are related decisions, but they are not necessarily the same point on the sketch. Record where you want to stand, where people normally walk and where the barbecue would be stored. Ask the assessor to confirm an acceptable equipment and connection arrangement. Do not make a hose reach a preferred position by improvising extensions or routing it through a walking path. An initial drawing should expose a difficult layout before patio work or appliance purchasing makes it expensive to change."
+        ]
+      },
+      {
+        "heading": "Identify the natural gas model before entering its input",
+        "paragraphs": [
+          "For this exercise, write \u201cWeber Spirit E-325 Natural Gas, 1500844\u201d in the appliance notes. Keep the manufacturer\u2019s Canadian product link with that entry. The value 31,000 BTU per hour comes from that page\u2019s main-burner input specification; it is an equipment record for this example, not an allowance granted by the existing house piping. If the appliance label or supplied documentation differs, stop using the example value and ask the supplier or contractor to reconcile the exact version.",
+          "A propane version with a similar name is a different fuel appliance. Weber\u2019s natural gas owner\u2019s manual warns against attempting to use one fuel in the other version and against modifying the appliance. Its manual also covers several Spirit variants, so retain the exact model and the manual revision together. A family name on a search result does not establish that every instruction or feature applies to your unit. Download the matching documents from the manufacturer and keep the rating information available for the professional assessment.",
+          "The supplied photograph is an official Weber cooking-surface detail associated with the E-325 natural gas product page. It illustrates the barbecue subject; it is not evidence of a Vancouver installation, a connection arrangement or a performance test carried out by Gasfitter.ca. Product imagery can make the project easier to understand, while the model records supply the actual technical starting point. Neither should be used to imply that the photographed scene demonstrates all clearances, local permissions or installation requirements at your property."
+        ]
+      },
+      {
+        "heading": "Make the longest measured route visible in the planner",
+        "paragraphs": [
+          "Open the gas-line sketch planner and create a project with British Columbia and natural gas selected. Add the existing supply point and known junctions, then add a BBQ appliance for the proposed addition. Use the available node controls to position the appliance and draw connections representing the known arrangement. The useful result is a readable project sketch that distinguishes existing information from proposed work. It is not a construction drawing or a direction to connect the appliance yourself.",
+          "Use measured route lengths from reliable existing records or safely accessible observations. A straight line across a plan is not automatically the route the gas follows. Include changes of direction and vertical travel in the information you provide, and identify concealed sections as unknown. The planner has a section-length entry and a separate vertical-distance entry: add vertical distance separately only when it has not already been included in the measured section. Otherwise the same travel can be counted twice and make the sketch misleading.",
+          "Consider a fictional arrangement with a 20-foot supply-to-junction section, a 15-foot junction-to-existing-appliance section and a 25-foot proposed barbecue section from that junction. The two entered routes are 35 feet and 45 feet. The longest entered route is therefore 45 feet, even though the new barbecue branch itself is only 25 feet. These are simple distance sums used to explain the drawing. They do not select a pipe diameter or show that any existing pipe can carry the added load.",
+          "Now suppose the proposed barbecue route includes a separate 5-foot rise not already counted in its 25 feet. Entering that additional travel makes its recorded route 50 feet. If the 25-foot measurement already followed the whole route including the rise, leave the extra field empty or zero and explain what the measurement covers. Save a note identifying the source of each measurement. A contractor can then challenge one uncertain section without having to discard an otherwise useful drawing or guess how the total was assembled."
+        ]
+      },
+      {
+        "heading": "A long route and a high shared load answer different questions",
+        "paragraphs": [
+          "A longest-run approach considers the route through the relevant system or pressure section alongside the load carried by individual sections. \u00c9nergir\u2019s technical explanation describes surveying appliances and distances, identifying pressure arrangements and regulators, and considering branch loads. It also identifies material, available pressure and routing as sizing inputs. This explains why a single distance cannot settle the barbecue question. Its technical overview is background reading, not a substitute for the applicable British Columbia requirements and a site-specific design.",
+          "On the fictional sketch, the shared 20-foot section serves more than the barbecue. Its assessment depends on the appliances downstream, rather than the new barbecue input alone. Enter known existing appliance inputs from appropriate records, and keep unknown values visibly unknown. The planner can total the values supplied to it, but a partial equipment list creates a partial total. Calling that number \u201cthe house load\u201d would conceal missing information and could lead someone to misunderstand what still needs assessment.",
+          "Do not add a speculative furnace, pool heater or future outdoor kitchen as though it is already installed. Identify proposed future equipment separately and ask whether the contractor should assess that scenario now. A useful comparison states what changes between the current and proposed layouts. For example, the barbecue-only proposal and a later barbecue-plus-heater proposal should have distinct notes and version names. That makes the assessment request clear without turning an unselected future appliance into a fictitious confirmed load."
+        ]
+      },
+      {
+        "heading": "Record pressure, material and meter information honestly",
+        "paragraphs": [
+          "The planner can retain supply-pressure information and its unit, along with meter-rating details where those records are available. Record the provenance and context: an existing contractor document, an applicable utility response or an appliance record. Leave unfamiliar or uncertain information blank and ask for confirmation. A pressure value without a unit is ambiguous, and a meter label is not a certificate that a particular amount of capacity is available for an addition. The planner does not make that determination.",
+          "Where known, identify the piping material and any documented changes of material or regulators in the project notes. Do not open a wall, dig near services, disconnect equipment or adjust a regulator to complete a web form. A preliminary record can say that a section is concealed and requires professional verification. That is a useful finding because it identifies the next assessment task. Guessing a material to make every field look complete removes the very uncertainty the visit needs to resolve.",
+          "Technical Safety BC\u2019s pressure-drop bulletin explains that inadequate supply can affect other connected appliances and that applicable code requirements cannot simply be replaced by an appliance\u2019s apparent ability to operate. FortisBC\u2019s connection guidance also directs customers to their gas fitter for the delivery pressure needed for the intended appliances and piping. Ask the contractor to identify the required supply conditions and any utility coordination. Do not treat turning on a barbecue as a household capacity test or attempt to create a low-pressure condition yourself."
+        ]
+      },
+      {
+        "heading": "Check the actual outdoor and permit scope",
+        "paragraphs": [
+          "The Weber manual identifies this as an outdoor appliance and warns against built-in or slide-in installation for the models it covers. Bring the complete matching instructions to the discussion, including location and surrounding-construction questions. Do not use a general patio photograph to approve a covered or partly enclosed position. This guide deliberately does not provide a universal setback diagram: the actual model instructions, site arrangement and applicable authority need to be considered together before a location is accepted.",
+          "Vancouver\u2019s gas-permit page states that new natural gas installations and alterations require a permit, and it describes the installations administered by the City versus other installations directed to Technical Safety BC. Ask the contractor to confirm the correct authority for the actual property and system. Neighbourhood identity does not determine that boundary. Keep the permit responsibility explicit in the proposed scope, rather than assuming a new outlet is an incidental task outside the main installation assessment.",
+          "Property authorization is a separate question from gas permitting. If you rent, or the work affects shared property, establish who must approve the proposed alteration before asking anyone to proceed. Keep that answer with the project brief. A supplier confirming the barbecue\u2019s model is not approving work on the building. Similarly, a property manager allowing an assessment does not establish that the gas supply is suitable. Separating these decisions makes a quote easier to compare and prevents an early conversation from being mistaken for a complete go-ahead."
+        ]
+      },
+      {
+        "heading": "Turn the sketch into an assessment request",
+        "paragraphs": [
+          "Export the planner\u2019s project record and a readable summary, retaining a dated copy for yourself. Describe the request in plain language: you want an assessment of adding the specified natural gas barbecue at the marked outdoor location. List the documents supplied, the known route measurements, the largest entered route and the uncertainties. Ask what additional information or site access the assessor needs. Include only relevant project details and use the appropriate private enquiry channel for address and contact information.",
+          "Ask the proposal to distinguish assessment, installation work, any supply changes, permit handling and handover. Clarify whether patio reinstatement, access work and coordination with other trades are included. These are scope questions rather than requests for a guaranteed price from a web drawing. If a quote assumes a route or existing capacity, ask how and when those assumptions will be verified. Compare proposals on a common documented scenario so that a smaller scope is not mistaken for an equivalent cheaper installation.",
+          "After assessment, update your saved project with confirmed findings and keep them separate from the original assumptions. If the barbecue location or model changes, send the revised version before work proceeds and ask whether the assessment remains applicable. Keep the final installation documents, appliance manual and any applicable permit or inspection records together. The planner\u2019s practical benefit is continuity: you can explain what was proposed, what was unknown and what changed, while the qualified professionals retain responsibility for design, installation and required verification."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does a 50-foot longest run mean I can install the barbecue?",
+        "answer": "No. That distance is only one input. The qualified assessor must consider the actual route, section loads, material, pressure arrangement, appliance requirements, existing system and applicable rules. Gasfitter.ca\u2019s planner records and summarizes your information without approving pipe size or supply capacity."
+      },
+      {
+        "question": "What barbecue input should I use for the example?",
+        "answer": "Weber\u2019s Canadian page for Spirit E-325 Natural Gas part 1500844 lists 31,000 BTU per hour for the main burners. Treat that as this example\u2019s source record. Verify the actual appliance label and matching documentation before using it for a real assessment; do not copy the value to a different model."
+      },
+      {
+        "question": "Can I use a propane E-325 with a natural gas outlet?",
+        "answer": "Do not assume that matching family names mean matching fuels. Weber warns against attempted use of the wrong fuel and modification. Confirm the exact natural gas model and supplied instructions with the manufacturer or supplier, and have the installation assessed by a qualified gas contractor."
+      },
+      {
+        "question": "Should I measure a hidden gas route myself?",
+        "answer": "Do not expose concealed or buried services to complete the planner. Use suitable existing records and safely accessible observations, mark unknown sections clearly and ask the contractor what needs professional verification. A partial honest sketch is more useful than an apparently complete route based on guesses."
+      },
+      {
+        "question": "What should I send with a Grandview-Woodland enquiry?",
+        "answer": "Send the selected model and fuel documents, a dated planner export, safely obtained location photographs, the source of known measurements and a list of unresolved questions. State the property arrangement and authorization status. Ask for the assessment, permit and installation scope without describing the sketch as an approval."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Weber Canada: Spirit E-325 Natural Gas1500844, equipment input and photograph",
+        "url": "https://amer.weber.com/en-ca/products/spirit-e-325-gas-grill-natural-gas-black-1500844"
+      },
+      {
+        "label": "Weber: Spirit natural gas owner manual, model family and revision must match",
+        "url": "https://digital-assets.weber.com/documents/8653810_062024.pdf?fm=pdf"
+      },
+      {
+        "label": "\u00c9nergir: natural gas piping sizing overview",
+        "url": "https://informatech.energir.com/en/articles/sizing-natural-gas-piping"
+      },
+      {
+        "label": "Technical Safety BC: pressure-drop bulletin",
+        "url": "https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-pipe-sizing-and-pressure-drop-requirements"
+      },
+      {
+        "label": "FortisBC: connection standards and delivery-pressure guidance",
+        "url": "https://www.fortisbc.com/build-renovate/builders-and-developers/connect-your-project-to-gas/standards-and-guidelines-for-getting-connected"
+      },
+      {
+        "label": "City of Vancouver: gas permits",
+        "url": "https://vancouver.ca/home-property-development/gas-permit.aspx"
+      },
+      {
+        "label": "City of Vancouver: Grandview-Woodland",
+        "url": "https://vancouver.ca/news-calendar/grandview-woodland.aspx"
+      },
+      {
+        "label": "British Columbia: current Gas Safety Regulation",
+        "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/103_2004"
+      },
+      {
+        "label": "Related: preparing the first BBQ site visit in Kitsilano",
+        "url": "/kitsilano-gas-bbq-planning-first-site-visit/"
+      },
+      {
+        "label": "Related: Vancouver longest measured run and appliance sketch",
+        "url": "/vancouver-gas-fitter-longest-measured-run-stove-bbq-pool-heater/"
+      }
+    ],
+    "bodyWordCount": 2197,
+    "contentOrigin": "original-planning-guide",
+    "rightsEvidence": "Owner-directed editorial use of public official manufacturer photography; no manufacturer licence, partnership or endorsement claimed.",
+    "neighbourhood": "Grandview-Woodland",
+    "appliance": "natural-gas-bbq",
+    "intent": "longest-measured-route-and-shared-load-assessment",
+    "publicationAuthorization": "Explicit owner extra publication November12 after scheduled Mount Pleasant guide; one-off exception to daily cap."
+  },
+  {
     "slug": "mount-pleasant-gas-stove-kitchen-renovation-planning",
     "title": "Moving a Gas Stove in Mount Pleasant: Renovation Planning",
     "description": "Moving a gas stove in a Mount Pleasant kitchen renovation? Coordinate model records, layout changes, trades, Vancouver permits and handover before work begins.",

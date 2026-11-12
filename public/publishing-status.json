@@ -1,0 +1,17 @@
+{
+  "site": "gasfitter.ca",
+  "mechanism": "Codex heartbeat",
+  "automationId": "publish-daily-vancouver-gas-guide",
+  "nativeCloudPublisherVerified": false,
+  "operationally_complete": false,
+  "latestArticle": "https://www.gasfitter.ca/grandview-woodland-natural-gas-bbq-longest-run/",
+  "latestPublicationStatus": "prepared",
+  "scheduledHistory": [
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12"
+  ],
+  "rotationRevision": 2,
+  "searchStatus": "yellow",
+  "searchReason": "Google ownership verified; current sitemap/index coverage unchecked. Bing exact domain not listed in inspected account; onboarding and sitemap acceptance pending."
+}

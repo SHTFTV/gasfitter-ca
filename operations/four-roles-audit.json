@@ -1,0 +1,131 @@
+{
+  "site": "gasfitter.ca",
+  "checkedAt": "2026-11-12T17:59:45.095304+00:00",
+  "repository": "SHTFTV/gasfitter-ca",
+  "projectId": "prj_Hv99AWPjVjWFrOcGoamE94AX2YeF",
+  "operationally_complete": false,
+  "roles": {
+    "worker": {
+      "status": "partial",
+      "verified": "Codex heartbeat publications November10/11/12 and source-to-Vercel production receipts",
+      "blocked": "No native cloud source-loading publisher, production-tested LLM API, transactional writer lease or same-run failure isolation proof."
+    },
+    "visual-checker": {
+      "status": "partial",
+      "verified": "Actual human-visible browser desktop/phone hero/card and planner interaction evidence from Codex runs",
+      "blocked": "Independent scheduled checker runtime and native execution evidence absent."
+    },
+    "supervisor": {
+      "status": "prepared",
+      "verified": "This run read live GitHub/Vercel/content/Command Center evidence",
+      "blocked": "No deployed independent scheduled supervisor with attributable SOT load and durable receipt."
+    },
+    "independent-watchdog": {
+      "status": "blocked",
+      "verified": null,
+      "blocked": "No separate-provider detector for BOTH worker and supervisor silence; no Gasfitter incident/canary delivery match or verified recovery."
+    }
+  },
+  "sourceAudit": {
+    "githubWorkflowsPresent": false,
+    "vercelCronPresent": false,
+    "canonicalCentralAdapterPresent": false,
+    "centralSotLinked": false
+  },
+  "search": {
+    "gsc": {
+      "status": "verified",
+      "property": "sc-domain:gasfitter.ca",
+      "propertyVerified": true,
+      "checkedAt": "2026-11-12T17:32:23.655Z",
+      "lastAttemptAt": "2026-11-11T03:55:27.659Z",
+      "lastSuccessfulCheckAt": "2026-11-11T03:55:27.659Z",
+      "lastOwnershipVerifiedCheckAt": "2026-11-11T03:55:27.659Z",
+      "timePrecision": "timestamp",
+      "observedDate": null,
+      "indexing": {
+        "status": "unchecked",
+        "indexedPages": null,
+        "notIndexedPages": null
+      },
+      "sitemap": {
+        "status": "Success",
+        "lastRead": "Nov 6, 2026",
+        "discoveredPages": 125,
+        "url": "https://www.gasfitter.ca/sitemap.xml",
+        "note": null
+      },
+      "evidence": "Direct signed-in official GSC Sitemaps UI. Current sitemap successful; old2011HTTP and2018historical failures retained separately.",
+      "evidenceUrl": "https://search.google.com/search-console",
+      "currentSitemap": null,
+      "historicalSitemaps": [],
+      "ownershipCheckedAt": "2026-11-12T17:32:23.655Z",
+      "ownershipSource": "Direct signed-in provider inventory",
+      "searchStatus": {
+        "color": "green",
+        "label": "Verified",
+        "reason": "Correct production hostname ownership verified in the signed-in provider account.",
+        "nextAction": "Check the current sitemap report and actual indexing report; retain historical receipts separately.",
+        "lastCheckAt": "2026-11-12T17:32:23.655Z",
+        "retry": "Recheck provider ownership and sitemap after the next site touch; machine-authenticated polling remains unverified.",
+        "launchBlocking": false
+      },
+      "sitemapCurrent": {
+        "status": "unchecked",
+        "checkedAt": null
+      },
+      "historicalSitemap": {
+        "status": "Success",
+        "lastRead": "Nov 6, 2026",
+        "discoveredPages": 125,
+        "url": "https://www.gasfitter.ca/sitemap.xml",
+        "note": null
+      }
+    },
+    "bing": {
+      "status": "not-listed",
+      "property": null,
+      "propertyVerified": false,
+      "checkedAt": "2026-11-12T17:32:23.655Z",
+      "lastAttemptAt": "2026-11-10T02:34:10.987Z",
+      "lastSuccessfulCheckAt": null,
+      "lastOwnershipVerifiedCheckAt": null,
+      "timePrecision": null,
+      "observedDate": null,
+      "indexing": {
+        "status": "unchecked",
+        "indexedPages": null
+      },
+      "sitemap": null,
+      "evidence": "Official Bing site selector inventory inspected; exact domain absent. Not proof of absence from another account.",
+      "evidenceUrl": "https://www.bing.com/webmasters",
+      "currentSitemap": null,
+      "historicalSitemaps": [],
+      "ownershipCheckedAt": "2026-11-12T17:32:23.655Z",
+      "ownershipSource": "Direct signed-in provider inventory",
+      "searchStatus": {
+        "color": "yellow",
+        "label": "Setup pending",
+        "reason": "No matching property in the inspected account; other accounts were not inferred.",
+        "nextAction": "Continue authorized ownership onboarding for this exact site, then submit its sitemap.",
+        "lastCheckAt": "2026-11-12T17:32:23.655Z",
+        "retry": "Recheck provider ownership and sitemap after the next site touch; machine-authenticated polling remains unverified.",
+        "launchBlocking": false
+      },
+      "sitemapCurrent": {
+        "status": "unchecked",
+        "checkedAt": null
+      },
+      "historicalSitemap": null
+    },
+    "overall": "yellow",
+    "reason": "Google ownership verified; current sitemap/index coverage unchecked. Bing exact domain not listed in inspected account; onboarding and sitemap acceptance pending."
+  },
+  "centralPreservation": "Read-only snapshot; all row columns and sourced valuation preserved. No fabricated role receipts or counters.",
+  "approvalHold": "Canonical portfolio runtime/database activation PR16 remains held; no workaround or alternate provider provisioned.",
+  "nextActions": [
+    "Deploy source-loading native publisher with scoped provider access and actual lease/idempotency/failure recovery",
+    "Deploy attributable visual and supervisor runtimes",
+    "Bind actual independent watchdog events to existing Command Center reader and verify recovery"
+  ]
+}

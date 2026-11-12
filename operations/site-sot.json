@@ -1,0 +1,60 @@
+{
+  "site": "gasfitter.ca",
+  "revision": 2,
+  "approved": true,
+  "source": "Standing owner requirements plus explicit November12 appliance rotation request",
+  "repository": "SHTFTV/gasfitter-ca",
+  "projectId": "prj_Hv99AWPjVjWFrOcGoamE94AX2YeF",
+  "operatingStandardVersion": 2,
+  "qualityPolicyVersion": 1,
+  "canonicalStandard": "https://github.com/SHTFTV/markett-ca/blob/main/docs/completion/OPERATING-STANDARD.md",
+  "soleWriter": "Existing Codex heartbeat publish-daily-vancouver-gas-guide; no second publisher authorized or configured by this change",
+  "publicationPolicy": {
+    "revision": 2,
+    "source": "Explicit owner November12 follow-up",
+    "daily": "Change BOTH neighbourhood and appliance from the previous new guide; unique intent and project example required.",
+    "minimumBodyWords": 2000,
+    "requiredAngle": "Can I add this exact appliance? Longest measured route, shared loads, known material/pressure/meter records, verified existing planner flow and qualified assessment.",
+    "planner": "Naturally link the working national planner and verify desktop/phone interaction. No pipe sizing, pressure drop or capacity approval claims.",
+    "selection": "Select next researched eligible item whose neighbourhood AND appliance differ from last publication. Never create doorway copies. Skip/retain blocked item with reason; continue independent eligible research.",
+    "exception": "November12 extra Grandview-Woodland BBQ guide explicitly requested after Mount Pleasant scheduled guide; daily cap resumes November13."
+  },
+  "sourceDiscovery": {
+    "requiredPrimary": [
+      "Exact Canadian manufacturer product/part/fuel rating and matching manual",
+      "Vancouver neighbourhood and permit authority",
+      "Current BC gas regulation/Technical Safety BC",
+      "FortisBC service/pressure information where relevant"
+    ],
+    "reject": [
+      "Unverified media licence",
+      "Wrong fuel/market manual",
+      "Invented local building conditions",
+      "Run length as installation approval"
+    ],
+    "photography": "Exact model real official source; native pixels sufficient for1600x900 crop, modest own-brand label, truthful credit and browser hero/card/social checks."
+  },
+  "visualPolicy": {
+    "required": "real story-matching source/manufacturer photograph",
+    "size": [
+      1600,
+      900
+    ],
+    "upscaling": false,
+    "brand": "small Gasfitter.ca label",
+    "qa": "decoded dimensions and desktop/phone framing",
+    "disallowed": [
+      "planner screenshot as featured image",
+      "generated concept artwork",
+      "stock filler"
+    ],
+    "ownerInstructionDate": "2026-11-11"
+  },
+  "operationally_complete": false,
+  "remainingGates": [
+    "Native cloud publisher and LLM provider scoped access not configured",
+    "Atomic writer lease and per-item bounded retry/failure isolation not proven",
+    "Independent scheduled visual checker and supervisor not proven",
+    "External watchdog worker+supervisor silence, incident/canary reader delivery and verified recovery not proven"
+  ]
+}

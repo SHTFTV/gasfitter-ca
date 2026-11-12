@@ -1,0 +1,28 @@
+{
+  "sourcePage": "https://amer.weber.com/en-ca/products/spirit-e-325-gas-grill-natural-gas-black-1500844",
+  "sourceImage": "https://amer.weber.com/cdn/shop/files/02_SpiritE325_Searzone_sync.jpg?v=1788180653",
+  "sourceDimensions": [
+    1800,
+    1800
+  ],
+  "sourceSha256": "64fa2bee3752b1b9e5201ed53d2212efc3469f4a42ba9dee35cb4c6459a8949b",
+  "crop": {
+    "left": 4,
+    "top": 390,
+    "width": 1792,
+    "height": 1008
+  },
+  "output": "public/images/grandview-woodland-natural-gas-bbq-longest-run-1600x900.jpg",
+  "outputDimensions": [
+    1600,
+    900
+  ],
+  "outputSha256": "9279e74554db78acb5cf17378603f6164be911551d2890ece1b70b237663d598",
+  "transforms": "Crop/downsample and small Gasfitter.ca label only; no generated/reconstructed content",
+  "reuseBasis": "Owner-directed editorial use of public official manufacturer photography; no manufacturer licence, partnership or endorsement claimed.",
+  "credit": "Weber: Spirit E-325 cooking-surface detail from its Canadian Natural Gas model 1500844 product page. Manufacturer promotional photograph; not a Vancouver installation, a Gasfitter.ca test or evidence of site compliance.",
+  "originalDimensions": [
+    1800,
+    1800
+  ]
+}
