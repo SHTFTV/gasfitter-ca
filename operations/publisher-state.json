@@ -1,1 +1,24 @@
-{"site":"gasfitter.ca","version":1,"soleOwner":"codex:publish-daily-vancouver-gas-guide","lease":null,"completedDates":["2026-11-09","2026-11-10","2026-11-11","2026-11-12"],"history":[],"failures":[],"proofBoundary":"State and proposal guard prepared for existing Codex writer; production CAS claim/finish adoption requires actual run evidence. No native cloud writer implied."}
+{
+  "site": "gasfitter.ca",
+  "version": 1,
+  "soleOwner": "codex:publish-daily-vancouver-gas-guide",
+  "lease": {
+    "owner": "codex:publish-daily-vancouver-gas-guide",
+    "jobId": "publish-daily-vancouver-gas-guide:2026-11-13T17:52:57.647Z",
+    "nonce": "0f7af384-3367-4c96-8b99-346002d42220",
+    "order": 6,
+    "date": "2026-11-13",
+    "expectedHead": "21534f649448254dec194df57980695c7b94898c",
+    "claimedAt": "2026-11-13T17:53:42.303Z",
+    "expiresAt": "2026-11-13T18:23:42.303Z"
+  },
+  "completedDates": [
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12"
+  ],
+  "history": [],
+  "failures": [],
+  "proofBoundary": "State and proposal guard prepared for existing Codex writer; production CAS claim/finish adoption requires actual run evidence. No native cloud writer implied."
+}
