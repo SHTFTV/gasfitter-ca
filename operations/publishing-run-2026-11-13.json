@@ -1,0 +1,125 @@
+{
+  "site": "gasfitter.ca",
+  "automationId": "publish-daily-vancouver-gas-guide",
+  "date": "2026-11-13",
+  "status": "stopped-expired-lease-browser-verification-incomplete",
+  "checkedAt": "2026-11-14T02:28:38Z",
+  "article": {
+    "slug": "fairview-strata-gas-range-permissions-shared-load",
+    "neighbourhood": "Fairview",
+    "appliance": "gas-range",
+    "model": "Frigidaire GCFG3060BF",
+    "bodyWords": 2372,
+    "status": "local-draft-not-published",
+    "localDraft": "/private/tmp/gasfitter-nov13/new-guide.json"
+  },
+  "lease": {
+    "claimCommit": "fe6a0a74618578ace8a6d86b9c13c6b3d4e1a65a",
+    "owner": "codex:publish-daily-vancouver-gas-guide",
+    "jobId": "publish-daily-vancouver-gas-guide:2026-11-13T17:52:57.647Z",
+    "nonce": "0f7af384-3367-4c96-8b99-346002d42220",
+    "order": 6,
+    "date": "2026-11-13",
+    "expectedHead": "21534f649448254dec194df57980695c7b94898c",
+    "claimedAt": "2026-11-13T17:53:42.303Z",
+    "expiresAt": "2026-11-13T18:23:42.303Z",
+    "releaseOrTakeoverPerformed": false
+  },
+  "validation": {
+    "build": "passed; Vite client, SSR and 132 prerendered routes",
+    "featuredImage": {
+      "sourceDimensions": [
+        2000,
+        972
+      ],
+      "outputDimensions": [
+        1600,
+        900
+      ],
+      "crop": [
+        136,
+        0,
+        1728,
+        972
+      ],
+      "brand": "Gasfitter.ca",
+      "source": "https://frigidaire.bynder.com/transform/1989455a-8823-4f4d-b1e5-9d03cdad785c/GCFG3060BF_LSH-psd",
+      "status": "prepared-not-production-verified"
+    },
+    "browser": "Native Chrome preview text rendered; desktop headline screenshot retained. Browser input interrupted by user changing Chrome. Subsequent Safari tool returned after prolonged delay; lease expired. Phone and production visual/planner checks incomplete.",
+    "production": {
+      "http": 200,
+      "newArticlePresent": false,
+      "canonicalReturned": "https://www.gasfitter.ca/",
+      "reason": "HTTP200 homepage fallback is not publication success",
+      "sourceCommit": "fe6a0a74618578ace8a6d86b9c13c6b3d4e1a65a"
+    }
+  },
+  "rotation": {
+    "skipped": [
+      {
+        "order": 4,
+        "reason": "Same Grandview-Woodland neighbourhood as last new guide"
+      },
+      {
+        "order": 5,
+        "reason": "Outdoor kitchen normalizes to barbecue, same appliance family as last new guide"
+      }
+    ],
+    "selectedOrder": 6
+  },
+  "roles": {
+    "worker": "This Codex invocation claimed through expected_sha CAS; article transaction not completed. No native cloud writer claimed.",
+    "checkerAndSupervisorRuns": [
+      {
+        "id": 43543136374,
+        "name": "Gasfitter independent visual checker",
+        "event": "schedule",
+        "conclusion": "success",
+        "createdAt": "2026-11-14T01:52:30Z",
+        "head": "fe6a0a74618578ace8a6d86b9c13c6b3d4e1a65a"
+      },
+      {
+        "id": 43542748974,
+        "name": "Gasfitter read-only supervisor",
+        "event": "schedule",
+        "conclusion": "success",
+        "createdAt": "2026-11-14T01:48:21Z",
+        "head": "fe6a0a74618578ace8a6d86b9c13c6b3d4e1a65a"
+      },
+      {
+        "id": 43512913756,
+        "name": "Gasfitter independent visual checker",
+        "event": "schedule",
+        "conclusion": "success",
+        "createdAt": "2026-11-13T21:41:22Z",
+        "head": "fe6a0a74618578ace8a6d86b9c13c6b3d4e1a65a"
+      },
+      {
+        "id": 43512382159,
+        "name": "Gasfitter read-only supervisor",
+        "event": "schedule",
+        "conclusion": "success",
+        "createdAt": "2026-11-13T21:37:44Z",
+        "head": "fe6a0a74618578ace8a6d86b9c13c6b3d4e1a65a"
+      },
+      {
+        "id": 43455374388,
+        "name": "Gasfitter independent visual checker",
+        "event": "schedule",
+        "conclusion": "success",
+        "createdAt": "2026-11-13T15:42:56Z",
+        "head": "21534f649448254dec194df57980695c7b94898c"
+      }
+    ],
+    "roleProofBoundary": "Successful schedule runs observed; artifacts and loaded SOT proofs not reviewed in this run.",
+    "externalWatchdog": "Not reverified; no delivery or recovery proof claimed."
+  },
+  "search": {
+    "gsc": "Prior verified domain evidence inspected; fresh official UI was active for exact gasfitter.ca, report contents not reviewed.",
+    "bing": "November13 provider welcome email visibly reports recently verified www.gasfitter.ca; fresh sitemap/indexing report not verified. Do not retain old not-listed finding as current certainty.",
+    "status": "yellow-current-report-review-pending",
+    "launchBlocking": false
+  },
+  "nextAction": "Reconcile expired same-owner lease using verified absent canonical, explicit supported recovery path and exact expected_sha before another claim; never force, steal, fabricate finish or publish from this expired attempt. Resume review of prepared draft/photo and actual desktop/phone planner checks under a valid lease."
+}
