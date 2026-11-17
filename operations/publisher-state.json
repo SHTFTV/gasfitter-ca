@@ -2,16 +2,7 @@
   "site": "gasfitter.ca",
   "version": 1,
   "soleOwner": "codex:publish-daily-vancouver-gas-guide",
-  "lease": {
-    "owner": "codex:publish-daily-vancouver-gas-guide",
-    "jobId": "publish-daily-vancouver-gas-guide:2026-11-17T19:46:10.781Z",
-    "nonce": "4a39cfd3-2c6b-4de6-9521-590cdb9390e1",
-    "order": 6,
-    "date": "2026-11-17",
-    "expectedHead": "471dc85f4e407a209fb36e290dbda1da2168b7e8",
-    "claimedAt": "2026-11-17T19:48:22.321Z",
-    "expiresAt": "2026-11-17T20:18:22.321Z"
-  },
+  "lease": null,
   "completedDates": [
     "2026-11-09",
     "2026-11-10",
@@ -48,6 +39,36 @@
           "https://www.gasfitter.ca/sitemap.xml"
         ],
         "writerStatus": "target thread notLoaded; November13 source receipt explicitly stopped; unchanged main since November14"
+      }
+    },
+    {
+      "owner": "codex:publish-daily-vancouver-gas-guide",
+      "jobId": "publish-daily-vancouver-gas-guide:2026-11-17T19:46:10.781Z",
+      "nonce": "4a39cfd3-2c6b-4de6-9521-590cdb9390e1",
+      "order": 6,
+      "date": "2026-11-17",
+      "expectedHead": "471dc85f4e407a209fb36e290dbda1da2168b7e8",
+      "claimedAt": "2026-11-17T19:48:22.321Z",
+      "expiresAt": "2026-11-17T20:18:22.321Z",
+      "result": "reconciled-absent",
+      "finishedAt": "2026-11-17T20:30:08.960Z",
+      "proofRef": "operations/publishing-run-2026-11-17.json",
+      "evidence": {
+        "sourceHead": "5bac8f3afedac7131a7d09f29d60afb37a3c9fdb",
+        "writerStopped": true,
+        "proofRef": "operations/publishing-run-2026-11-17.json",
+        "slug": "fairview-strata-gas-range-permissions-shared-load",
+        "publication": "absent",
+        "checkedAt": "2026-11-17T20:30:08.254Z",
+        "sourceChecked": true,
+        "liveChecked": true,
+        "observedCanonical": "https://www.gasfitter.ca/",
+        "checkedDiscovery": [
+          "/blog/",
+          "/feed.xml",
+          "/sitemap.xml"
+        ],
+        "reason": "Real-browser createBrowserTab call took2375seconds, exceeding30minute lease; no expired-lease publication allowed."
       }
     }
   ],
