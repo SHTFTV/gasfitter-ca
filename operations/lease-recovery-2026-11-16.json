@@ -1,0 +1,18 @@
+{
+  "sourceHead": "4e617b50ad28262442771a0db58979f395d4a6b1",
+  "writerStopped": true,
+  "proofRef": "operations/lease-recovery-2026-11-16.json",
+  "slug": "fairview-strata-gas-range-permissions-shared-load",
+  "publication": "absent",
+  "checkedAt": "2026-11-17T03:38:50.884400+00:00",
+  "sourceChecked": true,
+  "liveChecked": true,
+  "liveUrl": "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/",
+  "observedCanonical": "https://www.gasfitter.ca/",
+  "checkedDiscovery": [
+    "https://www.gasfitter.ca/blog/",
+    "https://www.gasfitter.ca/feed.xml",
+    "https://www.gasfitter.ca/sitemap.xml"
+  ],
+  "writerStatus": "target thread notLoaded; November13 source receipt explicitly stopped; unchanged main since November14"
+}
