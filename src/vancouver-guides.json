@@ -1,5 +1,81 @@
 [
   {
+    "image": "/images/grandview-woodland-natural-gas-bbq-longest-run-1600x900.jpg",
+    "imageAlt": "Official Weber Spirit E-325 cooking-surface detail with Gasfitter.ca label",
+    "imageCredit": "Weber: Spirit E-325 cooking-surface detail from its Canadian Natural Gas model 1500844 product page. Manufacturer promotional photograph; not a Vancouver installation, a Gasfitter.ca test or evidence of site compliance.",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "imageProvenance": {
+      "sourcePage": "https://amer.weber.com/en-ca/products/spirit-e-325-gas-grill-natural-gas-black-1500844",
+      "sourceImage": "https://amer.weber.com/cdn/shop/files/02_SpiritE325_Searzone_sync.jpg?v=1788180653",
+      "sourceDimensions": [
+        1800,
+        1800
+      ],
+      "sourceSha256": "64fa2bee3752b1b9e5201ed53d2212efc3469f4a42ba9dee35cb4c6459a8949b",
+      "crop": {
+        "left": 4,
+        "top": 390,
+        "width": 1792,
+        "height": 1008
+      },
+      "output": "public/images/grandview-woodland-natural-gas-bbq-longest-run-1600x900.jpg",
+      "outputDimensions": [
+        1600,
+        900
+      ],
+      "outputSha256": "9279e74554db78acb5cf17378603f6164be911551d2890ece1b70b237663d598",
+      "transforms": "Crop/downsample and small Gasfitter.ca label only; no generated/reconstructed content",
+      "reuseBasis": "Owner-directed editorial use of public official manufacturer photography; no manufacturer licence, partnership or endorsement claimed.",
+      "credit": "Weber: Spirit E-325 cooking-surface detail from its Canadian Natural Gas model 1500844 product page. Manufacturer promotional photograph; not a Vancouver installation, a Gasfitter.ca test or evidence of site compliance.",
+      "originalDimensions": [
+        1800,
+        1800
+      ]
+    },
+    "useOriginalImage": true,
+    "rightsEvidence": "Owner-directed editorial use of public official manufacturer photography; no manufacturer licence, partnership or endorsement claimed.",
+    "slug": "vancouver-bbq-addition-fortisbc-meter-exchange-enquiry",
+    "title": "Adding a gas barbecue in Vancouver: when the fitter needs a meter exchange",
+    "description": "What FortisBC asks for when a gas fitter identifies a service upgrade, and which details to collect before the call.",
+    "date": "2026-11-18",
+    "publishedAt": "2026-11-18T22:12:41.859Z",
+    "neighbourhood": "Vancouver",
+    "appliance": "natural-gas-bbq",
+    "intent": "meter-exchange-planning",
+    "intro": [
+      "A new barbecue on a quotation raises two separate questions: what the appliance needs, and whether the existing gas service can supply the property after the addition. The homeowner can help assemble the equipment list. The gas fitter determines what to request from the utility."
+    ],
+    "sections": [
+      {
+        "heading": "Get the two figures from your fitter",
+        "paragraphs": [
+          "FortisBC’s service-upgrade instructions ask for the required delivery pressure and the total load in BTU, along with the fitter’s name and telephone number. A number from the barbecue listing describes one appliance. Passing that number to the utility as the whole property load can send the enquiry back to the contractor for clarification."
+        ]
+      },
+      {
+        "heading": "Make one handoff before setting an installation date",
+        "paragraphs": [
+          "Ask your fitter to put the requested service details and a callback number together on the estimate. If a meter exchange is needed, use FortisBC’s Construction Services contact on its upgrade page. Keep the utility reference with the installer’s quotation so both parties can identify the same request before you book the work."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Does every barbecue addition need a larger meter?",
+        "answer": "FortisBC describes an exchange when the fitter determines that the increased use calls for a different regulator or larger meter. Ask your fitter about your actual equipment."
+      }
+    ],
+    "sources": [
+      {
+        "label": "FortisBC: upgrade your natural gas service",
+        "url": "https://www.fortisbc.com/services/natural-gas-services/upgrade-your-natural-gas-service"
+      }
+    ],
+    "contentOrigin": "Source-reviewed editorial guide",
+    "bodyWordCount": 151
+  },
+  {
     "slug": "grandview-woodland-natural-gas-bbq-longest-run",
     "title": "Can I Add a Natural Gas Barbecue in Grandview-Woodland? Start With the Longest Run",
     "description": "Can you add a natural gas BBQ in Grandview-Woodland? Sketch the longest measured run, record the Weber E-325 input and prepare a qualified assessment.",
@@ -41,13 +117,13 @@
     "useOriginalImage": true,
     "intro": [
       "You may be able to add a natural gas barbecue at a Grandview-Woodland property, but the distance to the patio does not decide the answer. Start with the exact natural gas appliance, a sketch of the known supply route, the longest measured route and the other connected appliances. Then have a qualified gas contractor assess the supply, location, installation and permit scope. Use the Gasfitter.ca sketch planner to build that brief before requesting an assessment; its totals organize your inputs and do not approve pipe size, pressure drop or meter capacity.",
-      "This guide works through a barbecue-specific planning exercise rather than assuming every Vancouver backyard has the same system. The example appliance is the Weber Spirit E-325 Natural Gas, Canadian part number 1500844. The manufacturer\u2019s current Canadian product page identifies that fuel version and lists 31,000 BTU per hour for its main burners. Confirm the actual appliance\u2019s rating plate and matching documents before using any figure in a real project. The worked distances below are invented teaching inputs, never measurements from a customer installation."
+      "This guide works through a barbecue-specific planning exercise rather than assuming every Vancouver backyard has the same system. The example appliance is the Weber Spirit E-325 Natural Gas, Canadian part number 1500844. The manufacturer’s current Canadian product page identifies that fuel version and lists 31,000 BTU per hour for its main burners. Confirm the actual appliance’s rating plate and matching documents before using any figure in a real project. The worked distances below are invented teaching inputs, never measurements from a customer installation."
     ],
     "sections": [
       {
         "heading": "Start with your property, rather than a neighbourhood assumption",
         "paragraphs": [
-          "The City identifies Grandview-Woodland as a Vancouver neighbourhood associated with Commercial Drive and extending south toward Trout Lake. That local context helps identify the project area; it cannot reveal your meter pressure, concealed piping or permission to alter shared property. A useful enquiry starts with the actual property arrangement: detached home, rented premises or a strata property, along with who can authorize changes. Do not infer a building\u2019s gas capacity from its street, apparent age or a nearby installation.",
+          "The City identifies Grandview-Woodland as a Vancouver neighbourhood associated with Commercial Drive and extending south toward Trout Lake. That local context helps identify the project area; it cannot reveal your meter pressure, concealed piping or permission to alter shared property. A useful enquiry starts with the actual property arrangement: detached home, rented premises or a strata property, along with who can authorize changes. Do not infer a building’s gas capacity from its street, apparent age or a nearby installation.",
           "Describe the outdoor space you actually want to use. A freestanding barbecue beside an open patio is a different proposal from a built-in counter, covered area or balcony. Take ordinary photographs of the intended position and surrounding features when it is safe to do so. Show access routes, doors and nearby equipment without asserting that any separation is compliant. A contractor needs enough context to identify questions; a polished photograph with important surroundings cropped out is a poor substitute for a clear brief.",
           "Separate your preferred cooking position from the proposed gas outlet. Those are related decisions, but they are not necessarily the same point on the sketch. Record where you want to stand, where people normally walk and where the barbecue would be stored. Ask the assessor to confirm an acceptable equipment and connection arrangement. Do not make a hose reach a preferred position by improvising extensions or routing it through a walking path. An initial drawing should expose a difficult layout before patio work or appliance purchasing makes it expensive to change."
         ]
@@ -55,8 +131,8 @@
       {
         "heading": "Identify the natural gas model before entering its input",
         "paragraphs": [
-          "For this exercise, write \u201cWeber Spirit E-325 Natural Gas, 1500844\u201d in the appliance notes. Keep the manufacturer\u2019s Canadian product link with that entry. The value 31,000 BTU per hour comes from that page\u2019s main-burner input specification; it is an equipment record for this example, not an allowance granted by the existing house piping. If the appliance label or supplied documentation differs, stop using the example value and ask the supplier or contractor to reconcile the exact version.",
-          "A propane version with a similar name is a different fuel appliance. Weber\u2019s natural gas owner\u2019s manual warns against attempting to use one fuel in the other version and against modifying the appliance. Its manual also covers several Spirit variants, so retain the exact model and the manual revision together. A family name on a search result does not establish that every instruction or feature applies to your unit. Download the matching documents from the manufacturer and keep the rating information available for the professional assessment.",
+          "For this exercise, write “Weber Spirit E-325 Natural Gas, 1500844” in the appliance notes. Keep the manufacturer’s Canadian product link with that entry. The value 31,000 BTU per hour comes from that page’s main-burner input specification; it is an equipment record for this example, not an allowance granted by the existing house piping. If the appliance label or supplied documentation differs, stop using the example value and ask the supplier or contractor to reconcile the exact version.",
+          "A propane version with a similar name is a different fuel appliance. Weber’s natural gas owner’s manual warns against attempting to use one fuel in the other version and against modifying the appliance. Its manual also covers several Spirit variants, so retain the exact model and the manual revision together. A family name on a search result does not establish that every instruction or feature applies to your unit. Download the matching documents from the manufacturer and keep the rating information available for the professional assessment.",
           "The supplied photograph is an official Weber cooking-surface detail associated with the E-325 natural gas product page. It illustrates the barbecue subject; it is not evidence of a Vancouver installation, a connection arrangement or a performance test carried out by Gasfitter.ca. Product imagery can make the project easier to understand, while the model records supply the actual technical starting point. Neither should be used to imply that the photographed scene demonstrates all clearances, local permissions or installation requirements at your property."
         ]
       },
@@ -72,8 +148,8 @@
       {
         "heading": "A long route and a high shared load answer different questions",
         "paragraphs": [
-          "A longest-run approach considers the route through the relevant system or pressure section alongside the load carried by individual sections. \u00c9nergir\u2019s technical explanation describes surveying appliances and distances, identifying pressure arrangements and regulators, and considering branch loads. It also identifies material, available pressure and routing as sizing inputs. This explains why a single distance cannot settle the barbecue question. Its technical overview is background reading, not a substitute for the applicable British Columbia requirements and a site-specific design.",
-          "On the fictional sketch, the shared 20-foot section serves more than the barbecue. Its assessment depends on the appliances downstream, rather than the new barbecue input alone. Enter known existing appliance inputs from appropriate records, and keep unknown values visibly unknown. The planner can total the values supplied to it, but a partial equipment list creates a partial total. Calling that number \u201cthe house load\u201d would conceal missing information and could lead someone to misunderstand what still needs assessment.",
+          "A longest-run approach considers the route through the relevant system or pressure section alongside the load carried by individual sections. Énergir’s technical explanation describes surveying appliances and distances, identifying pressure arrangements and regulators, and considering branch loads. It also identifies material, available pressure and routing as sizing inputs. This explains why a single distance cannot settle the barbecue question. Its technical overview is background reading, not a substitute for the applicable British Columbia requirements and a site-specific design.",
+          "On the fictional sketch, the shared 20-foot section serves more than the barbecue. Its assessment depends on the appliances downstream, rather than the new barbecue input alone. Enter known existing appliance inputs from appropriate records, and keep unknown values visibly unknown. The planner can total the values supplied to it, but a partial equipment list creates a partial total. Calling that number “the house load” would conceal missing information and could lead someone to misunderstand what still needs assessment.",
           "Do not add a speculative furnace, pool heater or future outdoor kitchen as though it is already installed. Identify proposed future equipment separately and ask whether the contractor should assess that scenario now. A useful comparison states what changes between the current and proposed layouts. For example, the barbecue-only proposal and a later barbecue-plus-heater proposal should have distinct notes and version names. That makes the assessment request clear without turning an unselected future appliance into a fictitious confirmed load."
         ]
       },
@@ -82,34 +158,34 @@
         "paragraphs": [
           "The planner can retain supply-pressure information and its unit, along with meter-rating details where those records are available. Record the provenance and context: an existing contractor document, an applicable utility response or an appliance record. Leave unfamiliar or uncertain information blank and ask for confirmation. A pressure value without a unit is ambiguous, and a meter label is not a certificate that a particular amount of capacity is available for an addition. The planner does not make that determination.",
           "Where known, identify the piping material and any documented changes of material or regulators in the project notes. Do not open a wall, dig near services, disconnect equipment or adjust a regulator to complete a web form. A preliminary record can say that a section is concealed and requires professional verification. That is a useful finding because it identifies the next assessment task. Guessing a material to make every field look complete removes the very uncertainty the visit needs to resolve.",
-          "Technical Safety BC\u2019s pressure-drop bulletin explains that inadequate supply can affect other connected appliances and that applicable code requirements cannot simply be replaced by an appliance\u2019s apparent ability to operate. FortisBC\u2019s connection guidance also directs customers to their gas fitter for the delivery pressure needed for the intended appliances and piping. Ask the contractor to identify the required supply conditions and any utility coordination. Do not treat turning on a barbecue as a household capacity test or attempt to create a low-pressure condition yourself."
+          "Technical Safety BC’s pressure-drop bulletin explains that inadequate supply can affect other connected appliances and that applicable code requirements cannot simply be replaced by an appliance’s apparent ability to operate. FortisBC’s connection guidance also directs customers to their gas fitter for the delivery pressure needed for the intended appliances and piping. Ask the contractor to identify the required supply conditions and any utility coordination. Do not treat turning on a barbecue as a household capacity test or attempt to create a low-pressure condition yourself."
         ]
       },
       {
         "heading": "Check the actual outdoor and permit scope",
         "paragraphs": [
           "The Weber manual identifies this as an outdoor appliance and warns against built-in or slide-in installation for the models it covers. Bring the complete matching instructions to the discussion, including location and surrounding-construction questions. Do not use a general patio photograph to approve a covered or partly enclosed position. This guide deliberately does not provide a universal setback diagram: the actual model instructions, site arrangement and applicable authority need to be considered together before a location is accepted.",
-          "Vancouver\u2019s gas-permit page states that new natural gas installations and alterations require a permit, and it describes the installations administered by the City versus other installations directed to Technical Safety BC. Ask the contractor to confirm the correct authority for the actual property and system. Neighbourhood identity does not determine that boundary. Keep the permit responsibility explicit in the proposed scope, rather than assuming a new outlet is an incidental task outside the main installation assessment.",
-          "Property authorization is a separate question from gas permitting. If you rent, or the work affects shared property, establish who must approve the proposed alteration before asking anyone to proceed. Keep that answer with the project brief. A supplier confirming the barbecue\u2019s model is not approving work on the building. Similarly, a property manager allowing an assessment does not establish that the gas supply is suitable. Separating these decisions makes a quote easier to compare and prevents an early conversation from being mistaken for a complete go-ahead."
+          "Vancouver’s gas-permit page states that new natural gas installations and alterations require a permit, and it describes the installations administered by the City versus other installations directed to Technical Safety BC. Ask the contractor to confirm the correct authority for the actual property and system. Neighbourhood identity does not determine that boundary. Keep the permit responsibility explicit in the proposed scope, rather than assuming a new outlet is an incidental task outside the main installation assessment.",
+          "Property authorization is a separate question from gas permitting. If you rent, or the work affects shared property, establish who must approve the proposed alteration before asking anyone to proceed. Keep that answer with the project brief. A supplier confirming the barbecue’s model is not approving work on the building. Similarly, a property manager allowing an assessment does not establish that the gas supply is suitable. Separating these decisions makes a quote easier to compare and prevents an early conversation from being mistaken for a complete go-ahead."
         ]
       },
       {
         "heading": "Turn the sketch into an assessment request",
         "paragraphs": [
-          "Export the planner\u2019s project record and a readable summary, retaining a dated copy for yourself. Describe the request in plain language: you want an assessment of adding the specified natural gas barbecue at the marked outdoor location. List the documents supplied, the known route measurements, the largest entered route and the uncertainties. Ask what additional information or site access the assessor needs. Include only relevant project details and use the appropriate private enquiry channel for address and contact information.",
+          "Export the planner’s project record and a readable summary, retaining a dated copy for yourself. Describe the request in plain language: you want an assessment of adding the specified natural gas barbecue at the marked outdoor location. List the documents supplied, the known route measurements, the largest entered route and the uncertainties. Ask what additional information or site access the assessor needs. Include only relevant project details and use the appropriate private enquiry channel for address and contact information.",
           "Ask the proposal to distinguish assessment, installation work, any supply changes, permit handling and handover. Clarify whether patio reinstatement, access work and coordination with other trades are included. These are scope questions rather than requests for a guaranteed price from a web drawing. If a quote assumes a route or existing capacity, ask how and when those assumptions will be verified. Compare proposals on a common documented scenario so that a smaller scope is not mistaken for an equivalent cheaper installation.",
-          "After assessment, update your saved project with confirmed findings and keep them separate from the original assumptions. If the barbecue location or model changes, send the revised version before work proceeds and ask whether the assessment remains applicable. Keep the final installation documents, appliance manual and any applicable permit or inspection records together. The planner\u2019s practical benefit is continuity: you can explain what was proposed, what was unknown and what changed, while the qualified professionals retain responsibility for design, installation and required verification."
+          "After assessment, update your saved project with confirmed findings and keep them separate from the original assumptions. If the barbecue location or model changes, send the revised version before work proceeds and ask whether the assessment remains applicable. Keep the final installation documents, appliance manual and any applicable permit or inspection records together. The planner’s practical benefit is continuity: you can explain what was proposed, what was unknown and what changed, while the qualified professionals retain responsibility for design, installation and required verification."
         ]
       }
     ],
     "faqs": [
       {
         "question": "Does a 50-foot longest run mean I can install the barbecue?",
-        "answer": "No. That distance is only one input. The qualified assessor must consider the actual route, section loads, material, pressure arrangement, appliance requirements, existing system and applicable rules. Gasfitter.ca\u2019s planner records and summarizes your information without approving pipe size or supply capacity."
+        "answer": "No. That distance is only one input. The qualified assessor must consider the actual route, section loads, material, pressure arrangement, appliance requirements, existing system and applicable rules. Gasfitter.ca’s planner records and summarizes your information without approving pipe size or supply capacity."
       },
       {
         "question": "What barbecue input should I use for the example?",
-        "answer": "Weber\u2019s Canadian page for Spirit E-325 Natural Gas part 1500844 lists 31,000 BTU per hour for the main burners. Treat that as this example\u2019s source record. Verify the actual appliance label and matching documentation before using it for a real assessment; do not copy the value to a different model."
+        "answer": "Weber’s Canadian page for Spirit E-325 Natural Gas part 1500844 lists 31,000 BTU per hour for the main burners. Treat that as this example’s source record. Verify the actual appliance label and matching documentation before using it for a real assessment; do not copy the value to a different model."
       },
       {
         "question": "Can I use a propane E-325 with a natural gas outlet?",
@@ -134,7 +210,7 @@
         "url": "https://digital-assets.weber.com/documents/8653810_062024.pdf?fm=pdf"
       },
       {
-        "label": "\u00c9nergir: natural gas piping sizing overview",
+        "label": "Énergir: natural gas piping sizing overview",
         "url": "https://informatech.energir.com/en/articles/sizing-natural-gas-piping"
       },
       {
@@ -181,8 +257,8 @@
     "date": "2026-11-12",
     "publishedAt": "2026-11-12T17:09:29.057460+00:00",
     "image": "/images/mount-pleasant-gas-stove-renovation-1600x900.jpg",
-    "imageAlt": "Caf\u00e9 cooking range in GE Appliances\u2019 archival 2019 KBIS Matte White Kitchen Suite photograph, with Gasfitter.ca branding",
-    "imageCredit": "GE Appliances / Caf\u00e9 pressroom: 2019 KBIS Matte White Kitchen Suite. Archival manufacturer showroom photograph; not a Mount Pleasant home or a Gasfitter.ca installation. Exact appliance model and current availability are not established by this image.",
+    "imageAlt": "Café cooking range in GE Appliances’ archival 2019 KBIS Matte White Kitchen Suite photograph, with Gasfitter.ca branding",
+    "imageCredit": "GE Appliances / Café pressroom: 2019 KBIS Matte White Kitchen Suite. Archival manufacturer showroom photograph; not a Mount Pleasant home or a Gasfitter.ca installation. Exact appliance model and current availability are not established by this image.",
     "imageWidth": 1600,
     "imageHeight": 900,
     "imageProvenance": {
@@ -194,7 +270,7 @@
         4268
       ],
       "asset": "CAFE 2019 KBIS Matte White Kitchen Suite",
-      "credit": "GE Appliances / Caf\u00e9 pressroom: 2019 KBIS Matte White Kitchen Suite. Archival manufacturer showroom photograph; not a Mount Pleasant home or a Gasfitter.ca installation. Exact appliance model and current availability are not established by this image.",
+      "credit": "GE Appliances / Café pressroom: 2019 KBIS Matte White Kitchen Suite. Archival manufacturer showroom photograph; not a Mount Pleasant home or a Gasfitter.ca installation. Exact appliance model and current availability are not established by this image.",
       "sourceSha256": "e7e88233c77800189f92cad8044a79f74faf3c5d024d0ca4ebcd3069fd476556",
       "crop": {
         "left": 96,
@@ -213,36 +289,36 @@
     },
     "useOriginalImage": true,
     "intro": [
-      "Before moving a gas stove during a Mount Pleasant kitchen renovation, agree on the proposed appliance and location, identify the gas work that may change, and coordinate that assessment with the kitchen designer and other responsible trades. A cabinet drawing or an existing gas connection does not establish that the new arrangement is suitable. Check the City of Vancouver\u2019s current renovation and gas-permit guidance, then ask the qualified contractor to define the actual scope before demolition, ordering or finishing decisions make changes harder.",
-      "This guide follows the project from the first layout discussion to handover. Its purpose is to help you give each person the same reliable information: what exists, what is proposed, which decisions remain open and who will confirm them. It does not provide disconnection, reconnection or pipe-sizing instructions. The featured photograph is GE Appliances\u2019 archival Caf\u00e9 kitchen-suite press photograph from the 2019 KBIS collection. It illustrates a cooking-appliance setting, not a Mount Pleasant property or a project undertaken by Gasfitter.ca."
+      "Before moving a gas stove during a Mount Pleasant kitchen renovation, agree on the proposed appliance and location, identify the gas work that may change, and coordinate that assessment with the kitchen designer and other responsible trades. A cabinet drawing or an existing gas connection does not establish that the new arrangement is suitable. Check the City of Vancouver’s current renovation and gas-permit guidance, then ask the qualified contractor to define the actual scope before demolition, ordering or finishing decisions make changes harder.",
+      "This guide follows the project from the first layout discussion to handover. Its purpose is to help you give each person the same reliable information: what exists, what is proposed, which decisions remain open and who will confirm them. It does not provide disconnection, reconnection or pipe-sizing instructions. The featured photograph is GE Appliances’ archival Café kitchen-suite press photograph from the 2019 KBIS collection. It illustrates a cooking-appliance setting, not a Mount Pleasant property or a project undertaken by Gasfitter.ca."
     ],
     "sections": [
       {
         "heading": "Decide whether the project is a replacement, a move or both",
         "paragraphs": [
           "Begin with the change itself rather than the shopping list. Replacing a stove in its existing position, moving the current stove to another wall and installing a different appliance in a revised kitchen are three different proposals. A combined project can include both relocation and equipment changes. Write down the existing appliance, the proposed appliance and the intended location separately. If you are still comparing layouts, present them as options rather than giving different trades conflicting versions of a supposedly settled plan.",
-          "An original example makes the distinction clear. One brief might say, \u201cWe want to replace the existing range in the same cabinet opening and need the proposed model assessed.\u201d Another might say, \u201cWe want the cooking area on the opposite wall and need the layout reviewed before cabinets are ordered.\u201d These are planning examples, not reported local jobs. The second introduces route and coordination questions even if the appliance itself stays the same. The first can still raise compatibility and surrounding-installation questions; unchanged location is not the same as unchanged scope."
+          "An original example makes the distinction clear. One brief might say, “We want to replace the existing range in the same cabinet opening and need the proposed model assessed.” Another might say, “We want the cooking area on the opposite wall and need the layout reviewed before cabinets are ordered.” These are planning examples, not reported local jobs. The second introduces route and coordination questions even if the appliance itself stays the same. The first can still raise compatibility and surrounding-installation questions; unchanged location is not the same as unchanged scope."
         ]
       },
       {
         "heading": "Confirm the property arrangement and project decision-maker",
         "paragraphs": [
           "Identify who owns or manages the property and who can approve the work. For a strata unit, rented home or property with several responsible parties, distinguish the person using the kitchen from the person authorizing alterations. Ask which property documents or permissions the designer and contractor need to see. Keep those arrangements separate from municipal approvals and technical assessment. An appliance purchase, a contractor enquiry and an accepted renovation scope are different stages, and none should be quietly substituted for another in the project folder.",
-          "Mount Pleasant is a neighbourhood within Vancouver, as described by the City\u2019s area page. That geographic context is useful for identifying the project location, but it does not establish your building\u2019s age, layout, piping or approval history. Describe the actual property and any existing documents you have. Do not assume that a guide written for the neighbourhood represents every kitchen there. If responsibility for shared equipment, access or a proposed alteration is unclear, make that a question to resolve before asking a trade to proceed on an assumed authorization."
+          "Mount Pleasant is a neighbourhood within Vancouver, as described by the City’s area page. That geographic context is useful for identifying the project location, but it does not establish your building’s age, layout, piping or approval history. Describe the actual property and any existing documents you have. Do not assume that a guide written for the neighbourhood represents every kitchen there. If responsibility for shared equipment, access or a proposed alteration is unclear, make that a question to resolve before asking a trade to proceed on an assumed authorization."
         ]
       },
       {
         "heading": "Give the designer and gas contractor the same appliance record",
         "paragraphs": [
-          "Collect the proposed appliance\u2019s manufacturer, model designation, fuel version and applicable installation documentation. Keep the supplier\u2019s quotation with the identifying record, but do not assume a short sales description includes every installation detail. If the equipment has not been selected, mark the model as undecided and ask when selection must be finalized. A kitchen plan based on an approximate appliance opening can become inconsistent with the actual equipment if the model changes while cabinets, surfaces or related work are already being ordered.",
-          "For existing equipment, retain the records already available, such as a manual, invoice or safely visible identifying information. Do not move a connected stove or remove components to create a more complete enquiry. Label old and proposed documents clearly so nobody uses the former appliance\u2019s information as if it described the replacement. The historic Caf\u00e9 photograph accompanying this article is not a specification source for your project. It does not establish an exact model, current availability, required clearances or suitability for a Canadian installation."
+          "Collect the proposed appliance’s manufacturer, model designation, fuel version and applicable installation documentation. Keep the supplier’s quotation with the identifying record, but do not assume a short sales description includes every installation detail. If the equipment has not been selected, mark the model as undecided and ask when selection must be finalized. A kitchen plan based on an approximate appliance opening can become inconsistent with the actual equipment if the model changes while cabinets, surfaces or related work are already being ordered.",
+          "For existing equipment, retain the records already available, such as a manual, invoice or safely visible identifying information. Do not move a connected stove or remove components to create a more complete enquiry. Label old and proposed documents clearly so nobody uses the former appliance’s information as if it described the replacement. The historic Café photograph accompanying this article is not a specification source for your project. It does not establish an exact model, current availability, required clearances or suitability for a Canadian installation."
         ]
       },
       {
         "heading": "Distinguish room measurements from gas-route measurements",
         "paragraphs": [
           "A kitchen drawing and a gas-route sketch answer different questions. The room drawing can identify the intended appliance position, adjacent cabinets, other equipment and the proposed work area. The gas sketch can organize known or proposed upstream connections and measured route sections. Do not treat a dimension between two cabinet faces as the assessed gas-route length. Explain what each measurement represents and who supplied it. Where a route is concealed or uncertain, the drawing should show a missing fact rather than disguising it with a neat line.",
-          "Gasfitter.ca\u2019s planner adds the section lengths entered along each connected appliance path. Its drawing is not to scale, and moving a symbol across the screen does not change the entered distance. Additional vertical distance should be entered separately only when it is not already part of the section measurement. The tool does not calculate an approved fitting allowance or select a pipe diameter. Use it to preserve the information you have and to identify the questions the contractor needs to answer, not to turn an early cabinet layout into an installation design."
+          "Gasfitter.ca’s planner adds the section lengths entered along each connected appliance path. Its drawing is not to scale, and moving a symbol across the screen does not change the entered distance. Additional vertical distance should be entered separately only when it is not already part of the section measurement. The tool does not calculate an approved fitting allowance or select a pipe diameter. Use it to preserve the information you have and to identify the questions the contractor needs to answer, not to turn an early cabinet layout into an installation design."
         ]
       },
       {
@@ -256,20 +332,20 @@
         "heading": "Coordinate ventilation, electrical work and surrounding finishes",
         "paragraphs": [
           "Moving the cooking area can affect more than the gas connection. Ask the designer and the appropriate trades which associated ventilation, electrical and surrounding-installation questions need assessment. Record who is responsible for each part and which model documents they are using. Do not infer that an existing hood, outlet or cabinet arrangement will suit the revised location simply because it served the old stove. A photograph of an attractive showroom kitchen is useful for discussing appearance, but it is not evidence that the same arrangement is appropriate at your property.",
-          "Keep the scope questions connected without confusing responsibility. The gas contractor should not be expected to approve an unrelated trade\u2019s work through a general comment on the kitchen drawing. Similarly, a cabinetry decision should not silently determine where regulated work must go without the relevant assessment. Ask for the decisions that need to be confirmed before a cabinet or countertop order is released. Where a point remains open, label it as a dependency rather than relying on several separate emails to preserve the uncertainty."
+          "Keep the scope questions connected without confusing responsibility. The gas contractor should not be expected to approve an unrelated trade’s work through a general comment on the kitchen drawing. Similarly, a cabinetry decision should not silently determine where regulated work must go without the relevant assessment. Ask for the decisions that need to be confirmed before a cabinet or countertop order is released. Where a point remains open, label it as a dependency rather than relying on several separate emails to preserve the uncertainty."
         ]
       },
       {
         "heading": "Include the connected system when discussing a different stove",
         "paragraphs": [
-          "If the proposed appliance changes the gas demand under consideration, provide its actual input information from the applicable record. The planner\u2019s input field is in BTU per hour. Do not substitute oven volume, electrical demand, a heating-output figure or the value listed for another appliance. Where the input remains unknown, leave it unknown. A plausible-looking number can make an incomplete proposal appear settled and can be copied into later documents without anybody noticing that the original assumption was never confirmed.",
+          "If the proposed appliance changes the gas demand under consideration, provide its actual input information from the applicable record. The planner’s input field is in BTU per hour. Do not substitute oven volume, electrical demand, a heating-output figure or the value listed for another appliance. Where the input remains unknown, leave it unknown. A plausible-looking number can make an incomplete proposal appear settled and can be copied into later documents without anybody noticing that the original assumption was never confirmed.",
           "Also identify the other relevant appliances on the supply being assessed, while distinguishing confirmed connections from questions. A stove relocation is not automatically a review of the whole property, so ask what the proposed assessment includes. Pressure and meter-rating fields in the planner retain entered records; they do not approve pressure loss, choose material-specific tables or certify spare capacity. Ask who will confirm the supply arrangement and whether another responsible party needs to be involved. Keep that finding separate from your preliminary drawing and the initial equipment inventory."
         ]
       },
       {
         "heading": "Check the City of Vancouver renovation and gas-permit guidance",
         "paragraphs": [
-          "The City\u2019s current home-renovation page distinguishes cosmetic changes from work such as moving existing gas lines and other services. Read it alongside the gas-permit page rather than treating a kitchen project as one generic permission question. Describe the actual proposal when asking the City or contractor what applies. A cabinet replacement, an appliance move and an alteration to regulated systems may raise different issues within the same renovation. The purpose of checking early is to identify those issues before the scope is obscured by a single label such as \u201ckitchen refresh.\u201d",
+          "The City’s current home-renovation page distinguishes cosmetic changes from work such as moving existing gas lines and other services. Read it alongside the gas-permit page rather than treating a kitchen project as one generic permission question. Describe the actual proposal when asking the City or contractor what applies. A cabinet replacement, an appliance move and an alteration to regulated systems may raise different issues within the same renovation. The purpose of checking early is to identify those issues before the scope is obscured by a single label such as “kitchen refresh.”",
           "The gas-permit guidance also explains the installations administered by Vancouver and circumstances involving Technical Safety BC. Have the responsible professional identify the authority and process for the actual work. This article does not determine applicant eligibility, promise a permit outcome or certify a proposed layout. When the scope is agreed, record who will obtain the required permits and provide the relevant completion information. Keep the current official links in the project folder so a later change can be checked against the real requirements rather than against an earlier informal assumption."
         ]
       },
@@ -290,14 +366,14 @@
       {
         "heading": "Prepare for the stage before finishes hide the work",
         "paragraphs": [
-          "Ask the responsible contractor and project lead which checks or records are needed before work becomes inaccessible behind completed finishes. Do not decide on behalf of an authority that a site visit or document is unnecessary because the work looks simple. Equally, do not call work \u201cinspected\u201d unless the actual record supports that description. Agree on the next-stage requirements and who will communicate completion so the people installing finishes are working from confirmed project information rather than a presumed green light.",
-          "This coordination is especially useful when separate trades return at different times. A person arriving to finish cabinets or surfaces should know which work is ready for the next stage and which part remains outstanding. Keep the communication factual: what was completed, what was checked, what document is available and what still needs to happen. A photograph can support the record but does not replace the responsible person\u2019s confirmation. If a discrepancy appears between the current drawing and the actual work, raise it before treating the drawing as an accurate handover record."
+          "Ask the responsible contractor and project lead which checks or records are needed before work becomes inaccessible behind completed finishes. Do not decide on behalf of an authority that a site visit or document is unnecessary because the work looks simple. Equally, do not call work “inspected” unless the actual record supports that description. Agree on the next-stage requirements and who will communicate completion so the people installing finishes are working from confirmed project information rather than a presumed green light.",
+          "This coordination is especially useful when separate trades return at different times. A person arriving to finish cabinets or surfaces should know which work is ready for the next stage and which part remains outstanding. Keep the communication factual: what was completed, what was checked, what document is available and what still needs to happen. A photograph can support the record but does not replace the responsible person’s confirmation. If a discrepancy appears between the current drawing and the actual work, raise it before treating the drawing as an accurate handover record."
         ]
       },
       {
         "heading": "Keep the handover useful for the next owner or service visit",
         "paragraphs": [
-          "At completion, gather the documents supplied for the actual equipment and work: the applicable appliance information, accepted changes, relevant permit or completion records, and the contractor\u2019s service or warranty details. Ask who to contact if a question concerns the appliance rather than the renovation work. Keep unresolved items clearly identified. A paid invoice, a product registration and a regulatory record establish different things, so store them with understandable descriptions instead of interpreting any one document as proof of every aspect of the project.",
+          "At completion, gather the documents supplied for the actual equipment and work: the applicable appliance information, accepted changes, relevant permit or completion records, and the contractor’s service or warranty details. Ask who to contact if a question concerns the appliance rather than the renovation work. Keep unresolved items clearly identified. A paid invoice, a product registration and a regulatory record establish different things, so store them with understandable descriptions instead of interpreting any one document as proof of every aspect of the project.",
           "Save the final accepted layout with the equipment record and keep earlier versions distinguishable. If another appliance change is proposed later, the next person should be able to identify what was actually installed without relying on a showroom photograph or an old shopping list. The most useful outcome of preparation is a traceable sequence: initial proposal, professional assessment, accepted scope, recorded changes and completed work. That sequence helps a later enquiry begin with reliable information and reduces the chance that a preliminary planning assumption survives as an alleged installation fact."
         ]
       }
@@ -317,7 +393,7 @@
       },
       {
         "question": "Is the featured kitchen a Mount Pleasant renovation?",
-        "answer": "No. It is GE Appliances\u2019 official 2019 KBIS Caf\u00e9 Matte White Kitchen Suite press photograph, cropped and branded for this guide. It is not a customer project, a current product recommendation or evidence of a particular Canadian installation."
+        "answer": "No. It is GE Appliances’ official 2019 KBIS Café Matte White Kitchen Suite press photograph, cropped and branded for this guide. It is not a customer project, a current product recommendation or evidence of a particular Canadian installation."
       },
       {
         "question": "What should I send before asking for a stove-relocation quote?",
@@ -338,7 +414,7 @@
         "url": "https://vancouver.ca/news-calendar/mount-pleasant.aspx"
       },
       {
-        "label": "GE Appliances pressroom: Caf\u00e9 2019 KBIS Matte White Kitchen Suite; featured photo source",
+        "label": "GE Appliances pressroom: Café 2019 KBIS Matte White Kitchen Suite; featured photo source",
         "url": "https://pressroom.geappliances.com/file?fid=5c76d7482cfac258307a61ae"
       }
     ],
@@ -353,8 +429,8 @@
     "date": "2026-11-11",
     "publishedAt": "2026-11-11T17:25:20.590198+00:00",
     "image": "/images/kerrisdale-pool-heater-planning-1600x900.jpg",
-    "imageAlt": "Pool photograph from Raypak\u2019s official pool-heater brochure, with a small Gasfitter.ca brand label",
-    "imageCredit": "Pool photograph from Raypak\u2019s Professional Gas Pool and Spa Heater brochure. Promotional setting; not a Kerrisdale property or a customer installation. No heater model is depicted.",
+    "imageAlt": "Pool photograph from Raypak’s official pool-heater brochure, with a small Gasfitter.ca brand label",
+    "imageCredit": "Pool photograph from Raypak’s Professional Gas Pool and Spa Heater brochure. Promotional setting; not a Kerrisdale property or a customer installation. No heater model is depicted.",
     "imageWidth": 1600,
     "imageHeight": 900,
     "imageProvenance": {
@@ -379,12 +455,12 @@
       "outputSha256": "2c52fcf962966ed1b0de2598eb9cb5264ba1ea97a2605341729b7977d8f1738d",
       "transforms": "Crop, downsample, small publisher brand label only; no generated or reconstructed subject",
       "reuseBasis": "Owner explicitly directed editorial use of public official manufacturer images in the November11 automation instruction. No manufacturer licence, partnership or endorsement claimed.",
-      "credit": "Pool photograph from Raypak\u2019s Professional Gas Pool and Spa Heater brochure. Promotional setting; not a Kerrisdale property or a customer installation. No heater model is depicted.",
+      "credit": "Pool photograph from Raypak’s Professional Gas Pool and Spa Heater brochure. Promotional setting; not a Kerrisdale property or a customer installation. No heater model is depicted.",
       "scope": "Original pool-heater planning guide. Exact manufacturer-brochure pool photograph; not a stock-library substitute."
     },
     "useOriginalImage": true,
     "intro": [
-      "Before adding or replacing a gas pool heater at a Kerrisdale property, identify the proposed model and fuel, collect the existing appliance records, and ask a qualified gas contractor to assess the complete supply arrangement. A meter label, an old heater\u2019s performance or a short route to the equipment area does not establish spare capacity. Use the Gasfitter.ca planner to organize known appliance inputs and measured routes, while leaving pressure-based sizing, utility decisions and installation approval to the professionals responsible for the project.",
+      "Before adding or replacing a gas pool heater at a Kerrisdale property, identify the proposed model and fuel, collect the existing appliance records, and ask a qualified gas contractor to assess the complete supply arrangement. A meter label, an old heater’s performance or a short route to the equipment area does not establish spare capacity. Use the Gasfitter.ca planner to organize known appliance inputs and measured routes, while leaving pressure-based sizing, utility decisions and installation approval to the professionals responsible for the project.",
       "This guide focuses on the decisions before purchase: whether you are replacing equipment, adding a new load or changing the pool project itself. It explains how to prepare a supply-assessment brief without treating a website total as a completed design. Kerrisdale identifies the project area in Vancouver; it does not establish the condition of any particular home or its gas system. The manufacturer-supplied pool photograph is a promotional setting from a Raypak brochure, not a Kerrisdale installation or a photograph of a specified heater model."
     ],
     "sections": [
@@ -392,21 +468,21 @@
         "heading": "Separate the swimming-pool goal from the gas-supply question",
         "paragraphs": [
           "Start by describing what you want the pool project to achieve and what is actually changing. You might be replacing equipment identified in existing records, comparing a different heater, or planning a new equipment location. State whether the appliance has already been purchased. Keep the intended use and the proposed equipment distinct: wanting a different swimming schedule does not tell a gas contractor which appliance input or supply arrangement needs assessment. The precise question should be visible before anybody compares installation proposals.",
-          "A useful first brief might say: \u201cWe are considering a replacement gas pool heater and want the proposed model reviewed against the existing system before ordering.\u201d A different brief could say: \u201cOur equipment area is being relocated, and we need the gas scope coordinated with the pool contractor.\u201d These are original planning examples, not reported customer projects. Each opens a different conversation about identification, access and responsibilities. Neither assumes that a replacement is automatically a connection-only task or that an existing route can simply be extended."
+          "A useful first brief might say: “We are considering a replacement gas pool heater and want the proposed model reviewed against the existing system before ordering.” A different brief could say: “Our equipment area is being relocated, and we need the gas scope coordinated with the pool contractor.” These are original planning examples, not reported customer projects. Each opens a different conversation about identification, access and responsibilities. Neither assumes that a replacement is automatically a connection-only task or that an existing route can simply be extended."
         ]
       },
       {
         "heading": "Identify the appliance using the right records",
         "paragraphs": [
-          "Obtain the proposed manufacturer, exact model designation and fuel version from the supplier\u2019s documentation. Keep a quotation or shopping description separate from the applicable installation document. Similar-looking heaters may belong to different versions, so the appearance of a cabinet is not enough to establish the configuration. If the supplier has not selected the equipment, record the selection as undecided. Ask when the model information must be finalized for the assessment and what happens if the proposed equipment changes after a quote is issued.",
+          "Obtain the proposed manufacturer, exact model designation and fuel version from the supplier’s documentation. Keep a quotation or shopping description separate from the applicable installation document. Similar-looking heaters may belong to different versions, so the appearance of a cabinet is not enough to establish the configuration. If the supplier has not selected the equipment, record the selection as undecided. Ask when the model information must be finalized for the assessment and what happens if the proposed equipment changes after a quote is issued.",
           "For the existing heater, use a previous invoice, manual or safely visible identifying record when available. Do not remove panels or disturb connections to produce a more complete enquiry. Record the current information as existing equipment, rather than copying it into the proposed-appliance entry. If the old and new documents use different descriptions, show both and ask for clarification. The assessor should not have to infer whether a number belongs to the old appliance, an alternative purchase or the exact heater that will be installed."
         ]
       },
       {
         "heading": "Use gas input, not pool output or an advertising comparison",
         "paragraphs": [
-          "The planner\u2019s appliance field accepts gas input in BTU per hour. That input should come from an applicable record for the actual equipment. A headline about heating performance, an efficiency percentage, a pool\u2019s volume or an electrical rating is not interchangeable with that field. If a specification is ambiguous, leave the input unknown and identify the document you are using. An unanswered question can be resolved; an assumed number can quietly influence every total that follows it through the brief.",
-          "Do not borrow the value used for a neighbour\u2019s equipment or for a different model in a product family. The photograph accompanying this guide does not establish an appliance input and is not a specification source. Likewise, the fact that a manufacturer sells several pool-heater options does not identify which one suits the project. Keep the selection discussion with the relevant professionals and supplier. The preliminary brief should communicate confirmed equipment information while preserving the distinction between an identified load and a model still under consideration."
+          "The planner’s appliance field accepts gas input in BTU per hour. That input should come from an applicable record for the actual equipment. A headline about heating performance, an efficiency percentage, a pool’s volume or an electrical rating is not interchangeable with that field. If a specification is ambiguous, leave the input unknown and identify the document you are using. An unanswered question can be resolved; an assumed number can quietly influence every total that follows it through the brief.",
+          "Do not borrow the value used for a neighbour’s equipment or for a different model in a product family. The photograph accompanying this guide does not establish an appliance input and is not a specification source. Likewise, the fact that a manufacturer sells several pool-heater options does not identify which one suits the project. Keep the selection discussion with the relevant professionals and supplier. The preliminary brief should communicate confirmed equipment information while preserving the distinction between an identified load and a model still under consideration."
         ]
       },
       {
@@ -420,7 +496,7 @@
         "heading": "Explain shared branches before concentrating on the final section",
         "paragraphs": [
           "A proposed heater may be shown at the end of one branch while other appliances connect upstream or through another branch. The measured route to the pool equipment is therefore only one part of the supply conversation. In the planner, the connection chosen for each item determines which entered sections belong to its path. A junction helps express a shared arrangement, but a symbol placed on the screen is not evidence that the installed piping follows that connection. Label proposed and confirmed information clearly.",
-          "Consider an original software example with a shared section leading to a junction and separate branches leading to an existing appliance and proposed pool heater. Changing the pool-heater branch measurement changes its entered route. It does not automatically change the other branch\u2019s measurement, and neither route result approves the shared section\u2019s capacity. This distinction helps you ask a specific question: does the assessment include the shared supply and the complete proposed demand? It avoids reducing the project to the last visible connection near the heater."
+          "Consider an original software example with a shared section leading to a junction and separate branches leading to an existing appliance and proposed pool heater. Changing the pool-heater branch measurement changes its entered route. It does not automatically change the other branch’s measurement, and neither route result approves the shared section’s capacity. This distinction helps you ask a specific question: does the assessment include the shared supply and the complete proposed demand? It avoids reducing the project to the last visible connection near the heater."
         ]
       },
       {
@@ -433,29 +509,29 @@
       {
         "heading": "Treat meter records as information to verify",
         "paragraphs": [
-          "Record a meter rating only when you have a suitable existing record or confirmation, and retain the stated unit. A rating in cubic feet per hour, cubic metres per hour or BTU per hour is not automatically an approved allowance available for your new heater. Do not subtract the planner\u2019s known-load total from a label and call the difference spare capacity. The planner deliberately makes no such approval. Ask the contractor which service details need confirmation and whether a utility review is part of the next stage.",
-          "FortisBC maintains a dedicated gas-service upgrade resource for customers considering changes to their service. Use its current information when a utility question arises, and clarify who will coordinate that enquiry. A contractor\u2019s assessment of downstream work and the utility\u2019s service decision are related but different responsibilities. This guide does not promise an upgrade is necessary or unnecessary, what it would cost, or when it could be completed. Save any actual utility response with the project documents instead of replacing it with an estimate borrowed from another property."
+          "Record a meter rating only when you have a suitable existing record or confirmation, and retain the stated unit. A rating in cubic feet per hour, cubic metres per hour or BTU per hour is not automatically an approved allowance available for your new heater. Do not subtract the planner’s known-load total from a label and call the difference spare capacity. The planner deliberately makes no such approval. Ask the contractor which service details need confirmation and whether a utility review is part of the next stage.",
+          "FortisBC maintains a dedicated gas-service upgrade resource for customers considering changes to their service. Use its current information when a utility question arises, and clarify who will coordinate that enquiry. A contractor’s assessment of downstream work and the utility’s service decision are related but different responsibilities. This guide does not promise an upgrade is necessary or unnecessary, what it would cost, or when it could be completed. Save any actual utility response with the project documents instead of replacing it with an estimate borrowed from another property."
         ]
       },
       {
         "heading": "Preserve pressure units and regulator questions",
         "paragraphs": [
           "Supply-pressure information needs its unit and context. If you have an appropriate confirmed record, the planner can retain it alongside the project notes. If not, leave the field unknown. A pressure value written without a unit can create a different question from the one intended. Where a regulator appears in the proposed sketch, ask the assessor how the pressure arrangement affects the scope. Do not assume that the meter is the correct sizing origin for every part of a system or that one pressure value describes every branch.",
-          "The planner does not calculate approved pressure loss, determine regulator settings or certify a pipe diameter. Do not adjust equipment, undertake a pressure test or reproduce an operating fault to complete the form. An owner\u2019s useful contribution is an accurate record of what is already known and the question that remains unresolved. Keep the contractor\u2019s subsequent findings separate from the initial notes. If a confirmed value changes, update the record and ask whether any earlier proposal needs revision rather than leaving conflicting versions in circulation."
+          "The planner does not calculate approved pressure loss, determine regulator settings or certify a pipe diameter. Do not adjust equipment, undertake a pressure test or reproduce an operating fault to complete the form. An owner’s useful contribution is an accurate record of what is already known and the question that remains unresolved. Keep the contractor’s subsequent findings separate from the initial notes. If a confirmed value changes, update the record and ask whether any earlier proposal needs revision rather than leaving conflicting versions in circulation."
         ]
       },
       {
         "heading": "Coordinate the equipment location and the other trades",
         "paragraphs": [
           "Explain whether the heater will stay in the existing equipment area or move elsewhere. Supply assessment is only one part of choosing and preparing a location. Give the pool contractor and gas contractor the same current model information and identify the people responsible for the other relevant project work. Do not treat a connection sketch as confirmation of water-side suitability, electrical arrangements, ventilation, access or manufacturer clearances. Those questions need their own applicable assessment and documentation rather than assumptions based on the available space.",
-          "If landscaping, an enclosure, counters or finished surfaces are part of the project, explain their stage of design. Ask which decisions must remain provisional until the equipment and supply scope have been reviewed. This can prevent one trade from treating another trade\u2019s unfinished assumption as a settled instruction. A preliminary sketch should describe the proposed arrangement, not authorize excavation or concealment of work. Agree how revisions will be communicated so the people coordinating the project can identify the latest accepted scope without relying on an old drawing."
+          "If landscaping, an enclosure, counters or finished surfaces are part of the project, explain their stage of design. Ask which decisions must remain provisional until the equipment and supply scope have been reviewed. This can prevent one trade from treating another trade’s unfinished assumption as a settled instruction. A preliminary sketch should describe the proposed arrangement, not authorize excavation or concealment of work. Agree how revisions will be communicated so the people coordinating the project can identify the latest accepted scope without relying on an old drawing."
         ]
       },
       {
         "heading": "Check the Vancouver authority and permit responsibilities",
         "paragraphs": [
           "The City of Vancouver publishes its gas-permit guidance, including the installations within its administration and circumstances involving Technical Safety BC. A Kerrisdale address provides local context, but the actual equipment, supply arrangement and work determine the permit question. Describe whether you are adding a load, replacing equipment, altering piping or relocating the equipment area. Ask the responsible contractor or authority which process applies rather than assuming that every pool-heater project follows the same application route or that a neighbourhood guide establishes eligibility.",
-          "When work is agreed, record who will obtain the required permits and which inspection or completion records will be supplied. Keep property authorization separate from the technical and regulatory process. If the property has more than one owner, a manager or another party responsible for approving changes, identify that arrangement early. The City\u2019s Kerrisdale neighbourhood page is geographic background, not a record of a particular installation. This guide does not claim a staffed local office, available appointment or previous pool-heater project at your address."
+          "When work is agreed, record who will obtain the required permits and which inspection or completion records will be supplied. Keep property authorization separate from the technical and regulatory process. If the property has more than one owner, a manager or another party responsible for approving changes, identify that arrangement early. The City’s Kerrisdale neighbourhood page is geographic background, not a record of a particular installation. This guide does not claim a staffed local office, available appointment or previous pool-heater project at your address."
         ]
       },
       {
@@ -481,7 +557,7 @@
       },
       {
         "question": "Is the featured pool photograph a Kerrisdale installation?",
-        "answer": "No. It is a real promotional pool photograph embedded in Raypak\u2019s official pool-heater brochure, cropped and labelled for this guide. It is not a customer installation, local property photograph or evidence of a particular heater model at that setting."
+        "answer": "No. It is a real promotional pool photograph embedded in Raypak’s official pool-heater brochure, cropped and labelled for this guide. It is not a customer installation, local property photograph or evidence of a particular heater model at that setting."
       },
       {
         "question": "What should I send in a first Kerrisdale pool-heater enquiry?",
@@ -518,38 +594,38 @@
     "publishedAt": "2026-11-10T17:31:16.721878+00:00",
     "image": "/images/vancouver-lmr-planner.png",
     "imageAlt": "Gasfitter.ca branded gas-line sketch planner used to prepare appliance and route information",
-    "imageCredit": "Original screenshot of Gasfitter.ca\u2019s own planning tool; not a Kitsilano property, barbecue product or completed installation photograph.",
+    "imageCredit": "Original screenshot of Gasfitter.ca’s own planning tool; not a Kitsilano property, barbecue product or completed installation photograph.",
     "useOriginalImage": true,
     "intro": [
-      "Before adding a natural-gas barbecue at a Kitsilano property, identify the exact appliance and fuel, describe the proposed location, and ask a qualified gas contractor to assess the existing supply and complete project scope. An existing outdoor outlet or a short-looking route does not establish compatibility or spare capacity. Gasfitter.ca\u2019s sketch planner can organize appliance inputs, shared branches and entered measurements for that conversation. It cannot approve a connection, choose a pipe diameter or certify the installation.",
+      "Before adding a natural-gas barbecue at a Kitsilano property, identify the exact appliance and fuel, describe the proposed location, and ask a qualified gas contractor to assess the existing supply and complete project scope. An existing outdoor outlet or a short-looking route does not establish compatibility or spare capacity. Gasfitter.ca’s sketch planner can organize appliance inputs, shared branches and entered measurements for that conversation. It cannot approve a connection, choose a pipe diameter or certify the installation.",
       "This guide is about preparing a useful first assessment, rather than performing gas work. Its focus is the decision between reusing an existing arrangement, changing a connection and planning an outdoor cooking area from the beginning. Those are different enquiries. Giving the contractor a clear description before ordering equipment helps avoid treating a product purchase as approval for the work that surrounds it. The neighbourhood identifies the project location; it does not tell us what piping or equipment is installed at your address."
     ],
     "sections": [
       {
         "heading": "Define the barbecue project before choosing the appointment",
         "paragraphs": [
-          "Write one sentence describing the proposed change. For example: \u201cWe want to replace our current barbecue and ask whether the existing outdoor gas arrangement is suitable for the proposed model.\u201d Another project might be: \u201cWe want a new outdoor kitchen and need the gas scope assessed before the patio design is finalized.\u201d These are illustrative briefs, not reported customer jobs. The first centres on existing equipment and compatibility; the second introduces route, construction and coordination questions.",
-          "Identify whether you have already bought the appliance, are comparing models or are only exploring the idea. Include your preferred timing, but distinguish a hoped-for completion date from an agreed appointment. If the project depends on another contractor\u2019s work, explain that dependency. The assessor can then tell you whether an initial document review, photographs or a site visit would be the appropriate next step. Do not book a simple connection service when your actual request includes unknown supply changes."
+          "Write one sentence describing the proposed change. For example: “We want to replace our current barbecue and ask whether the existing outdoor gas arrangement is suitable for the proposed model.” Another project might be: “We want a new outdoor kitchen and need the gas scope assessed before the patio design is finalized.” These are illustrative briefs, not reported customer jobs. The first centres on existing equipment and compatibility; the second introduces route, construction and coordination questions.",
+          "Identify whether you have already bought the appliance, are comparing models or are only exploring the idea. Include your preferred timing, but distinguish a hoped-for completion date from an agreed appointment. If the project depends on another contractor’s work, explain that dependency. The assessor can then tell you whether an initial document review, photographs or a site visit would be the appropriate next step. Do not book a simple connection service when your actual request includes unknown supply changes."
         ]
       },
       {
         "heading": "Confirm the exact fuel and model",
         "paragraphs": [
-          "A grill\u2019s name, colour or burner count is not enough to identify its fuel configuration. Use the model number, the actual fuel designation and the applicable manufacturer documentation. Keep a retailer\u2019s description separate from the equipment\u2019s identifying record. If an appliance is second-hand, explain what documentation came with it and what remains uncertain. A seller\u2019s statement that a grill \u201cshould work with house gas\u201d is a question to investigate, not a compatibility finding you should put into the brief as fact.",
-          "Weber\u2019s Canadian guidance is one manufacturer-specific example: it explains that its North American gas grills are designed for their specified fuel and says it does not allow conversions or provide conversion kits. Do not generalize that statement into a conversion policy for every brand. Check the exact manufacturer and model before purchase. This article provides no fuel-conversion procedure, connector selection or instructions for modifying a grill. The important preparation task is to obtain reliable identification and ask the right compatibility question."
+          "A grill’s name, colour or burner count is not enough to identify its fuel configuration. Use the model number, the actual fuel designation and the applicable manufacturer documentation. Keep a retailer’s description separate from the equipment’s identifying record. If an appliance is second-hand, explain what documentation came with it and what remains uncertain. A seller’s statement that a grill “should work with house gas” is a question to investigate, not a compatibility finding you should put into the brief as fact.",
+          "Weber’s Canadian guidance is one manufacturer-specific example: it explains that its North American gas grills are designed for their specified fuel and says it does not allow conversions or provide conversion kits. Do not generalize that statement into a conversion policy for every brand. Check the exact manufacturer and model before purchase. This article provides no fuel-conversion procedure, connector selection or instructions for modifying a grill. The important preparation task is to obtain reliable identification and ask the right compatibility question."
         ]
       },
       {
         "heading": "Describe the actual property and who can authorize work",
         "paragraphs": [
-          "Say whether the proposed barbecue belongs to a detached-home project, a rental property, an individual strata unit or another arrangement. Identify the person who can approve the work and coordinate access. Where more than one owner or manager is involved, distinguish a conversation about the idea from permission to alter the property. A contractor\u2019s ability to assess gas equipment does not establish that the proposed outdoor use has been accepted by the people responsible for the building.",
+          "Say whether the proposed barbecue belongs to a detached-home project, a rental property, an individual strata unit or another arrangement. Identify the person who can approve the work and coordinate access. Where more than one owner or manager is involved, distinguish a conversation about the idea from permission to alter the property. A contractor’s ability to assess gas equipment does not establish that the proposed outdoor use has been accepted by the people responsible for the building.",
           "The City of Vancouver identifies Kitsilano as a city neighbourhood. That location gives the enquiry useful geographic context, but it does not establish a particular building type, installation date or available contractor. Describe your actual space rather than assuming a neighbourhood guide represents your property. For a strata or rented property, ask the responsible manager which property documents or permissions are needed. Keep those questions separate from the technical assessment and from any application the permit authority may require."
         ]
       },
       {
         "heading": "Show the proposed cooking location without designing the installation",
         "paragraphs": [
-          "A simple overview photograph or annotated drawing can explain where you hope to place the grill and how the surrounding space will be used. Identify fixed features that are relevant to the conversation, such as a wall, access path, proposed counter or planned enclosure. Describe features as observations rather than declaring that they meet the appliance\u2019s requirements. The assessor and applicable manufacturer documents must establish the suitability of the intended arrangement; a convenient-looking location is not a completed design.",
+          "A simple overview photograph or annotated drawing can explain where you hope to place the grill and how the surrounding space will be used. Identify fixed features that are relevant to the conversation, such as a wall, access path, proposed counter or planned enclosure. Describe features as observations rather than declaring that they meet the appliance’s requirements. The assessor and applicable manufacturer documents must establish the suitability of the intended arrangement; a convenient-looking location is not a completed design.",
           "If the patio design is still changing, show the alternatives instead of presenting one position as final. Tell the contractor which elements are movable and which construction decisions have already been made. Do not publish a universal clearance distance copied from a different appliance, and do not treat a photograph as a measurement. The useful outcome of this preparation is a shared understanding of the proposal and the remaining questions, not an instruction to position or connect the equipment yourself."
         ]
       },
@@ -564,14 +640,14 @@
         "heading": "Use the sketch to separate shared sections from appliance branches",
         "paragraphs": [
           "In the planner, start with the supply symbol and add junctions only where you can describe the intended or known arrangement. Each appliance has a connection to an upstream item and a measured section length. A shared section can serve more than one downstream appliance. This makes the sketch useful for explaining why the barbecue question may involve more than the last piece of pipe beside the patio. The drawing still needs professional interpretation before it represents an assessed installation.",
-          "An original software example illustrates the distinction without prescribing equipment loads: imagine a measured shared section followed by separate routes to a range and a proposed barbecue. If you change the barbecue branch length, its route total changes. That does not change the range\u2019s entered branch length, and it does not tell you the shared section\u2019s approved capacity. Keep route measurements, appliance input and the suitability decision as separate pieces of information. The website performs the first bookkeeping tasks; it does not perform the final approval."
+          "An original software example illustrates the distinction without prescribing equipment loads: imagine a measured shared section followed by separate routes to a range and a proposed barbecue. If you change the barbecue branch length, its route total changes. That does not change the range’s entered branch length, and it does not tell you the shared section’s approved capacity. Keep route measurements, appliance input and the suitability decision as separate pieces of information. The website performs the first bookkeeping tasks; it does not perform the final approval."
         ]
       },
       {
         "heading": "Record lengths consistently and leave hidden routes unknown",
         "paragraphs": [
           "A preliminary measurement should say what it includes. The planner has a section-length field and a separate additional-vertical-distance field. Add a vertical distance separately only if it is not already included in the section measurement. Otherwise the same distance could be counted twice. Where an existing route is concealed or uncertain, leave the measurement blank and describe the gap. Do not open a wall, disturb equipment or expose a buried service merely to complete a website form.",
-          "Moving a symbol on the sketch changes the presentation, not the entered distance. That is helpful when several branches overlap visually: you can spread the drawing out without pretending the physical route has changed. Use understandable labels such as \u201cexisting range\u201d and \u201cproposed BBQ,\u201d and keep proposed junctions distinguishable from confirmed ones in the notes. Ask the contractor what measurements are necessary for the next stage rather than spending time making an attractive drawing that conceals the important unknowns."
+          "Moving a symbol on the sketch changes the presentation, not the entered distance. That is helpful when several branches overlap visually: you can spread the drawing out without pretending the physical route has changed. Use understandable labels such as “existing range” and “proposed BBQ,” and keep proposed junctions distinguishable from confirmed ones in the notes. Ask the contractor what measurements are necessary for the next stage rather than spending time making an attractive drawing that conceals the important unknowns."
         ]
       },
       {
@@ -585,13 +661,13 @@
         "heading": "Check the Vancouver permit route for the actual scope",
         "paragraphs": [
           "The City of Vancouver states that new natural-gas installations and alterations require a gas permit and explains the installations it administers. Its guidance also identifies circumstances involving Technical Safety BC. An enquiry about an existing barbecue arrangement should therefore describe whether piping, equipment or other regulated work would change. Do not assume that buying a portable grill, replacing an appliance and installing a new outdoor connection are the same permit question. Ask the responsible authority or contractor about the proposed scope.",
-          "Assign permit responsibility explicitly when work is agreed. Record which business is obtaining any required permit, what the accepted scope covers and which completion documents will be provided. The official process and the property\u2019s authorization arrangements address different questions; one does not replace the other. This guide does not determine applicant eligibility or promise a particular application outcome. Follow the current official guidance for the installation rather than relying on a neighbourhood article as if it were an approval issued for your address."
+          "Assign permit responsibility explicitly when work is agreed. Record which business is obtaining any required permit, what the accepted scope covers and which completion documents will be provided. The official process and the property’s authorization arrangements address different questions; one does not replace the other. This guide does not determine applicant eligibility or promise a particular application outcome. Follow the current official guidance for the installation rather than relying on a neighbourhood article as if it were an approval issued for your address."
         ]
       },
       {
         "heading": "Ask for an assessment scope before comparing prices",
         "paragraphs": [
-          "FortisBC\u2019s contractor guidance recommends looking for licensed, appropriately qualified contractors and checking the contents of a quotation. Use its current page as a starting resource, then ask the business about the particular equipment and work you are proposing. A directory entry or a published guide does not guarantee availability, insurance status at a later date or acceptance of the job. Confirm the business, relevant qualifications and intended assessment directly before treating an enquiry as an arrangement.",
+          "FortisBC’s contractor guidance recommends looking for licensed, appropriately qualified contractors and checking the contents of a quotation. Use its current page as a starting resource, then ask the business about the particular equipment and work you are proposing. A directory entry or a published guide does not guarantee availability, insurance status at a later date or acceptance of the job. Confirm the business, relevant qualifications and intended assessment directly before treating an enquiry as an arrangement.",
           "When you receive proposals, compare what each includes. Does the visit cover the existing supply as well as the barbecue location? Are equipment identification, route assessment and any utility question included or left for another stage? Who handles access, finishing work and changes if the selected appliance is different? A lower price for a narrower task is not necessarily a competing price for the complete proposal. Ask for the assumptions and exclusions in writing so the comparison remains understandable later."
         ]
       },
@@ -613,7 +689,7 @@
     "faqs": [
       {
         "question": "Can I use a propane barbecue on a natural-gas connection?",
-        "answer": "Do not assume compatibility. Identify the exact appliance fuel and follow its manufacturer\u2019s applicable guidance. Weber\u2019s cited policy does not allow fuel conversions for its North American grills. Other brands require their own model-specific review; this guide provides no conversion instructions."
+        "answer": "Do not assume compatibility. Identify the exact appliance fuel and follow its manufacturer’s applicable guidance. Weber’s cited policy does not allow fuel conversions for its North American grills. Other brands require their own model-specific review; this guide provides no conversion instructions."
       },
       {
         "question": "Does an existing barbecue outlet mean a replacement will fit?",
@@ -662,10 +738,10 @@
     "publishedAt": "2026-11-09T21:44:43-08:00",
     "image": "/images/vancouver-lmr-planner.png",
     "imageAlt": "Gasfitter.ca national sketch planner showing the publisher logo and project-planning introduction",
-    "imageCredit": "Original screenshot of Gasfitter.ca\u2019s own planning tool; not an installation photograph.",
+    "imageCredit": "Original screenshot of Gasfitter.ca’s own planning tool; not an installation photograph.",
     "useOriginalImage": true,
     "intro": [
-      "A longest measured run sketch helps a Vancouver gas contractor understand the measured route from the gas supply to the appliances. It also helps you list the equipment you already have and the appliances you want to add. It does not establish that an existing pipe or meter has enough capacity. Use Gasfitter.ca\u2019s sketch planner to organize the information, then ask the contractor to confirm the supply arrangement, applicable sizing method and permit responsibilities for the actual property.",
+      "A longest measured run sketch helps a Vancouver gas contractor understand the measured route from the gas supply to the appliances. It also helps you list the equipment you already have and the appliances you want to add. It does not establish that an existing pipe or meter has enough capacity. Use Gasfitter.ca’s sketch planner to organize the information, then ask the contractor to confirm the supply arrangement, applicable sizing method and permit responsibilities for the actual property.",
       "This guide follows a practical question: what changes when a stove, barbecue or pool heater joins an existing gas system? The answer starts with the whole connected arrangement, not only the distance to the new appliance. A clear sketch can reveal missing measurements, shared branches and unknown appliance inputs before those gaps turn into assumptions in a quote. You do not need to inspect hidden components or operate equipment differently to prepare that first conversation."
     ],
     "sections": [
@@ -673,7 +749,7 @@
         "heading": "What longest measured run means in this planner",
         "paragraphs": [
           "The planner follows each connected path from the meter symbol to an appliance symbol. It adds the section lengths you enter along that path, including an additional vertical distance when you enter one separately. When every appliance path has complete measurements and connections, it highlights the longest entered route. Moving a symbol across the screen changes the drawing, not the measured length. The sketch is a communication tool rather than a scaled survey.",
-          "The words \u201clongest measured run\u201d also belong in professional sizing discussions, where the applicable method and documentation matter. Do not assume that the longest line highlighted by a website is automatically the final length a contractor will use for every calculation. Regulators, different materials, fittings and other project details can affect the assessment. Ask which method applies and what additional information it requires. Keep the contractor\u2019s completed assessment separate from your preliminary entered measurements."
+          "The words “longest measured run” also belong in professional sizing discussions, where the applicable method and documentation matter. Do not assume that the longest line highlighted by a website is automatically the final length a contractor will use for every calculation. Regulators, different materials, fittings and other project details can affect the assessment. Ask which method applies and what additional information it requires. Keep the contractor’s completed assessment separate from your preliminary entered measurements."
         ]
       },
       {
@@ -686,8 +762,8 @@
       {
         "heading": "An example of two appliances sharing a branch",
         "paragraphs": [
-          "The planner\u2019s illustrative example has a twenty-foot section from the meter to a junction. One appliance then has a fifteen-foot section plus five feet of additional vertical distance. Its total entered route is forty feet. A second appliance has a twenty-five-foot section after the same junction, giving a forty-five-foot route. The longer entered route is therefore forty-five feet. These values demonstrate the software; they are not measurements from a Vancouver installation.",
-          "The example furnace input is sixty thousand BTU per hour and the example range input is forty thousand. The known total is one hundred thousand BTU per hour. The shared upstream branch serves both example loads, while each downstream section serves its own appliance. This explains why looking only at the new appliance\u2019s individual branch can miss an important part of the conversation. None of those example numbers recommends a pipe diameter, a meter model or a permissible addition."
+          "The planner’s illustrative example has a twenty-foot section from the meter to a junction. One appliance then has a fifteen-foot section plus five feet of additional vertical distance. Its total entered route is forty feet. A second appliance has a twenty-five-foot section after the same junction, giving a forty-five-foot route. The longer entered route is therefore forty-five feet. These values demonstrate the software; they are not measurements from a Vancouver installation.",
+          "The example furnace input is sixty thousand BTU per hour and the example range input is forty thousand. The known total is one hundred thousand BTU per hour. The shared upstream branch serves both example loads, while each downstream section serves its own appliance. This explains why looking only at the new appliance’s individual branch can miss an important part of the conversation. None of those example numbers recommends a pipe diameter, a meter model or a permissible addition."
         ]
       },
       {
@@ -721,7 +797,7 @@
       {
         "heading": "A Vancouver address needs a Vancouver permit check",
         "paragraphs": [
-          "The City of Vancouver publishes its own gas-permit guidance and describes which installations fall within its administration and which require Technical Safety BC involvement. Confirm the responsible authority for the actual installation rather than assuming every British Columbia project follows the same application route. The City\u2019s guidance also explains applicant eligibility and its inspection process. Use the current official page and ask the contractor to identify who will obtain the required permit and retain the completion records.",
+          "The City of Vancouver publishes its own gas-permit guidance and describes which installations fall within its administration and which require Technical Safety BC involvement. Confirm the responsible authority for the actual installation rather than assuming every British Columbia project follows the same application route. The City’s guidance also explains applicant eligibility and its inspection process. Use the current official page and ask the contractor to identify who will obtain the required permit and retain the completion records.",
           "The neighbourhood name is useful for describing the project location, access and the scope of an enquiry. It does not create a separate technical rule or establish the age, condition or capacity of a particular property. A Kitsilano address does not tell us what piping is installed. A Kerrisdale address does not prove that a pool heater is appropriate. We use local guides to organize real questions, while the actual building, equipment and responsible authority determine the project assessment."
         ]
       },
@@ -743,7 +819,7 @@
         "heading": "What a useful contractor response should clarify",
         "paragraphs": [
           "A good next conversation should identify the equipment and property being assessed, the remaining information needed, and the scope of any site visit. Ask whether the review covers the shared gas system as well as the proposed branch. Clarify who will address utility or meter questions, permit responsibility, relevant manufacturer documents and records at completion. The initial response may legitimately ask for more information. That is preferable to a confident conclusion based on an incomplete sketch or assumed appliance inputs.",
-          "When comparing proposals, compare the assessment and work included rather than treating every price as the same service. Record exclusions, access needs, finishing responsibilities and the handling of changes. If you later choose a different appliance, send the revised model information and ask whether the earlier assessment still applies. Keep the sketch\u2019s original assumptions visible. The purpose of the preparation is to make the professional decision clearer, not to force the equipment into an answer obtained before the project was understood."
+          "When comparing proposals, compare the assessment and work included rather than treating every price as the same service. Record exclusions, access needs, finishing responsibilities and the handling of changes. If you later choose a different appliance, send the revised model information and ask whether the earlier assessment still applies. Keep the sketch’s original assumptions visible. The purpose of the preparation is to make the professional decision clearer, not to force the equipment into an answer obtained before the project was understood."
         ]
       }
     ],
