@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-18",
+  "automationId": "publish-daily-vancouver-gas-guide",
+  "triggeredAt": "2026-11-18T17:13:10.308Z",
+  "status": "stopped-production-http-verification-access",
+  "publication": false,
+  "sourceHead": "5c17cb80bbd5986489431818e6004fd3acfeaa84",
+  "lease": {
+    "claimed": false,
+    "existingLease": null,
+    "reason": "Access preflight failed before any article writing or publication transaction. No expired lease reused."
+  },
+  "progress": {
+    "planner": {
+      "url": "https://www.gasfitter.ca/gas-line-planner/",
+      "execution": "Agent-driven browser check during scheduled heartbeat; not native unattended checker proof",
+      "desktop": {
+        "viewport": [
+          1280,
+          720
+        ],
+        "added": "Gas stove / range",
+        "edited": {
+          "lengthFt": 35,
+          "additionalRiseFt": 5,
+          "inputBtuh": 50000,
+          "label": "QA example range"
+        },
+        "observed": "50,000 BTU/h; longest route40.0ft; Across sketch changed310→311"
+      },
+      "phone": {
+        "viewport": [
+          390,
+          844
+        ],
+        "added": "Gas BBQ",
+        "edited": {
+          "lengthFt": 25,
+          "inputBtuh": 30000
+        },
+        "observed": "80,000 BTU/h summed; longest route retained40.0ft; Down sketch changed to260"
+      },
+      "safety": "Test values only, not manufacturer inputs. Tool sums entries; no sizing, pressure-loss, meter-capacity or feasibility approval.",
+      "evidence": [
+        "outputs/gasfitter-nov18/planner-desktop.png",
+        "outputs/gasfitter-nov18/planner-phone.png"
+      ]
+    }
+  },
+  "failedChecks": [
+    {
+      "operation": "curl -I --max-time15 https://www.gasfitter.ca/feed.xml",
+      "result": "exit6; Could not resolve host: www.gasfitter.ca",
+      "scope": "Restricted shell environment, not a production outage. Real browser successfully loaded planner."
+    },
+    {
+      "operation": "Authenticated Vercel fetch https://www.gasfitter.ca/feed.xml",
+      "result": "Connector rejected prepared call because catalog changed; repeated once with same result."
+    }
+  ],
+  "permissionRecovery": "request_permissions unavailable in current tool catalog; sandbox escalation prohibited by session policy. Restore scoped network permission support or a functioning authenticated HTTP fetch connector.",
+  "draft": {
+    "slug": "fairview-strata-gas-range-permissions-shared-load",
+    "bodyWords": 2372,
+    "status": "Existing local draft retained; not re-dated or committed as published"
+  },
+  "untested": [
+    "current source/manufacturer refetch",
+    "new article desktop/phone hero/card/social",
+    "current public article/canonical/status/date",
+    "sitemap/feed/source-link verification",
+    "production release"
+  ],
+  "search": {
+    "color": "yellow",
+    "gsc": "Historical verified ownership and sitemap; current report not refreshed",
+    "bing": "Historical exact property not listed; current account inventory unverified",
+    "launchBlocking": false
+  },
+  "fourRoles": {
+    "canonicalStandard": "SHTFTV/markett-ca docs/completion/OPERATING-STANDARD.md version2 read",
+    "worker": "No new native publication proof",
+    "checker": "Manual browser planner scope passed; native checker unverified",
+    "supervisor": "No new native execution proof",
+    "externalWatchdog": "Independent incident/canary delivery and recovery unverified"
+  },
+  "nextAction": "Restore verifiable HTTP/source fetching, claim fresh CAS lease, complete article/media build and all release QA. Current browser controls work; November17 browser timeout is not repeated as today's failure."
+}
