@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-20",
+  "automationId": "publish-daily-vancouver-gas-guide",
+  "status": "stopped-read-only-execution-environment",
+  "publication": false,
+  "sourceHead": "590118a30365a8d65b5357bd577a58804da1494c",
+  "access": {
+    "github": "Authenticated current main/SOT/queue/lease/roles reads succeeded",
+    "productionHttp": "Authenticated Vercel fetch recovered; feed HTTP200, latest observed entry November18; no November20 entry",
+    "shellHttps": "curl -I --max-time10 https://www.gasfitter.ca/feed.xml failed exit6 DNS resolution",
+    "localWrites": "Current execution policy read-only; cannot prepare/validate source, featured raster or build artifacts",
+    "permissionRecovery": "request_permissions absent from current tool catalog. Need scoped network and writable staging access restored; do not change global policy or credentials."
+  },
+  "lease": {
+    "existing": null,
+    "proposalOnly": "Latest script proposeClaim exercised in-memory; selects Fairview order6. Not CAS committed because execution preflight failed.",
+    "activeAdded": false,
+    "completedDatesChanged": false
+  },
+  "draft": {
+    "slug": "fairview-strata-gas-range-permissions-shared-load",
+    "status": "Retained; not re-dated or published"
+  },
+  "search": {
+    "color": "yellow",
+    "reason": "Historical GSC ownership/sitemap and Bing not-listed evidence read; current authenticated provider reports not refreshed",
+    "launchBlocking": false
+  },
+  "roles": {
+    "worker": "No successful publication or native completion proof",
+    "checker": "No new article visual QA; earlier planner evidence remains historical",
+    "supervisor": "No new native execution proof",
+    "externalWatchdog": "No independently delivered incident/canary/recovery proof"
+  },
+  "untested": [
+    "Current manufacturer/code/utility source review",
+    "Featured photo final dimensions and framing",
+    "New guide build",
+    "Real-browser new article desktop/phone and planner",
+    "New article/canonical/schema/feed/sitemap production verification"
+  ],
+  "preserved": "No article, queue, publication date, source permissions, central columns or valuation changed. No second publisher.",
+  "requiredRecovery": "Restore supported scoped staging write/network access, then fresh CAS claim and full publication verification."
+}
