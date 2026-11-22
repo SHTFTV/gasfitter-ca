@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-21",
+  "triggeredAt": "2026-11-22T02:34:30.210Z",
+  "automationId": "publish-daily-vancouver-gas-guide",
+  "status": "stopped-real-browser-preflight-timeouts",
+  "publication": false,
+  "sourceHead": "6a079aebf09c3e112737bd8f11732604efd01206",
+  "access": {
+    "network": "Scoped network approval succeeded. Direct production feed fetched successfully.",
+    "staging": "Existing draft and1600x900 photo present in writable /private/tmp checkout.",
+    "browser": [
+      {
+        "operation": "cua.getState()",
+        "timeoutMs": 10000,
+        "result": "Timed out; kernel reset"
+      },
+      {
+        "operation": "cua.createBrowserTab(iab,production planner)",
+        "timeoutMs": 10000,
+        "result": "Timed out; kernel reset"
+      }
+    ]
+  },
+  "liveHistory": {
+    "feed": "https://www.gasfitter.ca/feed.xml",
+    "latestObservedDate": "2026-11-18T22:12:41Z",
+    "latestSlug": "vancouver-bbq-addition-fortisbc-meter-exchange-enquiry",
+    "todayEntry": false
+  },
+  "lease": {
+    "existing": null,
+    "proposalOnly": "Current script proposeClaim exercised in memory; selected order6Fairview. Discarded without CAS claim because required real-browser access failed.",
+    "activeAdded": false,
+    "completedDatesChanged": false
+  },
+  "draft": {
+    "slug": "fairview-strata-gas-range-permissions-shared-load",
+    "status": "Existing draft retained; no date rewrite or article publication."
+  },
+  "requiredRecovery": "Restore responsive supported browser runtime; then fresh CAS claim, current source/media validation, desktop/phone article/planner checks and production release verification. Global browser failure affects all eligible topics; changing neighbourhood cannot resolve it.",
+  "search": {
+    "color": "yellow",
+    "gsc": "Historical ownership/sitemap evidence only; current provider report not refreshed",
+    "bing": "Historical exact property not-listed; current account/setup unverified",
+    "launchBlocking": false
+  },
+  "roles": {
+    "worker": "No new native successful publication",
+    "checker": "Real-browser preflight failed; historical screenshots do not prove this run",
+    "supervisor": "No new native execution proof",
+    "externalWatchdog": "Independent incident/canary/recovery proof absent"
+  },
+  "canonicalStandard": "MarkEtt operating standard version2 read",
+  "untested": [
+    "Current primary source/model validation",
+    "Final featured-image desktop/phone framing",
+    "New article build and preview",
+    "Current planner interactions",
+    "New production URL/canonical/schema/sitemap/feed verification"
+  ],
+  "preserved": "Existing source history, attribution, dates, central columns and valuation. No second publisher."
+}
