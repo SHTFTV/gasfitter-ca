@@ -1,6 +1,6 @@
 {
   "site": "gasfitter.ca",
-  "revision": 3,
+  "revision": 4,
   "approved": true,
   "source": "Standing owner requirements plus explicit November12 appliance rotation request",
   "repository": "SHTFTV/gasfitter-ca",
@@ -57,5 +57,11 @@
     "Independent scheduled visual checker and supervisor not proven",
     "External watchdog worker+supervisor silence, incident/canary reader delivery and verified recovery not proven"
   ],
-  "leaseProtocol": "Before each publish use scripts/publisher-lease.mjs and operations/publisher-state.json under operations/PUBLISHER-LEASE.md. Existing GitHub expected_sha CAS only; no force, second writer or expired-lease theft."
+  "leaseProtocol": "Before each publish use scripts/publisher-lease.mjs and operations/publisher-state.json under operations/PUBLISHER-LEASE.md. Existing GitHub expected_sha CAS only; no force, second writer or expired-lease theft.",
+  "serviceEditorialStandard": {
+    "ownerInstructionDate": "2026-11-23",
+    "stoves": "Lead with gas-line assessment and installation for a customer-selected stove; no appliance sales/supply implication. Electrical-panel constraints are a project trigger, not a guaranteed way to avoid electrical work; verify exact electrical requirements.",
+    "fireplaces": "Lead with a specific repair, replacement or installation need, including gas-line work where relevant. Model details support the service intent; no product-lineup-only articles.",
+    "scope": "Gasfitter.ca; carry this owner requirement to other fireplace service sites when next edited."
+  }
 }

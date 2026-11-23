@@ -46,11 +46,12 @@
     {
       "slug": "fairview-strata-gas-range-permissions-shared-load",
       "date": "2026-11-23",
-      "bodyWords": 2144,
+      "bodyWords": 2415,
       "url": "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/",
       "appliance": "gas-range",
       "neighbourhood": "Fairview",
-      "verifiedAt": "2026-11-23T17:16:32.203266+00:00"
+      "verifiedAt": "2026-11-23T17:16:32.203266+00:00",
+      "title": "No Room on the Electrical Panel? Planning a Stove Gas Line in Fairview"
     }
   ],
   "queue": [
@@ -121,11 +122,12 @@
       "requiresLongestRunAndPlannerExample": true,
       "slug": "fairview-strata-gas-range-permissions-shared-load",
       "date": "2026-11-23",
-      "bodyWords": 2144,
+      "bodyWords": 2415,
       "url": "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/",
       "execution": "Owner-requested manual publication; actual production verification passed",
       "verifiedAt": "2026-11-23T17:16:32.203266+00:00",
-      "commit": "47fbdc196cbc5b455927c735e39dfe0e124630a0"
+      "commit": "47fbdc196cbc5b455927c735e39dfe0e124630a0",
+      "title": "No Room on the Electrical Panel? Planning a Stove Gas Line in Fairview"
     },
     {
       "order": 7,

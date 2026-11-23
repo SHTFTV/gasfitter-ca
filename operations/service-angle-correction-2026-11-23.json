@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-23",
+  "kind": "owner-requested correction to existing guide; no new daily publication",
+  "url": "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/",
+  "headline": "No Room on the Electrical Panel? Planning a Stove Gas Line in Fairview",
+  "bodyWords": 2415,
+  "preservedPublishedAt": "2026-11-23T17:05:38.747894+00:00",
+  "sourceHead": "b8dc29eb274a4f076bde3a36c1f61caa1cb7bfb0",
+  "ownerRequirements": [
+    "Gas lines for stoves, not appliance sales",
+    "Full electrical panel is enquiry intent; exact electrical supply still assessed",
+    "Fireplaces: repairs or installs, not just product lineups"
+  ],
+  "sourceVerification": "Matching official installation manual electrical requirements re-read November23",
+  "localBuild": "client, SSR and133 routes passed",
+  "status": "awaiting production verification",
+  "roles": "Manual correction; no unattended recovery claimed"
+}
