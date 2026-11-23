@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-22",
+  "automationId": "publish-daily-vancouver-gas-guide",
+  "triggeredAt": "2026-11-22T17:04:51.026Z",
+  "status": "stopped-source-http-access",
+  "publication": false,
+  "sourceHead": "fe801d59cdc2158cb77b03c4a05baa4b671f4335",
+  "progress": {
+    "browser": "Recovered; production planner loaded in real browser",
+    "desktop": {
+      "testValues": {
+        "sectionFeet": 30,
+        "riseFeet": 5,
+        "inputBtuh": 45000
+      },
+      "observed": "35.0ft route and45000BTU/h; Across sketch311",
+      "screenshot": "/private/tmp/gas22-desktop.png"
+    },
+    "phone": {
+      "viewport": [
+        390,
+        844
+      ],
+      "added": "Gas BBQ",
+      "testValues": {
+        "sectionFeet": 40,
+        "inputBtuh": 30000
+      },
+      "observed": "Combined75000BTU/h and longest40.0ft; position control changed",
+      "screenshot": "/private/tmp/gas22-phone.png"
+    },
+    "boundary": "Agent-driven planner test only, not native unattended visual-checker or new article QA"
+  },
+  "failures": [
+    {
+      "operation": "curl -I --max-time10 https://www.gasfitter.ca/feed.xml",
+      "result": "DNS failure exit6; not a production outage (browser loaded planner)"
+    },
+    {
+      "operation": "Authenticated Vercel feed fetch",
+      "result": "Tool catalog changed; prepared call rejected"
+    }
+  ],
+  "permissionRecovery": "request_permissions unavailable in current tool catalog; restore scoped network access for official-source acquisition and production HTTP checks.",
+  "lease": {
+    "existing": null,
+    "proposalOnly": "Latest script proposeClaim selectedFairview order6; discarded before CAS because required source/release access failed.",
+    "activeAdded": false,
+    "completedDateAdded": false
+  },
+  "draft": "Existing Fairview draft retained, not re-dated or published",
+  "search": {
+    "color": "yellow",
+    "reason": "Historical GSC verified/sitemap and Bing not-listed evidence read; current provider reports pending",
+    "launchBlocking": false
+  },
+  "roles": {
+    "worker": "No native publication proof this run",
+    "checker": "Manual planner controls recovered; article/photo release QA untested",
+    "supervisor": "No new native execution proof",
+    "externalWatchdog": "Independent delivery/recovery unverified"
+  },
+  "untested": [
+    "Current exact manufacturer/code/utility sources",
+    "Final article/hero/card/social desktop and phone checks",
+    "Production new URL/date/canonical/FAQ/schema/sitemap/feed"
+  ],
+  "preserved": "No second writer, queue change, publication-date rewrite, central-column or valuation change."
+}
