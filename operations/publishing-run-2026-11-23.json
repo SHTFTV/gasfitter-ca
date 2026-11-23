@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "status": "source-release-awaiting-production-verification",
+  "status": "published-and-production-verified",
   "execution": "Owner-requested manual push; not scheduled recovery or native Four Roles proof",
   "bodyWords": 2144,
   "article": "fairview-strata-gas-range-permissions-shared-load",
@@ -36,21 +36,98 @@
     "transforms": "Crop, downsample and small Gasfitter.ca label; original subject preserved."
   },
   "screenshots": [
-    "outputs/gasfitter-manual-nov23/preview-desktop.png",
-    "outputs/gasfitter-manual-nov23/preview-phone.png",
-    "outputs/gasfitter-manual-nov23/planner-desktop.png",
-    "outputs/gasfitter-manual-nov23/planner-phone.png"
+    "outputs/gasfitter-manual-nov23/production-phone-hero.jpg",
+    "outputs/gasfitter-manual-nov23/production-phone-card.jpg",
+    "outputs/gasfitter-manual-nov23/preview-desktop.jpg",
+    "outputs/gasfitter-manual-nov23/preview-phone.jpg",
+    "outputs/gasfitter-manual-nov23/planner-desktop.jpg",
+    "outputs/gasfitter-manual-nov23/planner-phone.jpg",
+    "outputs/gasfitter-manual-nov23/production-desktop-hero.jpg",
+    "outputs/gasfitter-manual-nov23/production-desktop-title.jpg",
+    "outputs/gasfitter-manual-nov23/production-desktop-card.jpg"
   ],
-  "productionVerified": false,
+  "productionVerified": true,
   "search": {
     "color": "yellow",
     "reason": "Historical GSC ownership/sitemap and Bing not-listed evidence only; current provider inventory not refreshed",
     "launchBlocking": false
   },
   "roles": {
-    "worker": "Manual release only",
-    "checker": "Agent browser preview/planner proof only",
+    "worker": "Owner-requested manual source-to-production publication verified; subsequent scheduled recovery still unverified",
+    "checker": "Actual agent-driven desktop/phone preview, production article and discovery-card checks, plus planner add/edit/position/totals; not independent scheduled checker proof",
     "supervisor": "No new native proof",
     "externalWatchdog": "Independent delivery/recovery unverified"
+  },
+  "sourceCommit": "47fbdc196cbc5b455927c735e39dfe0e124630a0",
+  "deployment": {
+    "id": "dpl_8gTqcMNh3Fs5xump8rcojRyZ6yMN",
+    "state": "READY",
+    "target": "production",
+    "url": "https://gasfitter-4u9t7ta30-colins-projects-208e3ca1.vercel.app"
+  },
+  "liveVerification": {
+    "verifiedAt": "2026-11-23T17:16:32.203266+00:00",
+    "url": "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/",
+    "status": "production-verified",
+    "http": {
+      "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/": 200,
+      "https://www.gasfitter.ca/blog/": 200,
+      "https://www.gasfitter.ca/": 200,
+      "https://www.gasfitter.ca/feed.xml": 200,
+      "https://www.gasfitter.ca/sitemap.xml": 200,
+      "https://www.gasfitter.ca/images/fairview-strata-gas-range-1600x900.jpg": 200
+    },
+    "canonical": "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/",
+    "publishedAt": "2026-11-23T17:05:38.747894+00:00",
+    "bodyWords": 2144,
+    "matchingFaqs": 5,
+    "heroSocialIdentity": "https://www.gasfitter.ca/images/fairview-strata-gas-range-1600x900.jpg",
+    "imageHashMatches": true,
+    "sources": [
+      {
+        "url": "https://www.frigidaire.ca/Kitchen/Ranges/Gas-Ranges/GCFG3060BF/",
+        "http": 200,
+        "verification": "Direct HTTPS"
+      },
+      {
+        "url": "https://frigidaire.bynder.com/asset/aafeaf59-4ba3-4fcf-ac6f-f8b75e18acaf/GCFG3060B_CA-pdf.pdf",
+        "http": 200,
+        "verification": "Direct HTTPS"
+      },
+      {
+        "url": "https://frigidaire.bynder.com/asset/b0554335-1066-44f2-9e2b-e3d3ba8da4da/809127209-pdf.pdf",
+        "http": 200,
+        "verification": "Direct HTTPS"
+      },
+      {
+        "url": "https://vancouver.ca/news-calendar/fairview.aspx",
+        "http": 403,
+        "verification": "Official City page content verified through web reader during this run; direct automated request403 retained, not treated as an outage."
+      },
+      {
+        "url": "https://vancouver.ca/home-property-development/gas-permit.aspx",
+        "http": 403,
+        "verification": "Official City page content verified through web reader during this run; direct automated request403 retained, not treated as an outage."
+      },
+      {
+        "url": "https://www2.gov.bc.ca/gov/content/housing-tenancy/strata-housing/operating-a-strata/roles-and-responsibilities/strata-owners",
+        "http": 200,
+        "verification": "Direct HTTPS"
+      },
+      {
+        "url": "https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-gas-equipment-or-system-alteration-permitting",
+        "http": 200,
+        "verification": "Direct HTTPS"
+      },
+      {
+        "url": "https://www.fortisbc.com/services/natural-gas-services/upgrade-your-natural-gas-service",
+        "http": 200,
+        "verification": "Direct HTTPS"
+      }
+    ],
+    "homepageDiscovery": true,
+    "journalDiscovery": true,
+    "feed": true,
+    "sitemap": true
   }
 }
