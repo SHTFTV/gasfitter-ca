@@ -13,6 +13,33 @@
   ],
   "sourceVerification": "Matching official installation manual electrical requirements re-read November23",
   "localBuild": "client, SSR and133 routes passed",
-  "status": "awaiting production verification",
-  "roles": "Manual correction; no unattended recovery claimed"
+  "status": "production-verified",
+  "roles": "Manual correction; no unattended recovery claimed",
+  "sourceCommit": "31b93805f0747619b5fdf04ec3ce2717420f4997",
+  "deployment": {
+    "id": "dpl_693rdKTw82TjuidwDWUGvWaefX5d",
+    "state": "READY",
+    "target": "production"
+  },
+  "verification": {
+    "desktop": [
+      1280,
+      720
+    ],
+    "phone": [
+      390,
+      844
+    ],
+    "phoneOverflow": false,
+    "journalCardTitle": true,
+    "canonicalAndDatePreserved": true,
+    "matchingFaqs": 6,
+    "feedSitemap": true,
+    "photoHashMatches": true,
+    "screenshots": [
+      "outputs/gasfitter-manual-nov23/service-correction-desktop.jpg",
+      "outputs/gasfitter-manual-nov23/service-correction-phone.jpg"
+    ],
+    "limits": "Photo itself unchanged and already inspected earlier today; this correction rechecked title/lede layouts and own-brand image identity. No new planner or native scheduler check."
+  }
 }

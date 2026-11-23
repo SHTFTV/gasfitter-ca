@@ -148,10 +148,11 @@
     {
       "order": 9,
       "neighbourhood": "Marpole",
-      "topic": "Moving a fireplace: identifying the complete professional scope",
+      "topic": "Gas fireplace relocation or installation in Marpole: gas-line route, approvals and professional scope",
       "status": "requires-research-writing-and-visual-review",
       "appliance": "fireplace",
-      "requiresLongestRunAndPlannerExample": true
+      "requiresLongestRunAndPlannerExample": true,
+      "editorialAngle": "Lead with the homeowner repair or installation need; exact model specifications support diagnosis or installation assessment, never a product lineup. No homeowner gas repair instructions."
     },
     {
       "order": 10,
@@ -236,10 +237,11 @@
     {
       "order": 20,
       "neighbourhood": "Shaughnessy",
-      "topic": "A regulator on the sketch: identifying unanswered pressure-zone questions",
+      "topic": "Gas fireplace replacement in Shaughnessy: assess the gas line, regulator and installation requirements",
       "status": "requires-research-writing-and-visual-review",
       "appliance": "fireplace",
-      "requiresLongestRunAndPlannerExample": true
+      "requiresLongestRunAndPlannerExample": true,
+      "editorialAngle": "Lead with the homeowner repair or installation need; exact model specifications support diagnosis or installation assessment, never a product lineup. No homeowner gas repair instructions."
     },
     {
       "order": 21,
@@ -260,10 +262,11 @@
     {
       "order": 23,
       "neighbourhood": "Kitsilano",
-      "topic": "Gas fireplace service records: observations versus diagnosis",
+      "topic": "Gas fireplace not working in Kitsilano: preparing a repair enquiry, symptoms and service records",
       "status": "requires-research-writing-and-visual-review",
       "appliance": "fireplace",
-      "requiresLongestRunAndPlannerExample": true
+      "requiresLongestRunAndPlannerExample": true,
+      "editorialAngle": "Lead with the homeowner repair or installation need; exact model specifications support diagnosis or installation assessment, never a product lineup. No homeowner gas repair instructions."
     },
     {
       "order": 24,
