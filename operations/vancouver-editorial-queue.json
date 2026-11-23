@@ -42,6 +42,14 @@
       "verifiedAt": "2026-11-12T18:53:49.588533+00:00",
       "appliance": "natural-gas-bbq",
       "neighbourhood": "Grandview-Woodland"
+    },
+    {
+      "slug": "fairview-strata-gas-range-permissions-shared-load",
+      "date": "2026-11-23",
+      "bodyWords": 2144,
+      "url": "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/",
+      "appliance": "gas-range",
+      "neighbourhood": "Fairview"
     }
   ],
   "queue": [
@@ -107,9 +115,14 @@
       "order": 6,
       "neighbourhood": "Fairview",
       "topic": "A strata gas-appliance enquiry: responsibility, approvals and access",
-      "status": "requires-research-writing-and-visual-review",
+      "status": "published",
       "appliance": "gas-range",
-      "requiresLongestRunAndPlannerExample": true
+      "requiresLongestRunAndPlannerExample": true,
+      "slug": "fairview-strata-gas-range-permissions-shared-load",
+      "date": "2026-11-23",
+      "bodyWords": 2144,
+      "url": "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/",
+      "execution": "Owner-requested manual recovery; production verification pending"
     },
     {
       "order": 7,

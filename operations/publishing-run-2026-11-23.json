@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-23",
+  "status": "source-release-awaiting-production-verification",
+  "execution": "Owner-requested manual push; not scheduled recovery or native Four Roles proof",
+  "bodyWords": 2144,
+  "article": "fairview-strata-gas-range-permissions-shared-load",
+  "url": "https://www.gasfitter.ca/fairview-strata-gas-range-permissions-shared-load/",
+  "publishedAt": "2026-11-23T17:05:38.747894+00:00",
+  "localValidation": {
+    "build": true,
+    "matchingFaqs": 5,
+    "canonicalFeedSitemap": true,
+    "previewDesktopPhone": true,
+    "plannerDesktopPhone": "35ft route;100000BTU/h known plus1unknown; add/edit/position tested"
+  },
+  "image": {
+    "sourcePage": "https://www.frigidaire.ca/Kitchen/Ranges/Gas-Ranges/GCFG3060BF/",
+    "sourceImage": "https://frigidaire.bynder.com/transform/1989455a-8823-4f4d-b1e5-9d03cdad785c/GCFG3060BF_LSH-psd",
+    "originalDimensions": [
+      2000,
+      972
+    ],
+    "crop": {
+      "left": 136,
+      "top": 0,
+      "width": 1728,
+      "height": 972
+    },
+    "outputDimensions": [
+      1600,
+      900
+    ],
+    "sourceSha256": "208d3dd967ddd6be8dbd5d09d2593cb012cd8761ee3b810d9cbcb8d25f189de1",
+    "outputSha256": "5367333241711a22c9b0f79c3162f2fb9e9392d22f4d50b039df48077dc1c737",
+    "reuseBasis": "Owner-directed editorial use of exact official manufacturer photograph. No manufacturer licence, partnership, endorsement or customer installation claimed.",
+    "transforms": "Crop, downsample and small Gasfitter.ca label; original subject preserved."
+  },
+  "screenshots": [
+    "outputs/gasfitter-manual-nov23/preview-desktop.png",
+    "outputs/gasfitter-manual-nov23/preview-phone.png",
+    "outputs/gasfitter-manual-nov23/planner-desktop.png",
+    "outputs/gasfitter-manual-nov23/planner-phone.png"
+  ],
+  "productionVerified": false,
+  "search": {
+    "color": "yellow",
+    "reason": "Historical GSC ownership/sitemap and Bing not-listed evidence only; current provider inventory not refreshed",
+    "launchBlocking": false
+  },
+  "roles": {
+    "worker": "Manual release only",
+    "checker": "Agent browser preview/planner proof only",
+    "supervisor": "No new native proof",
+    "externalWatchdog": "Independent delivery/recovery unverified"
+  }
+}
