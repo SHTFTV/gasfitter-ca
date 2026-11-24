@@ -59,7 +59,8 @@
       "bodyWords": 2203,
       "url": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/",
       "neighbourhood": "Marpole",
-      "appliance": "fireplace"
+      "appliance": "fireplace",
+      "verifiedAt": "2026-11-24T17:17:55.444137+00:00"
     }
   ],
   "queue": [
@@ -165,7 +166,9 @@
       "title": "Installing or Moving a Gas Fireplace in Marpole: Plan the Gas Line Before the Wall",
       "date": "2026-11-24",
       "bodyWords": 2203,
-      "url": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/"
+      "url": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/",
+      "verifiedAt": "2026-11-24T17:17:55.444137+00:00",
+      "commit": "8aec9ad62f54ba9153378cdf8c0300b79a4267b6"
     },
     {
       "order": 10,
@@ -354,9 +357,16 @@
   ],
   "lastScheduledRun": {
     "date": "2026-11-24",
-    "status": "source-released-awaiting-production-verification",
+    "status": "succeeded",
     "article": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/",
-    "bodyWords": 2203
+    "bodyWords": 2203,
+    "deployment": "dpl_BJbnM796kh7L5u5zDot8ZXAYDE8s",
+    "commit": "8aec9ad62f54ba9153378cdf8c0300b79a4267b6",
+    "featuredPhotograph": [
+      1600,
+      900
+    ],
+    "verifiedAt": "2026-11-24T17:17:55.444137+00:00"
   },
   "featuredImageStandard": {
     "required": "real story-matching source/manufacturer photograph",

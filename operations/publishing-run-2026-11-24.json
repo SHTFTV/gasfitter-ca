@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "status": "source-released-awaiting-production-verification",
+  "status": "published-and-production-verified",
   "failedItems": [
     {
       "order": 7,
@@ -81,5 +81,105 @@
     "checker": "Actual Safari desktop/phone preview and production planner interaction; separate scheduled checker not proved",
     "supervisor": "GitHub/Vercel read-only checks in same Codex job; native independent supervisor proof absent",
     "externalWatchdog": "Independent incident delivery and recovery unverified"
-  }
+  },
+  "deploymentSourceCommit": "8aec9ad62f54ba9153378cdf8c0300b79a4267b6",
+  "deployment": {
+    "id": "dpl_BJbnM796kh7L5u5zDot8ZXAYDE8s",
+    "url": "https://gasfitter-elqnura5l-colins-projects-208e3ca1.vercel.app",
+    "state": "READY",
+    "target": "production",
+    "projectId": "prj_Hv99AWPjVjWFrOcGoamE94AX2YeF"
+  },
+  "liveVerification": {
+    "verifiedAt": "2026-11-24T17:17:55.444137+00:00",
+    "url": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/",
+    "http": {
+      "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/": 200,
+      "https://www.gasfitter.ca/blog/": 200,
+      "https://www.gasfitter.ca/": 200,
+      "https://www.gasfitter.ca/feed.xml": 200,
+      "https://www.gasfitter.ca/sitemap.xml": 200,
+      "https://www.gasfitter.ca/images/marpole-fireplace-installation-1600x900.jpg": 200
+    },
+    "headline": "Installing or Moving a Gas Fireplace in Marpole: Plan the Gas Line Before the Wall",
+    "canonical": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/",
+    "publishedAt": "2026-11-24T17:13:38.722Z",
+    "bodyWords": 2203,
+    "matchingFaqs": 5,
+    "heroCardSocialImageIdentity": "https://www.gasfitter.ca/images/marpole-fireplace-installation-1600x900.jpg",
+    "imageHashMatches": true,
+    "internalDiscovery": true,
+    "feedSitemap": true,
+    "sources": [
+      {
+        "url": "https://www.valorfireplaces.com/gas-fireplaces/h5.php",
+        "http": 200,
+        "verification": "Direct HTTPS"
+      },
+      {
+        "url": "https://www.valorfireplaces.com/media/H5/English/1100MN-P-Installation.pdf",
+        "http": 200,
+        "verification": "Direct HTTPS"
+      },
+      {
+        "url": "https://vancouver.ca/news-calendar/marpole.aspx",
+        "http": 403,
+        "verification": "Current official page verified by web reader; direct automated restriction retained"
+      },
+      {
+        "url": "https://vancouver.ca/home-property-development/gas-permit.aspx",
+        "http": 403,
+        "verification": "Current official page verified by web reader; direct automated restriction retained"
+      },
+      {
+        "url": "https://vancouver.ca/home-property-development/mechanical-permit.aspx",
+        "http": 403,
+        "verification": "Current official page verified by web reader; direct automated restriction retained"
+      },
+      {
+        "url": "https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-gas-equipment-or-system-alteration-permitting",
+        "http": 200,
+        "verification": "Direct HTTPS"
+      },
+      {
+        "url": "https://www.fortisbc.com/services/natural-gas-services/upgrade-your-natural-gas-service",
+        "http": 403,
+        "verification": "Current official page verified by web reader; direct automated restriction retained"
+      }
+    ]
+  },
+  "browser": {
+    "engine": "Safari native; Responsive Design Mode",
+    "desktop": [
+      1280,
+      720
+    ],
+    "phone": [
+      390,
+      844
+    ],
+    "articleHeroAndTitle": true,
+    "homeAndJournalCards": true,
+    "socialImage": true,
+    "actualJournalLinkFollowed": true,
+    "plannerAddEditPositionTotals": true,
+    "environmentRecovery": "Native Chrome timed out; IAB unavailable; Safari succeeded. Temporary developer-preview setting restored."
+  },
+  "screenshots": [
+    "outputs/gasfitter-nov24/production-desktop-title.png",
+    "outputs/gasfitter-nov24/production-desktop-hero.png",
+    "outputs/gasfitter-nov24/production-phone-title.png",
+    "outputs/gasfitter-nov24/production-phone-hero.png",
+    "outputs/gasfitter-nov24/production-phone-card.png",
+    "outputs/gasfitter-nov24/production-desktop-home.png",
+    "outputs/gasfitter-nov24/production-phone-home.png",
+    "outputs/gasfitter-nov24/production-social-image.png",
+    "outputs/gasfitter-nov24/planner-phone.png",
+    "outputs/gasfitter-nov24/planner-desktop-total.png"
+  ],
+  "limits": [
+    "Actual social-platform card debugger not tested; served metadata and exact image verified",
+    "GSC/Bing current provider inventory and index counts not refreshed; retained yellow nonblocking reason",
+    "No native cloud writer, independent scheduled checker, supervisor or external watchdog proof implied"
+  ]
 }
