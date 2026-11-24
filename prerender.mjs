@@ -54,3 +54,8 @@ fs.writeFileSync(path.join(dist,'feed.xml'),feed);
 
 
 fs.writeFileSync(path.join(dist,'release-identity.json'),JSON.stringify({site:'gasfitter.ca',sourceCommit:process.env.VERCEL_GIT_COMMIT_SHA||process.env.GITHUB_SHA||'local-preview',builtAt:new Date().toISOString()}));
+
+const dailySitemapPath=path.join(dist,"sitemap.xml");
+fs.writeFileSync(dailySitemapPath,fs.readFileSync(dailySitemapPath,"utf8").replace("</urlset>",()=>"<url><loc>https://www.gasfitter.ca/what-to-do-if-you-smell-gas-at-home/</loc><lastmod>2026-11-24</lastmod></url>"+"</urlset>"));
+const dailyHomePath=path.join(dist,"index.html");
+fs.writeFileSync(dailyHomePath,fs.readFileSync(dailyHomePath,"utf8").replace("</body>",()=>"<section aria-label=\"Latest article\" style=\"max-width:1050px;margin:24px auto;padding:20px 5%;font-family:system-ui\"><a href=\"/what-to-do-if-you-smell-gas-at-home/\"><img src=\"https://ppdnkogmsfwhhknayolb.supabase.co/storage/v1/object/public/post-images/gasfitter.ca/what-to-do-if-you-smell-gas-at-home.png\" alt=\"Family standing outside their house on a winter evening while one person makes a phone call\" loading=\"lazy\" style=\"width:min(100%,400px);height:auto;border-radius:8px\"><h2>What to Do If You Smell Gas at Home in BC</h2></a><p>If you smell gas, the order matters: stop, get out, then call from outside. Here&#39;s FortisBC&#39;s advice for Lower Mainland homes, what happens when a technician arrives, and who fixes what afterward.</p></section>"+"</body>"));
