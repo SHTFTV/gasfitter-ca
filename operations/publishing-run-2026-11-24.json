@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-24",
+  "status": "continuing-independent-research",
+  "failedItems": [
+    {
+      "order": 7,
+      "neighbourhood": "Hastings-Sunrise",
+      "appliance": "furnace",
+      "reason": "Carrier59TP6 native1280x1280, Lennox ML296V product633x535 and scene1920x640 do not support1600x900 crop without upscaling or clipping.",
+      "retry": "bounded existing failure/backoff; continue eligible independent topic"
+    }
+  ],
+  "sourceHead": "c7f84cb8e3f745a3e8b2d1a2024d48e991b18874"
+}
