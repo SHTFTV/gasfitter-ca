@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "status": "continuing-independent-research",
+  "status": "source-released-awaiting-production-verification",
   "failedItems": [
     {
       "order": 7,
@@ -10,5 +10,76 @@
       "retry": "bounded existing failure/backoff; continue eligible independent topic"
     }
   ],
-  "sourceHead": "c7f84cb8e3f745a3e8b2d1a2024d48e991b18874"
+  "sourceHead": "c7f84cb8e3f745a3e8b2d1a2024d48e991b18874",
+  "execution": "Scheduled local Codex run; not a native cloud worker",
+  "bodyWords": 2203,
+  "url": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/",
+  "publishedAt": "2026-11-24T17:13:38.722Z",
+  "article": "marpole-gas-fireplace-installation-relocation-gas-line",
+  "runtimeSourceCommit": "c7f84cb8e3f745a3e8b2d1a2024d48e991b18874",
+  "sot": {
+    "revision": 4,
+    "source": "operations/site-sot.json",
+    "unchangedBeforePublication": true
+  },
+  "lease": {
+    "owner": "codex:publish-daily-vancouver-gas-guide",
+    "jobId": "publish-daily-vancouver-gas-guide:2026-11-24T16:58:51.687Z:retry1",
+    "nonce": "938a86b1-5877-49eb-8cf4-007413a6c462",
+    "order": 9,
+    "date": "2026-11-24",
+    "expectedHead": "8133c7cd3fead53bccb889be264dd21f61ad7c54",
+    "claimedAt": "2026-11-24T17:02:26.066Z",
+    "expiresAt": "2026-11-24T17:32:26.066Z"
+  },
+  "localValidation": {
+    "clientBuild": true,
+    "ssrBuild": true,
+    "prerenderRoutes": 134,
+    "faqs": 5,
+    "canonicalFeedSitemap": true,
+    "desktop": [
+      1280,
+      720
+    ],
+    "phone": [
+      390,
+      844
+    ],
+    "planner": "Actual production add/edit/position checked at desktop and phone;42ft and150000BTU/h synthetic example verified"
+  },
+  "image": {
+    "sourcePage": "https://www.valorfireplaces.com/gas-fireplaces/h5.php",
+    "sourceImage": "https://www.valorfireplaces.com/media/responsive/product-banners/bg-h5-1100m.jpg",
+    "originalDimensions": [
+      1835,
+      935
+    ],
+    "crop": {
+      "left": 86,
+      "top": 0,
+      "width": 1662,
+      "height": 935
+    },
+    "outputDimensions": [
+      1600,
+      900
+    ],
+    "sourceSha256": "728ee8329ea15c1713b3b4759038f1a74478811e7c2ce685d292eb90b063c2cb",
+    "outputSha256": "65fed8f243099b2c06adf58dba86f18aa8c702dfd8d2d72f0adf42175dc42721",
+    "reuseBasis": "Owner-directed editorial use of exact official manufacturer source photograph. No manufacturer licence, endorsement, partnership or customer installation claimed.",
+    "transforms": "Crop and downsample without upscaling; small own-brand label; photograph otherwise unchanged."
+  },
+  "search": {
+    "color": "yellow",
+    "launchBlocking": false,
+    "reason": "Inspected canonical dated evidence: GSC ownership historical; current sitemap/index counts unchecked. Bing absent in previously inspected account; current onboarding unverified.",
+    "indexedPages": null
+  },
+  "roles": {
+    "worker": "This scheduled Codex source-writing transaction only; native cloud worker not proved",
+    "checker": "Actual Safari desktop/phone preview and production planner interaction; separate scheduled checker not proved",
+    "supervisor": "GitHub/Vercel read-only checks in same Codex job; native independent supervisor proof absent",
+    "externalWatchdog": "Independent incident delivery and recovery unverified"
+  }
 }

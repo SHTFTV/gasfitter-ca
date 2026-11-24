@@ -1,5 +1,184 @@
 [
   {
+    "slug": "marpole-gas-fireplace-installation-relocation-gas-line",
+    "title": "Installing or Moving a Gas Fireplace in Marpole: Plan the Gas Line Before the Wall",
+    "description": "Plan a Marpole gas fireplace installation or relocation: service scope, a Valor H5 input example, a measured gas-line route, shared loads and approvals.",
+    "date": "2026-11-24",
+    "publishedAt": "2026-11-24T17:13:38.722Z",
+    "image": "/images/marpole-fireplace-installation-1600x900.jpg",
+    "imageAlt": "Valor H5 1100M fireplace in the manufacturer’s photographed room setting, with a Gasfitter.ca brand label",
+    "imageCredit": "Valor Fireplaces / Miles Industries official H5 product photograph. Manufacturer setting, not a Marpole customer installation or work by Gasfitter.ca.",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "useOriginalImage": true,
+    "contentOrigin": "Original sourced service-planning guide; hypothetical route and shared-load examples, not a surveyed property.",
+    "intro": [
+      "Installing a gas fireplace or moving one to another wall in Marpole starts with an installation assessment, not a choice of trim. Ask a licensed gas contractor to review the gas-line route, actual connected loads, proposed appliance and complete installation scope before you close walls or order finishes. A nearby gas pipe does not establish that a new fireplace can be connected, and moving an existing unit is not simply a furniture move.",
+      "This guide is about preparing a gas-line and fireplace installation enquiry. It uses the natural-gas Valor H5 1100MN as a specific documentation example, not a recommendation for your home or an offer to supply that appliance. The measured route and other appliance inputs below are fictional teaching examples. Use the Gasfitter.ca sketch planner to organize the facts for qualified review; it does not approve pipe sizing, pressure loss, meter capacity or installation feasibility."
+    ],
+    "sections": [
+      {
+        "heading": "Decide whether you need installation, relocation or repair",
+        "paragraphs": [
+          "An installation enquiry should describe what you want changed. Is this a new fireplace where none exists, a replacement in the same location, or a proposal to relocate an existing appliance? Explain what will happen to the original unit and connection. If your actual problem is a fireplace that will not operate, start with a repair assessment instead of assuming replacement or relocation is necessary. A symptom and a proposed renovation are different briefs, even when they concern the same fireplace.",
+          "For a repair enquiry, record what you observed, when the problem occurs and any displayed message, without opening the appliance or attempting gas adjustments. Provide the existing model and service records if safely available. For an installation enquiry, provide the proposed location and the stage of the renovation. Tell the contractor which decision you need first: whether the project merits a site assessment, what information is missing, or what scope a written quotation should cover. Do not turn an online planning article into a diagnosis of a particular fault."
+        ]
+      },
+      {
+        "heading": "Make the Marpole address useful without guessing the building",
+        "paragraphs": [
+          "The City describes Marpole as an area with a mix of residential housing, including low-rise apartments, and commercial streets. That is useful local context, but it does not identify the gas arrangement, construction, ownership or alteration permissions at your address. A detached-home enquiry and an apartment enquiry can require different information. State the actual property type and your authority to request work, rather than relying on a neighbourhood label to imply that every building has the same installation options.",
+          "Provide the project address privately to the contractor, together with legitimate access arrangements. If the fireplace would affect a shared wall, exterior surface or common space, identify that question early and obtain the relevant property approval process. Do not assume permission to use a shared area just because it is physically accessible. A site visit should be arranged through the person responsible for access; this guide establishes no local office, completed Marpole project, booking availability or right to carry out work."
+        ]
+      },
+      {
+        "heading": "Use an exact appliance record, not the family name alone",
+        "paragraphs": [
+          "The current Valor H5 installation manual identifies 1100MN as natural gas and 1100MP as propane. For the natural-gas example, its maximum input is 30,000 BTU/h and minimum input is 16,000 BTU/h. Use the exact model and verified fuel configuration when preparing the proposed-load record. The H5 family name by itself is not a complete identification for an older appliance. Keep the rating information and matching document revision with the brief for the contractor to confirm.",
+          "For the worked planning example, enter the documented maximum input of 30,000 BTU/h for the proposed 1100MN, subject to verification against the actual appliance. Do not substitute a heat-output figure or the lower operating input because it makes a subtotal smaller. If the supplied model, fuel or rating is different, correct the record before comparing proposals. Where the information has not been confirmed, leave the input unknown and label the missing evidence instead of copying a number from a similar-looking fireplace."
+        ]
+      },
+      {
+        "heading": "A gas-line quotation needs a complete work boundary",
+        "paragraphs": [
+          "Ask a proposal to separate the gas-line assessment from appliance supply, removal, venting work, wall preparation and finishing. Explain whether you already own the fireplace or are still choosing one. A gas-line quotation should not silently become a promise to provide every part of a fireplace installation. Equally, an appliance price should not be mistaken for a complete installed project. Name the people responsible for the parts of the job that must fit together.",
+          "Consider an owner who wants the fireplace moved from one wall to another during a living-room renovation. A useful brief says what will be removed, what is proposed, which finishes remain open and who is coordinating the trades. It also asks what must be assessed before framing dimensions are finalized. This is a hypothetical coordination example, not evidence that relocation is possible in a particular home. The contractor may identify missing records, a different scope or a reason to reconsider the proposed position."
+        ]
+      },
+      {
+        "heading": "Keep the gas route separate from the venting question",
+        "paragraphs": [
+          "Draw the proposed gas connection and the proposed fireplace location as distinct information. A line on the gas sketch does not describe an approved vent path. Do not infer a suitable termination from an attractive exterior wall or an existing opening. Provide photographs of the relevant areas only where you can take them safely and legitimately, and ask the installer what site observations are needed. Label concealed or unverified areas rather than completing the drawing from imagination.",
+          "The matching Valor installation manual covers framing, clearances and approved venting as well as the gas supply. Those are installer requirements, not dimensions to infer from the featured photograph. Ask the installer to confirm the complete arrangement and required documents for the actual appliance and location. Keep cabinetry, wall finishes, furniture placement and any planned equipment above the fireplace on the coordination list. Do not use a generic diagram or this article to authorize cutting a wall, altering a vent or connecting gas."
+        ]
+      },
+      {
+        "heading": "Worked route: a 42-foot entered path, not a pipe-size answer",
+        "paragraphs": [
+          "For a fictional sketch, suppose the documented meter-to-junction section is 16 feet. A proposed fireplace branch then has 22 measured feet of horizontal routing and a separate 4-foot rise that was not included in that measurement. The entered fireplace path is 16 + 22 + 4 = 42 feet. An existing furnace on a different branch is 11 feet beyond the same junction, making that entered path 16 + 11 = 27 feet. The longest complete entered path in this limited example is 42 feet.",
+          "The example teaches how to preserve the route relationship and avoid double counting. If a measurement already follows the rise, do not add the same vertical distance again. If a hidden section is unknown, the apparent total is incomplete. Record whether each section was measured, copied from reliable existing records or still requires confirmation. The 42-foot total does not establish a diameter, acceptable pressure drop, available meter capacity or an approved route. A professional must assess the actual system under the applicable requirements."
+        ]
+      },
+      {
+        "heading": "Shared-load example: separate replacement from addition",
+        "paragraphs": [
+          "Use a separate fictional equipment list with an existing furnace input of 80,000 BTU/h and an existing water-heater input of 40,000 BTU/h, both assumed confirmed solely for this example. Adding the documented 30,000 BTU/h fireplace example produces a known entered subtotal of 150,000 BTU/h. The furnace and water-heater figures are teaching values, not ratings of equipment at a Marpole address. Replace them with the actual confirmed inputs when preparing a real brief.",
+          "A replacement needs a clear before-and-after list. If an old fireplace will be removed, identify it as removed rather than leaving both fireplaces counted as continuing equipment. If the old appliance will remain elsewhere, say so. Separate future ideas from equipment that is actually part of the proposal. An unknown input is not zero and should remain visible as an unknown alongside the known subtotal. The planner does not decide simultaneous use, allowable diversity or supply capacity; the contractor needs the actual connected arrangement and supporting records."
+        ]
+      },
+      {
+        "heading": "Build and check the sketch before sending the enquiry",
+        "paragraphs": [
+          "Open the national gas-line planner and add the junction and appliances relevant to your brief. Give the proposed fireplace a recognizable label, choose its upstream connection and enter each known measured section. Add the separate rise only if it is additional. In the worked example, connect the fireplace and furnace to the same junction so the shared 16-foot section is represented once in the drawing and correctly included in each complete route. Review the resulting route and input totals before sharing anything.",
+          "Use the position controls to make symbols readable. Moving a symbol changes the presentation, not a measured pipe length or an installation decision. The planner can record pressure, meter and material details, sum entered lengths and known BTU/h, and preserve missing information. It does not calculate pressure loss, select pipe sizes or approve meter capacity. Save an editable plan if you expect revisions and export a readable brief for the contractor. Keep personal account details and information about other occupants out of a public sketch."
+        ]
+      },
+      {
+        "heading": "Pressure and meter details are evidence for assessment",
+        "paragraphs": [
+          "A meter already serving a home does not establish spare capacity for a fireplace addition. Gather documented meter and pressure information where available and tell the contractor which details remain unknown. Do not operate a regulator, open a service enclosure or attempt a pressure test to fill in a form. A precise-looking number is useful only when its unit, source and meaning are known. The contractor needs to distinguish existing records from measurements taken during qualified assessment.",
+          "FortisBC provides a gas-service upgrade process where an upgrade is required. Ask the contractor whether utility involvement is necessary and who will provide the technical information. Do not assume either that an upgrade is inevitable or that an existing meter rules it out. Keep a utility request distinct from permission to install a fireplace. A submitted enquiry is not an installation approval, and an online subtotal cannot replace the supply review needed for the particular equipment, gas arrangement and property."
+        ]
+      },
+      {
+        "heading": "Confirm the permits for the actual scope",
+        "paragraphs": [
+          "The City of Vancouver says new natural-gas installations and alterations require a gas permit, with jurisdiction depending on the actual installation. Technical Safety BC also explains that additions, replacements and removals are alterations requiring the appropriate permit before work. Ask the licensed contractor to identify the responsible authority and permit responsibility in the proposal. Do not treat a replacement or the removal of an old connection as automatically outside the permit process.",
+          "The City’s mechanical-permit guidance distinguishes changes from certain same-type, same-capacity replacements, and notes that a gas permit may still be required. Have the contractor confirm which mechanical, electrical, building or other approvals apply to this specific fireplace project. A relocation is not automatically the same scope as a like-for-like replacement. Ask for a written list of required approvals and the point at which work may proceed. Property consent, permit issuance and technical acceptance should remain separate records, not one vague “approved” note."
+        ]
+      },
+      {
+        "heading": "Compare installation proposals on the same assumptions",
+        "paragraphs": [
+          "Send each contractor the same brief: existing equipment, proposed appliance, location, measured or unknown route sections, property constraints and the decisions still outstanding. Ask what the assessment can establish from documents and what requires a visit. A proposal should identify exclusions and how concealed conditions or changes will be handled. If the appliance selection changes, request an updated assessment rather than assuming that a similar cabinet means the gas and installation requirements are unchanged.",
+          "Clarify who arranges access, protects occupied areas, restores finishes and coordinates any interruption to other equipment. An assessment appointment is not a promise that installation can begin that day. Request the next decision and the information needed to reach it. This guide establishes no installed price, rebate, turnaround time, credential claim or booking. A useful comparison is between complete and clearly conditional scopes, with the same equipment and site assumptions, rather than between headline prices that describe different jobs."
+        ]
+      },
+      {
+        "heading": "Retain the assessed result and the final records",
+        "paragraphs": [
+          "At completion, retain the actual appliance identification, relevant manuals, work record and applicable permit or declaration information supplied for the project. Ask the installer to explain the owner instructions and which future concerns require qualified service. If the final route, appliance or scope changed from the first enquiry, update your records and mark the earlier sketch as preliminary. The next person reviewing the system should be able to distinguish an owner’s initial proposal from the installed result.",
+          "The practical next step is a focused installation enquiry: “I am planning a gas fireplace at this location in Marpole. Here are the existing equipment records, proposed model and measured route sections; these other details remain unknown. Please confirm the assessment scope, installation responsibilities and approvals before finishes are committed.” That gives the contractor a usable starting point without claiming the project is feasible. For a fireplace that needs repair instead, send observations and service records and ask for diagnosis before deciding on replacement."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can an existing gas fireplace simply be moved to another wall?",
+        "answer": "Relocation requires assessment of the actual appliance, gas route, venting, property constraints and approvals. Do not assume an existing connection or opening establishes that the new location is suitable."
+      },
+      {
+        "question": "Which gas input is used for the Valor H5 example?",
+        "answer": "The matching manual lists the natural-gas 1100MN at a maximum input of 30,000 BTU/h. Confirm the exact actual model, fuel and rating before using that value in a real equipment record."
+      },
+      {
+        "question": "Does the 42-foot route determine a pipe size?",
+        "answer": "No. It only sums the fictional entered sections, 16 + 22 + 4 feet. Pressure loss, sizing, materials, connected loads and available supply require qualified assessment."
+      },
+      {
+        "question": "Does the planner approve the 150,000 BTU/h example?",
+        "answer": "No. It sums the entered known inputs. The two existing appliance loads are hypothetical, and the subtotal does not approve meter capacity or installation feasibility."
+      },
+      {
+        "question": "Is the pictured fireplace a Marpole installation by Gasfitter.ca?",
+        "answer": "No. The image is Valor’s official H5 manufacturer photograph, credited as a product setting. It is not a customer project, partnership or installation claim."
+      }
+    ],
+    "sources": [
+      {
+        "label": "Valor H5: official product page and source photograph",
+        "url": "https://www.valorfireplaces.com/gas-fireplaces/h5.php"
+      },
+      {
+        "label": "Valor 1100MN/MP installation manual, revision 4008355-17",
+        "url": "https://www.valorfireplaces.com/media/H5/English/1100MN-P-Installation.pdf"
+      },
+      {
+        "label": "City of Vancouver: Marpole neighbourhood",
+        "url": "https://vancouver.ca/news-calendar/marpole.aspx"
+      },
+      {
+        "label": "City of Vancouver: gas permits",
+        "url": "https://vancouver.ca/home-property-development/gas-permit.aspx"
+      },
+      {
+        "label": "City of Vancouver: mechanical permits and replacement distinctions",
+        "url": "https://vancouver.ca/home-property-development/mechanical-permit.aspx"
+      },
+      {
+        "label": "Technical Safety BC: gas equipment alteration permitting",
+        "url": "https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-gas-equipment-or-system-alteration-permitting"
+      },
+      {
+        "label": "FortisBC: upgrading gas service",
+        "url": "https://www.fortisbc.com/services/natural-gas-services/upgrade-your-natural-gas-service"
+      }
+    ],
+    "bodyWordCount": 2203,
+    "imageProvenance": {
+      "sourcePage": "https://www.valorfireplaces.com/gas-fireplaces/h5.php",
+      "sourceImage": "https://www.valorfireplaces.com/media/responsive/product-banners/bg-h5-1100m.jpg",
+      "originalDimensions": [
+        1835,
+        935
+      ],
+      "crop": {
+        "left": 86,
+        "top": 0,
+        "width": 1662,
+        "height": 935
+      },
+      "outputDimensions": [
+        1600,
+        900
+      ],
+      "sourceSha256": "728ee8329ea15c1713b3b4759038f1a74478811e7c2ce685d292eb90b063c2cb",
+      "outputSha256": "65fed8f243099b2c06adf58dba86f18aa8c702dfd8d2d72f0adf42175dc42721",
+      "reuseBasis": "Owner-directed editorial use of exact official manufacturer source photograph. No manufacturer licence, endorsement, partnership or customer installation claimed.",
+      "transforms": "Crop and downsample without upscaling; small own-brand label; photograph otherwise unchanged."
+    }
+  },
+  {
     "slug": "fairview-strata-gas-range-permissions-shared-load",
     "title": "No Room on the Electrical Panel? Planning a Stove Gas Line in Fairview",
     "description": "Need a stove but have no room on the electrical panel? Plan a Fairview stove gas-line enquiry, electrical checks, strata permissions and shared gas loads.",

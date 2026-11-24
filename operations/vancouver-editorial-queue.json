@@ -52,6 +52,14 @@
       "neighbourhood": "Fairview",
       "verifiedAt": "2026-11-23T17:16:32.203266+00:00",
       "title": "No Room on the Electrical Panel? Planning a Stove Gas Line in Fairview"
+    },
+    {
+      "slug": "marpole-gas-fireplace-installation-relocation-gas-line",
+      "date": "2026-11-24",
+      "bodyWords": 2203,
+      "url": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/",
+      "neighbourhood": "Marpole",
+      "appliance": "fireplace"
     }
   ],
   "queue": [
@@ -149,10 +157,15 @@
       "order": 9,
       "neighbourhood": "Marpole",
       "topic": "Gas fireplace relocation or installation in Marpole: gas-line route, approvals and professional scope",
-      "status": "requires-research-writing-and-visual-review",
+      "status": "published",
       "appliance": "fireplace",
       "requiresLongestRunAndPlannerExample": true,
-      "editorialAngle": "Lead with the homeowner repair or installation need; exact model specifications support diagnosis or installation assessment, never a product lineup. No homeowner gas repair instructions."
+      "editorialAngle": "Lead with the homeowner repair or installation need; exact model specifications support diagnosis or installation assessment, never a product lineup. No homeowner gas repair instructions.",
+      "slug": "marpole-gas-fireplace-installation-relocation-gas-line",
+      "title": "Installing or Moving a Gas Fireplace in Marpole: Plan the Gas Line Before the Wall",
+      "date": "2026-11-24",
+      "bodyWords": 2203,
+      "url": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/"
     },
     {
       "order": 10,
@@ -340,15 +353,10 @@
     }
   ],
   "lastScheduledRun": {
-    "date": "2026-11-12",
-    "status": "succeeded",
-    "article": "https://www.gasfitter.ca/mount-pleasant-gas-stove-kitchen-renovation-planning/",
-    "bodyWords": 2443,
-    "deployment": "dpl_6hjiBwTcVeMm8CuGeRHQvyv9FShB",
-    "featuredPhotograph": [
-      1600,
-      900
-    ]
+    "date": "2026-11-24",
+    "status": "source-released-awaiting-production-verification",
+    "article": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/",
+    "bodyWords": 2203
   },
   "featuredImageStandard": {
     "required": "real story-matching source/manufacturer photograph",
