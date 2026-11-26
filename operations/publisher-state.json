@@ -4,13 +4,13 @@
   "soleOwner": "codex:publish-daily-vancouver-gas-guide",
   "lease": {
     "owner": "codex:publish-daily-vancouver-gas-guide",
-    "jobId": "publish-daily-vancouver-gas-guide:manual-recovery-2026-11-25",
-    "nonce": "38864fae-08f2-4226-b6fd-d7dcb0a4d4ef",
-    "order": 7,
+    "jobId": "publish-daily-vancouver-gas-guide:manual-recovery-2026-11-25:retry1",
+    "nonce": "07756df9-0e65-45da-b7ae-6a3fe08735c2",
+    "order": 11,
     "date": "2026-11-25",
-    "expectedHead": "5c45ead7d2e7e0d4c6567213fb7d5d873baff124",
-    "claimedAt": "2026-11-26T04:25:31.872Z",
-    "expiresAt": "2026-11-26T04:55:31.872Z"
+    "expectedHead": "62789afdf06ef4b2514d3d15c39b75aacba60d04",
+    "claimedAt": "2026-11-26T04:26:47.031Z",
+    "expiresAt": "2026-11-26T04:56:47.031Z"
   },
   "completedDates": [
     "2026-11-09",
@@ -105,14 +105,22 @@
       "result": "published",
       "proofRef": "operations/publishing-run-2026-11-24.json",
       "finishedAt": "2026-11-24T17:13:38.958Z"
+    },
+    {
+      "jobId": "publish-daily-vancouver-gas-guide:manual-recovery-2026-11-25",
+      "order": 7,
+      "date": "2026-11-25",
+      "result": "failed",
+      "proofRef": "operations/publishing-run-2026-11-25.json",
+      "finishedAt": "2026-11-26T04:26:47.024Z"
     }
   ],
   "failures": [
     {
       "order": 7,
-      "attempts": 1,
-      "nextAttemptAt": "2026-11-24T17:04:03.886Z",
-      "reasonRef": "operations/publishing-run-2026-11-24.json"
+      "attempts": 2,
+      "nextAttemptAt": "2026-11-26T04:30:47.024Z",
+      "reasonRef": "operations/publishing-run-2026-11-25.json"
     }
   ],
   "proofBoundary": "State and proposal guard prepared for existing Codex writer; production CAS claim/finish adoption requires actual run evidence. No native cloud writer implied."

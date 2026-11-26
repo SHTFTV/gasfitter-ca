@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-25",
+  "status": "in-progress",
+  "failedItems": [
+    {
+      "order": 7,
+      "reason": "Official Carrier native 59TP6 PNG is 1280x1280; insufficient for required 1600x900 crop without upscaling.",
+      "source": "https://images.carriercms.com/image/upload/v1728566325/carrier/residential-hvac/products/gas-furnaces/performance-96-gas-furnace-59TP6.png"
+    }
+  ],
+  "nextOrder": 11
+}
