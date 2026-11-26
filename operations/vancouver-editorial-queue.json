@@ -61,6 +61,17 @@
       "neighbourhood": "Marpole",
       "appliance": "fireplace",
       "verifiedAt": "2026-11-24T17:17:55.444137+00:00"
+    },
+    {
+      "slug": "oakridge-gas-dryer-installation-renovation-handover",
+      "title": "Adding a Gas Dryer in Oakridge: Plan the Gas Line and Keep a Useful Handover Record",
+      "date": "2026-11-25",
+      "bodyWords": 2064,
+      "url": "https://www.gasfitter.ca/oakridge-gas-dryer-installation-renovation-handover/",
+      "neighbourhood": "Oakridge",
+      "appliance": "gas-dryer",
+      "sourcePreparedAt": "2026-11-26T04:53:26.733Z",
+      "productionVerification": "pending"
     }
   ],
   "queue": [
@@ -182,9 +193,16 @@
       "order": 11,
       "neighbourhood": "Oakridge",
       "topic": "Renovation handover: keeping a gas-system change record",
-      "status": "requires-research-writing-and-visual-review",
+      "status": "published",
       "appliance": "gas-dryer",
-      "requiresLongestRunAndPlannerExample": true
+      "requiresLongestRunAndPlannerExample": true,
+      "slug": "oakridge-gas-dryer-installation-renovation-handover",
+      "title": "Adding a Gas Dryer in Oakridge: Plan the Gas Line and Keep a Useful Handover Record",
+      "date": "2026-11-25",
+      "bodyWords": 2064,
+      "url": "https://www.gasfitter.ca/oakridge-gas-dryer-installation-renovation-handover/",
+      "sourcePreparedAt": "2026-11-26T04:53:26.733Z",
+      "productionVerification": "pending"
     },
     {
       "order": 12,
@@ -356,17 +374,17 @@
     }
   ],
   "lastScheduledRun": {
-    "date": "2026-11-24",
-    "status": "succeeded",
-    "article": "https://www.gasfitter.ca/marpole-gas-fireplace-installation-relocation-gas-line/",
-    "bodyWords": 2203,
-    "deployment": "dpl_BJbnM796kh7L5u5zDot8ZXAYDE8s",
-    "commit": "8aec9ad62f54ba9153378cdf8c0300b79a4267b6",
-    "featuredPhotograph": [
-      1600,
-      900
-    ],
-    "verifiedAt": "2026-11-24T17:17:55.444137+00:00"
+    "date": "2026-11-25",
+    "status": "source-published-awaiting-production-verification",
+    "slug": "oakridge-gas-dryer-installation-renovation-handover",
+    "title": "Adding a Gas Dryer in Oakridge: Plan the Gas Line and Keep a Useful Handover Record",
+    "bodyWords": 2064,
+    "url": "https://www.gasfitter.ca/oakridge-gas-dryer-installation-renovation-handover/",
+    "neighbourhood": "Oakridge",
+    "appliance": "gas-dryer",
+    "sourcePreparedAt": "2026-11-26T04:53:26.733Z",
+    "productionVerification": "pending",
+    "execution": "Manual recovery of configured Codex daily job; no native worker/scheduler claim"
   },
   "featuredImageStandard": {
     "required": "real story-matching source/manufacturer photograph",

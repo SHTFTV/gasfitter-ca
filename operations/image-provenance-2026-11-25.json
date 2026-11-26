@@ -1,0 +1,21 @@
+{
+  "sourcePage": "https://www.lg.com/ca_en/tumble-dryers/dlgx5501v/",
+  "sourceImage": "https://www.lg.com/content/dam/channel/wcms/ca_en/d2c-content/hs/laundry/ca-en-wm21-dryer-dlgx5501v/gallery/2010x1334/lg-monitor-DLGX5501V-add-2-2010.jpg",
+  "native": [
+    2010,
+    1334
+  ],
+  "crop": {
+    "left": 0,
+    "top": 80,
+    "width": 2010,
+    "height": 1131
+  },
+  "output": [
+    1600,
+    900
+  ],
+  "outputSha256": "2de6021054f56ef8a8ba9aaca5688295993e0576f2b7bb525c7565f385b19450",
+  "credit": "LG Electronics Canada official DLGX5501V gallery photograph. Manufacturer setting, not an Oakridge customer installation or Gasfitter.ca project.",
+  "permission": "Owner-directed editorial use of official public manufacturer source; no manufacturer licence, partnership or customer project asserted."
+}

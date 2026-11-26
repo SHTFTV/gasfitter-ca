@@ -1,12 +1,86 @@
 {
   "date": "2026-11-25",
-  "status": "in-progress",
+  "status": "source-ready-production-verification-pending",
+  "jobId": "publish-daily-vancouver-gas-guide:manual-recovery-2026-11-25:retry1",
+  "lease": {
+    "owner": "codex:publish-daily-vancouver-gas-guide",
+    "jobId": "publish-daily-vancouver-gas-guide:manual-recovery-2026-11-25:retry1",
+    "nonce": "07756df9-0e65-45da-b7ae-6a3fe08735c2",
+    "order": 11,
+    "date": "2026-11-25",
+    "expectedHead": "62789afdf06ef4b2514d3d15c39b75aacba60d04",
+    "claimedAt": "2026-11-26T04:26:47.031Z",
+    "expiresAt": "2026-11-26T04:56:47.031Z"
+  },
+  "claimCommit": "f1321956fd200dfb6bc2fa85b87b6078f7586124",
+  "sourceBase": "f1321956fd200dfb6bc2fa85b87b6078f7586124",
+  "sotBlob": "630a20c54a5159030461802631c55095fdfa30e7",
+  "article": {
+    "slug": "oakridge-gas-dryer-installation-renovation-handover",
+    "title": "Adding a Gas Dryer in Oakridge: Plan the Gas Line and Keep a Useful Handover Record",
+    "date": "2026-11-25",
+    "bodyWords": 2064,
+    "url": "https://www.gasfitter.ca/oakridge-gas-dryer-installation-renovation-handover/",
+    "neighbourhood": "Oakridge",
+    "appliance": "gas-dryer",
+    "sourcePreparedAt": "2026-11-26T04:53:26.733Z",
+    "productionVerification": "pending"
+  },
+  "bodyWordsExcludingFAQ": 2064,
   "failedItems": [
     {
       "order": 7,
-      "reason": "Official Carrier native 59TP6 PNG is 1280x1280; insufficient for required 1600x900 crop without upscaling.",
-      "source": "https://images.carriercms.com/image/upload/v1728566325/carrier/residential-hvac/products/gas-furnaces/performance-96-gas-furnace-59TP6.png"
+      "reason": "Carrier native official 59TP6 photo1280x1280 insufficient for1600x900 crop without upscaling; retained failure/backoff, continued independent eligible order11"
     }
   ],
-  "nextOrder": 11
+  "media": {
+    "sourcePage": "https://www.lg.com/ca_en/tumble-dryers/dlgx5501v/",
+    "sourceImage": "https://www.lg.com/content/dam/channel/wcms/ca_en/d2c-content/hs/laundry/ca-en-wm21-dryer-dlgx5501v/gallery/2010x1334/lg-monitor-DLGX5501V-add-2-2010.jpg",
+    "native": [
+      2010,
+      1334
+    ],
+    "crop": {
+      "left": 0,
+      "top": 80,
+      "width": 2010,
+      "height": 1131
+    },
+    "output": [
+      1600,
+      900
+    ],
+    "outputSha256": "2de6021054f56ef8a8ba9aaca5688295993e0576f2b7bb525c7565f385b19450",
+    "credit": "LG Electronics Canada official DLGX5501V gallery photograph. Manufacturer setting, not an Oakridge customer installation or Gasfitter.ca project.",
+    "permission": "Owner-directed editorial use of official public manufacturer source; no manufacturer licence, partnership or customer project asserted."
+  },
+  "checks": {
+    "preview": {
+      "desktop": [
+        1440,
+        1000
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "image": "visible relevant photo and own-brand label; subject preserved",
+      "discovery": "blog link followed to exact guide",
+      "schema": "Article/canonical plus5matchingFAQ; home/blog/feed/sitemap include guide",
+      "planner": "Live browser added and edited junction/dryer on desktop, furnace/water-heater onphone; position arrows tested;49ft/130000BTUh observed"
+    },
+    "localBuild": "Temporary preview with locally available Vite5/React dependencies and automatic JSX; production canonical package build still required",
+    "production": "pending"
+  },
+  "search": {
+    "status": "yellow",
+    "reason": "Retained official GSC ownership/sitemap evidence is historical; current index coverage unchecked. Bing exact domain absent from previously inspected account; no fresh onboarding/sitemap acceptance proof."
+  },
+  "fourRoles": {
+    "worker": "This manual Codex recovery only; native unattended publisher unproven",
+    "checker": "Manual preview browser checks only; independent scheduled checker unproven",
+    "supervisor": "Configured/historical evidence; fresh independent native execution unproven",
+    "externalWatchdog": "Unproven separate-provider silence detection and delivered recovery"
+  },
+  "checkedAt": "2026-11-26T04:53:26.733Z"
 }

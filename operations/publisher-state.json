@@ -2,23 +2,15 @@
   "site": "gasfitter.ca",
   "version": 1,
   "soleOwner": "codex:publish-daily-vancouver-gas-guide",
-  "lease": {
-    "owner": "codex:publish-daily-vancouver-gas-guide",
-    "jobId": "publish-daily-vancouver-gas-guide:manual-recovery-2026-11-25:retry1",
-    "nonce": "07756df9-0e65-45da-b7ae-6a3fe08735c2",
-    "order": 11,
-    "date": "2026-11-25",
-    "expectedHead": "62789afdf06ef4b2514d3d15c39b75aacba60d04",
-    "claimedAt": "2026-11-26T04:26:47.031Z",
-    "expiresAt": "2026-11-26T04:56:47.031Z"
-  },
+  "lease": null,
   "completedDates": [
     "2026-11-09",
     "2026-11-10",
     "2026-11-11",
     "2026-11-12",
     "2026-11-23",
-    "2026-11-24"
+    "2026-11-24",
+    "2026-11-25"
   ],
   "history": [
     {
@@ -113,6 +105,14 @@
       "result": "failed",
       "proofRef": "operations/publishing-run-2026-11-25.json",
       "finishedAt": "2026-11-26T04:26:47.024Z"
+    },
+    {
+      "jobId": "publish-daily-vancouver-gas-guide:manual-recovery-2026-11-25:retry1",
+      "order": 11,
+      "date": "2026-11-25",
+      "result": "published",
+      "proofRef": "operations/publishing-run-2026-11-25.json",
+      "finishedAt": "2026-11-26T04:53:26.738Z"
     }
   ],
   "failures": [
