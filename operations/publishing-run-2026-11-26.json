@@ -1,10 +1,18 @@
 {
+  "site": "gasfitter.ca",
   "date": "2026-11-26",
-  "status": "stopped-owner-steering",
-  "reason": "Owner instructed using today's existing Supabase public.posts instead of generating another guide. Dunbar draft research stopped; no article published. Existing writer released without completing today's date; subsequent authorized Supabase post integration will be recorded separately.",
-  "failedItem": {
-    "order": 5,
-    "reason": "Source owner switched content; manufacturer lookup also returned a conflicting LP manual under NG listing, not used for publication."
-  },
-  "at": "2026-11-26T19:50:17.497Z"
+  "status": "source-prepared-for-deployment",
+  "owner": "codex:publish-daily-vancouver-gas-guide",
+  "jobId": "publish-daily-vancouver-gas-guide:owner-import-2026-11-26",
+  "nonce": "ece72cf1-b308-4f87-8072-c802dc8288a7",
+  "slug": "tank-vs-tankless-gas-water-heaters",
+  "canonical": "https://www.gasfitter.ca/tank-vs-tankless-gas-water-heaters/",
+  "bodyWords": 2168,
+  "source": "Owner-selected Supabase public.posts article, expanded and primary-source reviewed",
+  "quality": {
+    "htmlSchemaFaq": "validated",
+    "production": "pending",
+    "desktopPhone": "pending",
+    "image": "Owner-provided1536x1024illustration retained with visible layout branding; no real-photo or1600x900pass claimed"
+  }
 }
