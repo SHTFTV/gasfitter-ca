@@ -71,7 +71,9 @@
       "neighbourhood": "Oakridge",
       "appliance": "gas-dryer",
       "sourcePreparedAt": "2026-11-26T04:53:26.733Z",
-      "productionVerification": "pending"
+      "productionVerification": "passed",
+      "commit": "46b8e002f0f0f42bd1cc2cd15c14d38cbbbde759",
+      "verifiedAt": "2026-11-26T04:56:09.833045+00:00"
     }
   ],
   "queue": [
@@ -202,7 +204,9 @@
       "bodyWords": 2064,
       "url": "https://www.gasfitter.ca/oakridge-gas-dryer-installation-renovation-handover/",
       "sourcePreparedAt": "2026-11-26T04:53:26.733Z",
-      "productionVerification": "pending"
+      "productionVerification": "passed",
+      "commit": "46b8e002f0f0f42bd1cc2cd15c14d38cbbbde759",
+      "verifiedAt": "2026-11-26T04:56:09.833045+00:00"
     },
     {
       "order": 12,
@@ -375,7 +379,7 @@
   ],
   "lastScheduledRun": {
     "date": "2026-11-25",
-    "status": "source-published-awaiting-production-verification",
+    "status": "succeeded",
     "slug": "oakridge-gas-dryer-installation-renovation-handover",
     "title": "Adding a Gas Dryer in Oakridge: Plan the Gas Line and Keep a Useful Handover Record",
     "bodyWords": 2064,
@@ -383,8 +387,11 @@
     "neighbourhood": "Oakridge",
     "appliance": "gas-dryer",
     "sourcePreparedAt": "2026-11-26T04:53:26.733Z",
-    "productionVerification": "pending",
-    "execution": "Manual recovery of configured Codex daily job; no native worker/scheduler claim"
+    "productionVerification": "passed",
+    "execution": "Manual recovery of configured Codex daily job; no native worker/scheduler claim",
+    "commit": "46b8e002f0f0f42bd1cc2cd15c14d38cbbbde759",
+    "deployment": "dpl_GdhPSquHs2ZfQcrVswV3huiqV8PX",
+    "verifiedAt": "2026-11-26T04:56:09.833045+00:00"
   },
   "featuredImageStandard": {
     "required": "real story-matching source/manufacturer photograph",

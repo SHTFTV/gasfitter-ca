@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "status": "source-ready-production-verification-pending",
+  "status": "succeeded",
   "jobId": "publish-daily-vancouver-gas-guide:manual-recovery-2026-11-25:retry1",
   "lease": {
     "owner": "codex:publish-daily-vancouver-gas-guide",
@@ -24,7 +24,7 @@
     "neighbourhood": "Oakridge",
     "appliance": "gas-dryer",
     "sourcePreparedAt": "2026-11-26T04:53:26.733Z",
-    "productionVerification": "pending"
+    "productionVerification": "passed"
   },
   "bodyWordsExcludingFAQ": 2064,
   "failedItems": [
@@ -70,7 +70,92 @@
       "planner": "Live browser added and edited junction/dryer on desktop, furnace/water-heater onphone; position arrows tested;49ft/130000BTUh observed"
     },
     "localBuild": "Temporary preview with locally available Vite5/React dependencies and automatic JSX; production canonical package build still required",
-    "production": "pending"
+    "production": {
+      "http": 200,
+      "releaseIdentity": "46b8e002f0f0f42bd1cc2cd15c14d38cbbbde759",
+      "canonical": "exact new guide",
+      "visibleDate": "November25,2026",
+      "schema": "Article and5FAQ match visible text",
+      "discovery": [
+        "homepage",
+        "blog clicked to guide",
+        "feed",
+        "sitemap"
+      ],
+      "image": "hero/card/og/twitter same1600x900 asset, live bytes SHA256 matches derivative",
+      "desktop": [
+        1440,
+        1000
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "visual": "real browser production hero/card and social image inspected; own-brand label visible and subjects preserved",
+      "planner": "live browser desktop add/edit/position and phone add/edit/position;49ft/130000BTUh observed",
+      "sourceLinks": [
+        {
+          "url": "https://www.lg.com/ca_en/tumble-dryers/dlgx5501v/",
+          "error": "HTTP Error 403: Forbidden",
+          "curlRetry": {
+            "status": "200",
+            "exit": 0,
+            "error": ""
+          }
+        },
+        {
+          "url": "https://images.homedepot.ca/pdf/DLGX5501%20Spec%20Sheet%20En-pdf.pdf",
+          "status": 200,
+          "bytes": 463134
+        },
+        {
+          "url": "https://www.lg.com/ca_en/support/product-support/cs-DLGX5501V.ASSEECI/",
+          "error": "HTTP Error 403: Forbidden",
+          "curlRetry": {
+            "status": "200",
+            "exit": 0,
+            "error": ""
+          }
+        },
+        {
+          "url": "https://gscs-b2c.lge.com/open/downloadFile?fileId=g7nU6oxIhobTX8ELIfZw",
+          "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+          "curlRetry": {
+            "status": "200",
+            "exit": 0,
+            "error": ""
+          }
+        },
+        {
+          "url": "https://vancouver.ca/news-calendar/oakridge.aspx",
+          "error": "HTTP Error 403: Forbidden",
+          "curlRetry": {
+            "status": "403",
+            "exit": 0,
+            "error": ""
+          }
+        },
+        {
+          "url": "https://vancouver.ca/home-property-development/gas-permit.aspx",
+          "error": "HTTP Error 403: Forbidden",
+          "curlRetry": {
+            "status": "403",
+            "exit": 0,
+            "error": ""
+          }
+        },
+        {
+          "url": "https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-gas-equipment-or-system-alteration-permitting",
+          "status": 200,
+          "bytes": 121066
+        },
+        {
+          "url": "https://www.fortisbc.com/services/natural-gas-services/upgrade-your-natural-gas-service",
+          "status": 200,
+          "bytes": 283448
+        }
+      ]
+    }
   },
   "search": {
     "status": "yellow",
@@ -82,5 +167,17 @@
     "supervisor": "Configured/historical evidence; fresh independent native execution unproven",
     "externalWatchdog": "Unproven separate-provider silence detection and delivered recovery"
   },
-  "checkedAt": "2026-11-26T04:53:26.733Z"
+  "checkedAt": "2026-11-26T04:53:26.733Z",
+  "commit": "46b8e002f0f0f42bd1cc2cd15c14d38cbbbde759",
+  "deployment": "dpl_GdhPSquHs2ZfQcrVswV3huiqV8PX",
+  "verifiedAt": "2026-11-26T04:56:09.833045+00:00",
+  "screenshots": [
+    "outputs/gasfitter-nov25/gas-production-desktop.png",
+    "outputs/gasfitter-nov25/gas-production-phone.png",
+    "outputs/gasfitter-nov25/gas-blog-desktop.png",
+    "outputs/gasfitter-nov25/gas-blog-phone.png",
+    "outputs/gasfitter-nov25/gas-social-image-desktop.png",
+    "outputs/gasfitter-nov25/gas-planner-desktop.png",
+    "outputs/gasfitter-nov25/gas-planner-phone.png"
+  ]
 }
