@@ -1,7 +1,7 @@
 {
   "site": "gasfitter.ca",
   "date": "2026-11-26",
-  "status": "source-prepared-for-deployment",
+  "status": "published-production-verified",
   "owner": "codex:publish-daily-vancouver-gas-guide",
   "jobId": "publish-daily-vancouver-gas-guide:owner-import-2026-11-26",
   "nonce": "ece72cf1-b308-4f87-8072-c802dc8288a7",
@@ -11,8 +11,17 @@
   "source": "Owner-selected Supabase public.posts article, expanded and primary-source reviewed",
   "quality": {
     "htmlSchemaFaq": "validated",
-    "production": "pending",
-    "desktopPhone": "pending",
-    "image": "Owner-provided1536x1024illustration retained with visible layout branding; no real-photo or1600x900pass claimed"
+    "production": "HTTP200, self canonical, November26 date, source image, Article and matching FAQ schema verified",
+    "desktopPhone": "Real in-app browser1440x1000and390x844; no horizontal overflow; article and native blog card verified; screenshots retained in dated portfolio release evidence",
+    "image": "Owner-provided1536x1024illustration retained unchanged at source URL; visible own-brand layout watermark on card and hero. Not a1600x900photograph pass; social raster still lacks embedded watermark. Latest explicit import directs supplied image use."
+  },
+  "sourceCommit": "210889518eec6c33f5af178f24003eada9dc0d36",
+  "deployment": "dpl_FwYNR2DNvHjmrWtrwt3ihBsdBvft",
+  "verifiedAt": "2026-11-26T20:33:18.925769+00:00",
+  "fourRoles": {
+    "worker": "Existing sole Codex writer and CAS claim/finish; manual owner-import recovery",
+    "checker": "Separate bounded source reviews plus manual HTTP/browser checks",
+    "supervisor": "Manual release review; no independent native-runtime proof",
+    "externalWatchdog": "Not verified by this release; no new monitor or publisher created"
   }
 }
