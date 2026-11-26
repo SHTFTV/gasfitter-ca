@@ -78,6 +78,15 @@
   ],
   "queue": [
     {
+      "order": 32,
+      "neighbourhood": "Vancouver citywide owner-selected comparison",
+      "appliance": "gas-water-heater",
+      "intent": "Tank vs Tankless Gas Water Heaters: Which Is Right for You?",
+      "slug": "tank-vs-tankless-gas-water-heaters",
+      "status": "owner-requested",
+      "source": "Owner November26 explicit import from Supabase public.posts, replacing separate daily draft; preserve exact slug/title/image_url. This is an owner-selected citywide comparison, not a new neighbourhood doorway. Latest asset instruction preserves supplied illustration with honest disclosure; prior photograph standard remains recorded."
+    },
+    {
       "order": 1,
       "neighbourhood": "Kitsilano",
       "topic": "Adding a gas BBQ: appliance records, shared branches and the first site visit",
