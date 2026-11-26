@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-26",
+  "status": "stopped-owner-steering",
+  "reason": "Owner instructed using today's existing Supabase public.posts instead of generating another guide. Dunbar draft research stopped; no article published. Existing writer released without completing today's date; subsequent authorized Supabase post integration will be recorded separately.",
+  "failedItem": {
+    "order": 5,
+    "reason": "Source owner switched content; manufacturer lookup also returned a conflicting LP manual under NG listing, not used for publication."
+  },
+  "at": "2026-11-26T19:50:17.497Z"
+}

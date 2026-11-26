@@ -2,16 +2,7 @@
   "site": "gasfitter.ca",
   "version": 1,
   "soleOwner": "codex:publish-daily-vancouver-gas-guide",
-  "lease": {
-    "owner": "codex:publish-daily-vancouver-gas-guide",
-    "jobId": "publish-daily-vancouver-gas-guide:2026-11-26T19:41:01.418Z",
-    "nonce": "d8987299-7ae4-4f77-bf55-bf366d7f82ea",
-    "order": 5,
-    "date": "2026-11-26",
-    "expectedHead": "a9aab441934c09140bf1dd122f5e98be5458cb9c",
-    "claimedAt": "2026-11-26T19:43:13.901Z",
-    "expiresAt": "2026-11-26T20:13:13.901Z"
-  },
+  "lease": null,
   "completedDates": [
     "2026-11-09",
     "2026-11-10",
@@ -122,6 +113,14 @@
       "result": "published",
       "proofRef": "operations/publishing-run-2026-11-25.json",
       "finishedAt": "2026-11-26T04:53:26.738Z"
+    },
+    {
+      "jobId": "publish-daily-vancouver-gas-guide:2026-11-26T19:41:01.418Z",
+      "order": 5,
+      "date": "2026-11-26",
+      "result": "failed",
+      "proofRef": "operations/publishing-run-2026-11-26.json",
+      "finishedAt": "2026-11-26T19:50:17.417Z"
     }
   ],
   "failures": [
@@ -130,6 +129,12 @@
       "attempts": 2,
       "nextAttemptAt": "2026-11-26T04:30:47.024Z",
       "reasonRef": "operations/publishing-run-2026-11-25.json"
+    },
+    {
+      "order": 5,
+      "attempts": 1,
+      "nextAttemptAt": "2026-11-26T19:52:17.417Z",
+      "reasonRef": "operations/publishing-run-2026-11-26.json"
     }
   ],
   "proofBoundary": "State and proposal guard prepared for existing Codex writer; production CAS claim/finish adoption requires actual run evidence. No native cloud writer implied."
