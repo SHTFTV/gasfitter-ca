@@ -5,7 +5,7 @@ export function proposeClaim(state,queue,{jobId,date,expectedHead,now=Date.now()
  if(state.site!=='gasfitter.ca'||!/^\d{4}-\d{2}-\d{2}$/.test(date)||!/^[a-f0-9]{40}$/.test(expectedHead))throw Error('INVALID_LEASE_SCOPE');
  if(state.completedDates.includes(date)||queue.published.some(x=>x.date===date))return {outcome:'already-published',state,mutation:false};
  if(state.lease){if(Date.parse(state.lease.expiresAt)>now)throw Error('ACTIVE_SOLE_WRITER_LEASE');throw Error('EXPIRED_LEASE_REQUIRES_CANONICAL_RECONCILIATION');}
- const prior=queue.queue.filter(x=>x.status==='published').at(-1);const failures=state.failures||[];
+ const prior=queue.queue.filter(x=>x.status==='published').map((item,index)=>({item,index})).sort((a,b)=>(a.item.date||'').localeCompare(b.item.date||'')||a.index-b.index).at(-1)?.item;const failures=state.failures||[];
  const item=queue.queue.find(x=>x.status!=='published'&&x.neighbourhood!==prior?.neighbourhood&&applianceFamily(x.appliance)!==applianceFamily(prior?.appliance)&&!failures.some(f=>f.order===x.order&&(f.attempts>=3||Date.parse(f.nextAttemptAt)>now)));
  if(!item)return {outcome:'no-eligible-topic',state,mutation:false};
  const lease={owner,jobId,nonce:randomUUID(),order:item.order,date,expectedHead,claimedAt:new Date(now).toISOString(),expiresAt:new Date(now+30*60000).toISOString()};return {outcome:'claimed',item,mutation:true,state:{...state,lease}};

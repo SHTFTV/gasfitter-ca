@@ -14,3 +14,7 @@ assert.equal(recovered.lease,null);assert.equal(recovered.completedDates.length,
 assert.equal(proposeClaim(recovered,q,{jobId:'new',date:'2026-11-14',expectedHead:head,now}).mutation,true);
 assert.throws(()=>proposeFinish(recovered,{jobId:'qa',nonce:a.state.lease.nonce,result:'published',proofRef:'test',now}),/FOREIGN/);
 console.log('Expired recovery: identity, expiry, fresh live/source proof, CAS head, retained history, and old-writer fencing passed.');
+
+const unordered={published:[],queue:[{order:1,status:'published',date:'2026-11-25',neighbourhood:'Oakridge',appliance:'gas-dryer'},{order:2,status:'pending',neighbourhood:'Grandview',appliance:'gas-dryer'},{order:3,status:'pending',neighbourhood:'Dunbar',appliance:'outdoor-kitchen'},{order:31,status:'published',date:'2026-11-12',neighbourhood:'Grandview',appliance:'natural-gas-bbq'}]};
+assert.equal(proposeClaim(state,unordered,{jobId:'chronological',date:'2026-11-26',expectedHead:head,now:at}).item.order,3);
+console.log('Chronological latest publication regression passed despite older extra post at queue end.');
