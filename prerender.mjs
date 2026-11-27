@@ -64,3 +64,20 @@ fs.writeFileSync(dailyHomePath,fs.readFileSync(dailyHomePath,"utf8").replace("</
 fs.writeFileSync(path.join(dist,"sitemap.xml"),fs.readFileSync(path.join(dist,"sitemap.xml"),"utf8").replace("</urlset>",()=>"<url><loc>https://www.gasfitter.ca/tank-vs-tankless-gas-water-heaters/</loc><lastmod>2026-11-26</lastmod></url>"+"</urlset>"));
 
 const nov26Feed=fs.readFileSync(path.join(dist,"feed.xml"),"utf8");const nov26Item=fs.readFileSync("public/feed.xml","utf8").match(/<item>[\s\S]*?<\/item>/)?.[0];if(nov26Item)fs.writeFileSync(path.join(dist,"feed.xml"),nov26Feed.replace("</description>","</description>"+nov26Item));
+
+const relocatedGuide = {
+  title: 'What Is a Direct-Vent Gas Fireplace and Why Does It Matter?',
+  description: 'A direct-vent gas fireplace uses outdoor air for combustion and exhausts outdoors through an approved vent.',
+  url: 'https://www.gasfitter.ca/what-is-a-direct-vent-gas-fireplace/',
+  publishedAt: '2026-11-26T14:00:00Z',
+};
+const relocatedSitemapPath = path.join(dist, 'sitemap.xml');
+const relocatedSitemap = fs.readFileSync(relocatedSitemapPath, 'utf8');
+fs.writeFileSync(relocatedSitemapPath, relocatedSitemap.replace(
+  '</urlset>',
+  `<url><loc>${esc(relocatedGuide.url)}</loc><lastmod>2026-11-26</lastmod></url></urlset>`,
+));
+const relocatedFeedPath = path.join(dist, 'feed.xml');
+const relocatedFeed = fs.readFileSync(relocatedFeedPath, 'utf8');
+const relocatedFeedItem = `<item><title>${esc(relocatedGuide.title)}</title><link>${esc(relocatedGuide.url)}</link><guid isPermaLink="true">${esc(relocatedGuide.url)}</guid><pubDate>${new Date(relocatedGuide.publishedAt).toUTCString()}</pubDate><description>${esc(relocatedGuide.description)}</description></item>`;
+fs.writeFileSync(relocatedFeedPath, relocatedFeed.replace('<item>', () => relocatedFeedItem + '<item>'));
