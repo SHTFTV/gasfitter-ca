@@ -2,7 +2,16 @@
   "site": "gasfitter.ca",
   "version": 1,
   "soleOwner": "codex:publish-daily-vancouver-gas-guide",
-  "lease": null,
+  "lease": {
+    "owner": "codex:publish-daily-vancouver-gas-guide",
+    "jobId": "publish-daily-vancouver-gas-guide:2026-11-27T16:58:59.910Z",
+    "nonce": "fd307e18-2062-470e-b789-bbe9605e06c8",
+    "order": 4,
+    "date": "2026-11-27",
+    "expectedHead": "30d5747670cea51ff56701f3edd99a044d679375",
+    "claimedAt": "2026-11-27T16:59:52.637Z",
+    "expiresAt": "2026-11-27T17:29:52.637Z"
+  },
   "completedDates": [
     "2026-11-09",
     "2026-11-10",
