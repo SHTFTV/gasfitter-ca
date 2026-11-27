@@ -1,0 +1,21 @@
+{
+  "site": "gasfitter.ca",
+  "model": "LG DLG3601W",
+  "sourcePage": "https://www.lg.com/ca_en/laundry/dryers/dlg3601w/",
+  "sourceImage": "https://www.lg.com/content/dam/channel/wcms/ca_en/images/dryers/dlg3601w_abweeci_enci_ca_en_c/gallery/DZ01.jpg",
+  "native": {
+    "width": 2010,
+    "height": 1334,
+    "sha256": "8e643dd9da555b0a014eeb8025a098a55d8575fc0308321f6ddc93dfdef769b6"
+  },
+  "derivative": {
+    "path": "/images/grandview-woodland-lg-dlg3601w-gas-dryer.jpg",
+    "width": 1600,
+    "height": 900,
+    "bytes": 60799,
+    "sha256": "85372853a4e15956840fe61e034edc9360735117bb8e1d20826a5bfe131bc274",
+    "operation": "Downsample and contain whole photograph on white16:9canvas; no upscaling or appliance retouching; add small Gasfitter.ca brand label"
+  },
+  "credit": "LG Canada official DLG3601W product photograph; resized/framed and labelled Gasfitter.ca. Not a customer installation.",
+  "rights": "Owner-directed use of exact public manufacturer photograph; source and credit retained. No manufacturer licence, partnership or customer installation asserted."
+}

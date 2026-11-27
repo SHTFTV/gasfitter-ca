@@ -1,0 +1,93 @@
+{
+  "site": "gasfitter.ca",
+  "jobId": "publish-daily-vancouver-gas-guide:2026-11-27T16:58:59.910Z",
+  "status": "leased-source-publication-production-verification-pending",
+  "date": "2026-11-27",
+  "url": "https://www.gasfitter.ca/grandview-woodland-relocating-laundry-gas-dryer-branch-planning/",
+  "slug": "grandview-woodland-relocating-laundry-gas-dryer-branch-planning",
+  "title": "Moving the Laundry in Grandview-Woodland? Plan the Gas Dryer Branch Before Choosing the Room",
+  "bodyWords": 2415,
+  "claim": {
+    "owner": "codex:publish-daily-vancouver-gas-guide",
+    "jobId": "publish-daily-vancouver-gas-guide:2026-11-27T16:58:59.910Z",
+    "nonce": "fd307e18-2062-470e-b789-bbe9605e06c8",
+    "order": 4,
+    "date": "2026-11-27",
+    "expectedHead": "30d5747670cea51ff56701f3edd99a044d679375",
+    "claimedAt": "2026-11-27T16:59:52.637Z",
+    "expiresAt": "2026-11-27T17:29:52.637Z",
+    "commit": "972823df5091415d3d0f9f72a79d58947fa79c50",
+    "CAS": true
+  },
+  "sot": {
+    "revision": 4,
+    "qualityPolicyVersion": 1,
+    "sourceHead": "30d5747670cea51ff56701f3edd99a044d679375",
+    "sha256": "ae903d9c9fc9bfbbe24c28ac924e685973fb9e9cf636888d6d31812879d3b305",
+    "unchangedAtReload": true
+  },
+  "rotation": {
+    "previous": "Vancouver citywide tank-vs-tankless water heater ownerimport2026-11-26 order32",
+    "next": "Grandview-Woodland gasdryer order4",
+    "intent": "Laundryrelocation:newbranch,exhaust/access,retained-versus-removedloads; distinct fromOakridgehandover"
+  },
+  "validation": {
+    "body": true,
+    "canonical": true,
+    "article": true,
+    "FAQ": true,
+    "feed": true,
+    "sitemap": true,
+    "discovery": true,
+    "oldGuides": true,
+    "planner": true
+  },
+  "photograph": {
+    "receipt": "operations/image-provenance-2026-11-27.json",
+    "native": [
+      2010,
+      1334
+    ],
+    "output": [
+      1600,
+      900
+    ],
+    "exactModel": "LG DLG3601W",
+    "brand": "Gasfitter.ca",
+    "noUpscaling": true,
+    "wholeSubjectPreserved": true
+  },
+  "planner": {
+    "desktop": "1440x1000",
+    "phone": "390x844",
+    "actualAddEditPositionTested": true,
+    "enteredKnownBTU": 120000,
+    "enteredLongestFeet": 41,
+    "editTo21000Gave121000": true,
+    "limits": "No pipe sizing, pressure drop or meter capacity approval"
+  },
+  "search": {
+    "color": "yellow",
+    "gsc": "Current connector inventory lists domain+HTTPSpropertysiteOwner/readable; current sitemap request blocked property_not_selected, activatedfalse. Not an indexing failure or absent property.",
+    "bing": "Current feed request blocked upstream property_not_selected; historical not-listed observation retained, no current ownership/indexing conclusion.",
+    "launchBlocking": false
+  },
+  "fourRoles": {
+    "worker": "This existing Codex scheduledrun; no native cloud publisher claim",
+    "checker": "Actual production planner desktop/phone checked; new article/hero/card/social pending final release QA",
+    "supervisor": "Root manual source/lease/SOT/metadata review; not independent scheduledsupervisor",
+    "externalWatchdog": "Unverified: worker/supervisor silence, independent delivered incident/canary and recovery proof absent",
+    "operationally_complete": false
+  },
+  "environmentRepairs": [
+    "Bundlednpm child initially picked hardenedappNode; reran with exactruntimeNode",
+    "Viteconfigbundler cache write outsidecheckoutdenied; used supportedrunnerconfigloader without cachewrite"
+  ],
+  "production": {
+    "status": "pending",
+    "commit": null,
+    "deployment": null,
+    "browserScreenshots": "Actual final receipt retained by Codex after deployment; not fabricated before release"
+  },
+  "preparedAt": "2026-11-27T17:27:07.611Z"
+}

@@ -81,6 +81,16 @@
       "bodyWords": 2168,
       "url": "https://www.gasfitter.ca/tank-vs-tankless-gas-water-heaters/",
       "source": "Owner-selected Supabase article import; deployment and browser verification pending"
+    },
+    {
+      "date": "2026-11-27",
+      "slug": "grandview-woodland-relocating-laundry-gas-dryer-branch-planning",
+      "title": "Moving the Laundry in Grandview-Woodland? Plan the Gas Dryer Branch Before Choosing the Room",
+      "neighbourhood": "Grandview-Woodland",
+      "appliance": "gas-dryer",
+      "bodyWords": 2415,
+      "url": "https://www.gasfitter.ca/grandview-woodland-relocating-laundry-gas-dryer-branch-planning/",
+      "sourceState": "leased source publication; production verification pending"
     }
   ],
   "queue": [
@@ -140,9 +150,15 @@
       "order": 4,
       "neighbourhood": "Grandview-Woodland",
       "topic": "Adding a gas dryer: separate appliance inputs and shared-system questions",
-      "status": "requires-research-writing-and-visual-review",
+      "status": "published",
       "appliance": "gas-dryer",
-      "requiresLongestRunAndPlannerExample": true
+      "requiresLongestRunAndPlannerExample": true,
+      "slug": "grandview-woodland-relocating-laundry-gas-dryer-branch-planning",
+      "title": "Moving the Laundry in Grandview-Woodland? Plan the Gas Dryer Branch Before Choosing the Room",
+      "date": "2026-11-27",
+      "bodyWords": 2415,
+      "url": "https://www.gasfitter.ca/grandview-woodland-relocating-laundry-gas-dryer-branch-planning/",
+      "productionVerification": "pending"
     },
     {
       "order": 5,
@@ -395,20 +411,16 @@
     }
   ],
   "lastScheduledRun": {
-    "date": "2026-11-25",
-    "status": "succeeded",
-    "slug": "oakridge-gas-dryer-installation-renovation-handover",
-    "title": "Adding a Gas Dryer in Oakridge: Plan the Gas Line and Keep a Useful Handover Record",
-    "bodyWords": 2064,
-    "url": "https://www.gasfitter.ca/oakridge-gas-dryer-installation-renovation-handover/",
-    "neighbourhood": "Oakridge",
+    "date": "2026-11-27",
+    "status": "source-ready-production-pending",
+    "jobId": "publish-daily-vancouver-gas-guide:2026-11-27T16:58:59.910Z",
+    "url": "https://www.gasfitter.ca/grandview-woodland-relocating-laundry-gas-dryer-branch-planning/",
+    "slug": "grandview-woodland-relocating-laundry-gas-dryer-branch-planning",
+    "title": "Moving the Laundry in Grandview-Woodland? Plan the Gas Dryer Branch Before Choosing the Room",
+    "bodyWords": 2415,
+    "neighbourhood": "Grandview-Woodland",
     "appliance": "gas-dryer",
-    "sourcePreparedAt": "2026-11-26T04:53:26.733Z",
-    "productionVerification": "passed",
-    "execution": "Manual recovery of configured Codex daily job; no native worker/scheduler claim",
-    "commit": "46b8e002f0f0f42bd1cc2cd15c14d38cbbbde759",
-    "deployment": "dpl_GdhPSquHs2ZfQcrVswV3huiqV8PX",
-    "verifiedAt": "2026-11-26T04:56:09.833045+00:00"
+    "execution": "Existing Codex scheduled sole writer; not independent native cloud publisher proof"
   },
   "featuredImageStandard": {
     "required": "real story-matching source/manufacturer photograph",

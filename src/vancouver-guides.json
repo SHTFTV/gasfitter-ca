@@ -1,5 +1,202 @@
 [
   {
+    "slug": "grandview-woodland-relocating-laundry-gas-dryer-branch-planning",
+    "title": "Moving the Laundry in Grandview-Woodland? Plan the Gas Dryer Branch Before Choosing the Room",
+    "description": "Moving a laundry room in Grandview-Woodland? Coordinate the gas branch, appliance documents, exhaust, access and shared-load assessment before committing to the layout.",
+    "date": "2026-11-27",
+    "neighbourhood": "Grandview-Woodland",
+    "appliance": "gas-dryer",
+    "intent": "laundry-relocation-new-branch-exhaust-access-and-retained-load-assessment",
+    "contentOrigin": "Original relocation-planning guide; all route lengths and existing-appliance inputs are fictional teaching examples, not a surveyed customer property.",
+    "intro": [
+      "Before moving a laundry room in Grandview-Woodland, have the proposed room and gas connection assessed together. A convenient wall or nearby pipe does not establish that the new location works for the dryer, exhaust, electrical supply or servicing access. Ask a qualified gas contractor to review the proposed branch while the layout is still changeable, with the relevant trades coordinating their own parts of the project. This is gas-line planning for a customer-selected appliance, not a dryer sales or repair offer.",
+      "The exact Canadian appliance example for this proposal is LG DLG3601W; its manufacturer documents must match the actual gas model and fuel. The worked routes below are fictional: the dryer route is 35 entered feet and the furnace route is 41 entered feet, with a shared section counted as part of each complete route. These figures organize a conversation. They do not select pipe sizes or demonstrate available pressure or meter capacity. The linked Gasfitter.ca planner records entered information for qualified assessment; it does not approve an installation."
+    ],
+    "sections": [
+      {
+        "heading": "Define the move before designing around the new room",
+        "paragraphs": [
+          "Start with a short description of the actual change. Are you moving an existing gas dryer, replacing an electric dryer with a selected gas appliance, or introducing a second laundry location? Those are different proposals. State which appliances would remain and which would be removed. Include the proposed room and the existing laundry location on a simple plan, identifying uncertain details rather than presenting an assumed route as something already inspected. This gives the contractor a defined project to assess instead of an open-ended request to “run a gas line.”",
+          "Keep the first layout flexible. Cabinets, a folding counter, a door swing and a stacked arrangement can each affect access to the equipment or its connections. Do not order a room around a photograph of a different appliance or assume that dimensions alone establish a suitable installation. Ask the relevant professionals which decisions must be resolved before cabinetry, flooring or wall finishes are committed. The useful early outcome is an agreed scope and a list of conditions to verify, not a promise that the proposed room will work unchanged."
+        ]
+      },
+      {
+        "heading": "Use the Grandview-Woodland address without inventing property conditions",
+        "paragraphs": [
+          "Grandview-Woodland identifies the Vancouver project area; it does not reveal the construction, ownership arrangement or existing services of your property. Give the contractor the actual address and the part of the property affected by the move. Explain whether your plan involves a private room, shared areas or an exterior route that needs another person's authorization. A neighbourhood name cannot establish permission to alter common property or tell anyone where concealed gas piping runs.",
+          "Use photographs to show safely accessible observations: the proposed appliance position, the visible existing laundry arrangement and any accessible equipment labels. Describe which room or side of the property each image shows. Keep resident names, access codes and unnecessary personal details out of a general enquiry. Where a proposed connection would affect a space you cannot access, mark it as requiring inspection and permission. Do not remove finishes or disturb equipment merely to make the first enquiry appear complete; the contractor can identify what further information is appropriate."
+        ]
+      },
+      {
+        "heading": "Match the Canadian gas appliance documents to the actual unit",
+        "paragraphs": [
+          "Use the exact Canadian model's specification and installation documents, not an electric sibling with a similar name or a photograph from another market. Keep the model identifier, fuel designation and source document together. LG Canada lists DLG3601W at 20,000 BTU/h, and its matching support page links the installation manual. Use that verified input for this software example; it is not a rating for every gas dryer. At the property, the actual appliance's rating information must also be checked by the appropriate professional. A product-family page is not enough to resolve a model suffix, fuel difference or altered installation requirement.",
+          "Separate what the documents establish from what they do not. They can describe the manufacturer's requirements for that equipment; they do not confirm the condition of your existing branch, the available supply or whether the proposed laundry room meets all applicable requirements. Give the assessor the relevant documents before the visit where possible, with a clear note if the final purchase has not been made. If the selected appliance changes during the renovation, have the revised model reviewed before relying on an assessment prepared for the earlier one."
+        ]
+      },
+      {
+        "heading": "Coordinate exhaust and service access before closing the layout",
+        "paragraphs": [
+          "The new gas connection is only one part of a laundry relocation. Ask the installer to review how the selected dryer’s exhaust requirements and servicing access interact with the proposed room. An opening that appears convenient on a sketch is not an approved termination location. The professional review needs the actual equipment documents, the proposed path and the surrounding conditions. This guide does not provide a vent design, allowable vent length, termination clearance or permission to reuse an existing duct.",
+          "Bring the relevant people into the same layout discussion. If a cabinet maker is drawing an enclosure while a contractor is assessing the equipment, make sure they are working from the same proposed arrangement and model. Ask who will confirm the necessary access, what cannot be obstructed and when the enclosure can be finalized. If an exhaust route remains unresolved, keep that decision visibly open rather than marking the room ready because the gas route looks short. A coordinated layout can prevent a serviceable connection from being boxed into an impractical room."
+        ]
+      },
+      {
+        "heading": "Keep electrical, plumbing and room work in the project scope",
+        "paragraphs": [
+          "Do not treat a gas dryer as proof that no electrical assessment is needed. LG’s verified Canadian example specifies 120 V and 15 A; the actual circuit and receptacle still need appropriate review. The gas contractor's scope should not be assumed to include electrical changes or a determination about the panel. Explain any existing electrical constraint to the relevant qualified person and ask how it affects the particular proposal, rather than presenting gas as an automatic solution to an unassessed electrical problem.",
+          "The matching washer and room changes may create separate plumbing, drainage and construction questions. Identify those work packages without suggesting that a gas-line sketch approves them. A useful project list names the person responsible for each assessment and the decision it is meant to produce. For example, the gas branch can remain under review while another trade checks its own proposed work. Do not allow a single “laundry relocation” checkmark to imply that every trade, permission and equipment requirement has already been resolved."
+        ]
+      },
+      {
+        "heading": "Draw the shared route and compare complete entered paths",
+        "paragraphs": [
+          "For a fictional software example, put a meter record and a junction record on the sketch. Enter an 18-foot section from the meter to the junction. From the junction, the proposed dryer path has a 14-foot section and a 3-foot rise. Its complete entered route is therefore 18 plus 14 plus 3, or 35 feet. The furnace path uses the same 18-foot section, then a separate 21-foot section and a 2-foot rise, producing a complete entered route of 41 feet. A third illustrative branch, to the retained range, has 10 feet after the shared junction with no entered rise, giving an 18 plus 10, or 28-foot, complete path.",
+          "The furnace is the longest of these three entered routes even though the dryer is the appliance being relocated. Record the shared physical section once in the network and identify the appliances connected beyond it. Each complete appliance path includes that shared section when its route total is displayed. Do not add the complete route totals and call the result the total unique installed piping: that would count the shared section twice. These are entered lengths, not calculated equivalent lengths or approved sizing values. Record concealed or unverified sections as unknown, and have the contractor confirm the real arrangement."
+        ]
+      },
+      {
+        "heading": "Separate shared input totals from a supply-capacity decision",
+        "paragraphs": [
+          "Continue the fictional example with a furnace entered at 60,000 BTU/h and an existing range entered at 40,000 BTU/h. The existing range is included only as an illustrative connected gas load, not an appliance sales or repair offer. These are illustrative existing loads, not ratings taken from a Grandview-Woodland property. Their known-input subtotal is 100,000 BTU/h. Adding the verified dryer example gives 100,000 plus 20,000, or 120,000 BTU/h. The planner can add the entered figures, but a correct arithmetic result does not establish that a shared section, regulator or meter is suitable for that combined load.",
+          "For an actual enquiry, each figure needs a source: an appropriate label, matching manufacturer document or other information confirmed by the contractor. Mark a missing input as unknown rather than entering zero to obtain a neat total. Also distinguish the connected system from a convenient list of visible appliances. A record that omits equipment may be mathematically correct for the items entered while still being incomplete for a professional assessment. The contractor must determine the relevant technical treatment of the actual system; the planner does not make that decision from the sum."
+        ]
+      },
+      {
+        "heading": "Decide whether the old dryer remains or is removed",
+        "paragraphs": [
+          "A room move can leave the appliance list ambiguous. If the same dryer is being relocated, record one proposed final appliance and identify the old location as a connection to be addressed within the professional work scope. Do not count the same unit twice merely because the sketch shows both its former and proposed positions. Conversely, if the old dryer will remain available while a second is installed, do not remove its load from the list just to make the proposed total smaller.",
+          "Ask the contractor to distinguish the intended final arrangement from any temporary sequence during construction. A written removal plan is not evidence that a disconnection or alteration has already happened. The appropriate qualified person must undertake and document that work. Your planning record can say “proposed removal, not yet confirmed,” with an owner for the outstanding decision. This is especially useful when the person designing the room is not the person arranging the gas work: both need to know which equipment the final assessment is intended to cover."
+        ]
+      },
+      {
+        "heading": "Use the planner to make the relocation question easier to assess",
+        "paragraphs": [
+          "Open the Gasfitter.ca gas-line planner and build the record around the proposed layout. Identify the supply point, shared junction and relevant appliances, then enter the known section lengths and inputs. Keep the fictional numbers from this guide labelled as examples if you are trying the controls before making your own record. For a real project, distinguish measurements you can substantiate from information that still needs professional confirmation. The room sketch should explain the enquiry without pretending to be a surveyed installation drawing.",
+          "Before sending the record, check how its branches relate to the appliance positions and review the totals against the entries. The dryer example should show a 35-foot entered path and the furnace example a 41-foot path; the known-load addition should retain the source of each input. If a display differs, check the entered records instead of treating an unexpected number as technical advice about the property. Export the current record for the contractor and identify the proposed change. The tool does not calculate pressure loss, specify a pipe size, convert a meter rating into an approval or determine installation feasibility."
+        ]
+      },
+      {
+        "heading": "Record pressure and meter details without testing or changing equipment",
+        "paragraphs": [
+          "Pressure and supply information can be important to the assessment, but a homeowner should not operate test points, adjust a regulator or manipulate a meter to complete a planning form. Leave an unconfirmed value unknown. If a contractor or utility has supplied an appropriate record, note its source and what it describes. A design value, an observation recorded during a particular assessment and an appliance requirement should not be copied into one field as though they were interchangeable facts.",
+          "Keep a meter label's units intact. A CFH marking is not a BTU/h appliance-input figure to paste directly into the load total, and this guide supplies no automatic conversion or capacity approval. A meter model or label photograph also does not establish spare capacity for the proposed work. The qualified assessor can identify what further information or utility coordination is required. Ask who will handle that enquiry and retain its actual outcome; a request submitted to the utility is not evidence that the installation has been accepted. FortisBC’s service-upgrade guidance asks for the gas fitter’s contact, required delivery pressure and total appliance input when an exchange is needed. A relocation does not automatically require a meter exchange; the fitter and utility must determine that scope."
+        ]
+      },
+      {
+        "heading": "Confirm the applicable permit and authorization path",
+        "paragraphs": [
+          "Use the City of Vancouver's gas-permit information to start the authority discussion for the actual address. Ask the qualified contractor which permits, inspections and responsible parties apply to the proposed relocation and how those steps will be arranged. Do not assume that a permit for another part of a renovation covers the gas alteration, or that moving an appliance within the property removes the need to check the process. The article is not a permit determination for your project. The City explains its own administration limits and directs other installations to Technical Safety BC; do not infer the issuer from the neighbourhood alone. Technical Safety BC’s alteration-permitting bulletin covers additions, replacements and removals.",
+          "Identify other approvals separately where they are relevant, such as property-owner authorization or permission for affected shared areas. Keep those decisions distinct from a technical assessment and from the contractor accepting the installation work. A useful project record names what has been confirmed and what remains outstanding. If a required decision changes the proposed route or room arrangement, circulate that revision to the people working on the layout before they order or close up construction around the earlier version.",
+          "As checked for this guide, section 30 of British Columbia’s Gas Safety Regulation identifies CSA B149.1-20 with provincial changes. A consultation about newer gas codes is not an adoption notice. Ask the responsible contractor to confirm the rules applicable when the work proceeds; neither the room sketch nor province selection selects a code edition or proves compliance."
+        ]
+      },
+      {
+        "heading": "Commit to the room only after the open questions have owners",
+        "paragraphs": [
+          "Before finalizing the room, ask whether the exact model is selected, the proposed gas route is assessed, the exhaust and service-access questions are resolved, and the other trades have reviewed their own work. These are questions for the responsible people, not a self-certification checklist. Where an answer remains unknown, record who will obtain it and which purchasing or construction decision depends on it. This keeps a missing technical decision from disappearing behind a drawing that happens to look finished.",
+          "Your initial enquiry can be direct: “We are considering a laundry relocation in Grandview-Woodland. Here is the proposed room, the selected appliance documentation and a planner record showing the known shared route and connected loads. These details remain unconfirmed. Please assess the gas work and explain the coordination needed before we commit to the layout.” For a different planning concern, see the Oakridge renovation-handover guide. Its focus is keeping the records useful; this guide's focus is resolving the new room and branch before committing to them."
+        ]
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can I move a gas dryer because another room is closer to the meter?",
+        "answer": "A shorter apparent route does not establish a suitable installation. Have the actual gas branch, selected appliance requirements, exhaust, servicing access and other trade work assessed before committing to the room."
+      },
+      {
+        "question": "What do the 35-foot and 41-foot examples mean?",
+        "answer": "They are fictional entered routes: 18+14+3 feet for the dryer and 18+21+2 feet for the furnace. Each complete path includes the shared 18-foot section. They do not establish pipe sizing, equivalent lengths or available pressure."
+      },
+      {
+        "question": "Should I count the old dryer and the new location as two loads?",
+        "answer": "Record the actual proposed final arrangement. A relocated unit is not automatically two permanent appliances, while a retained old dryer must not be omitted if it remains part of the proposed system. Qualified personnel must address and confirm any disconnection or alteration."
+      },
+      {
+        "question": "Does the planner approve a meter or pipe size?",
+        "answer": "No. It records entered route lengths and known appliance inputs. It does not calculate pressure loss, pipe sizing, meter capacity or installation feasibility, and a CFH meter marking is not an appliance BTU/h input."
+      },
+      {
+        "question": "Should I test the gas pressure to finish the planner?",
+        "answer": "No. Leave unconfirmed pressure information unknown and record the source of any appropriate contractor or utility information. Do not manipulate equipment or test points to complete a planning form."
+      },
+      {
+        "question": "Is this a completed Grandview-Woodland customer project?",
+        "answer": "No. The routes and existing-load figures are fictional teaching examples for planning a professional assessment. They do not describe a surveyed customer installation."
+      }
+    ],
+    "sources": [
+      {
+        "label": "LG Canada DLG3601W: exact Canadian gas-dryer specifications",
+        "url": "https://www.lg.com/ca_en/laundry/dryers/dlg3601w/"
+      },
+      {
+        "label": "LG Canada DLG3601W.ABWEECI: exact-model manual support",
+        "url": "https://www.lg.com/ca_en/support/product-support/cs-DLG3601W.ABWEECI/"
+      },
+      {
+        "label": "LG installation manual MFL70442685 Rev.03_050825: safety, exhaust and electrical/gas requirements",
+        "url": "https://gscs-b2c.lge.com/open/downloadFile?fileId=g0ni12Pw1DscLPCQiz3qhQ"
+      },
+      {
+        "label": "City of Vancouver: gas permits",
+        "url": "https://vancouver.ca/home-property-development/gas-permit.aspx"
+      },
+      {
+        "label": "City of Vancouver: Grandview-Woodland community plan",
+        "url": "https://vancouver.ca/home-property-development/grandview-woodland-community-plan.aspx"
+      },
+      {
+        "label": "Technical Safety BC: gas equipment or system alteration permitting",
+        "url": "https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-gas-equipment-or-system-alteration-permitting"
+      },
+      {
+        "label": "FortisBC: upgrading natural-gas service",
+        "url": "https://www.fortisbc.com/services/natural-gas-services/upgrade-your-natural-gas-service"
+      },
+      {
+        "label": "Related: Oakridge gas-dryer renovation handover records",
+        "url": "/oakridge-gas-dryer-installation-renovation-handover/"
+      },
+      {
+        "label": "British Columbia Gas Safety Regulation: current section30 and provincial schedule",
+        "url": "https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/103_2004"
+      },
+      {
+        "label": "Technical Safety BC: gas dryer venting-system maintenance",
+        "url": "https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-gas-dryer-venting-system-maintenance"
+      },
+      {
+        "label": "LG Canada: original DLG3601W manufacturer photograph",
+        "url": "https://www.lg.com/content/dam/channel/wcms/ca_en/images/dryers/dlg3601w_abweeci_enci_ca_en_c/gallery/DZ01.jpg"
+      }
+    ],
+    "bodyWordCount": 2415,
+    "publishedAt": "2026-11-27T17:23:38.326325Z",
+    "image": "/images/grandview-woodland-lg-dlg3601w-gas-dryer.jpg",
+    "imageAlt": "LG DLG3601W white natural-gas dryer in its official manufacturer product photograph, framed with the Gasfitter.ca brand label",
+    "imageCredit": "LG Canada official DLG3601W product photograph; resized/framed and labelled Gasfitter.ca. Not a customer installation.",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "useOriginalImage": true,
+    "imageProvenance": {
+      "sourceUrl": "https://www.lg.com/content/dam/channel/wcms/ca_en/images/dryers/dlg3601w_abweeci_enci_ca_en_c/gallery/DZ01.jpg",
+      "sourcePage": "https://www.lg.com/ca_en/laundry/dryers/dlg3601w/",
+      "originalDimensions": [
+        2010,
+        1334
+      ],
+      "derivativeDimensions": [
+        1600,
+        900
+      ],
+      "credit": "LG Canada",
+      "rights": "Owner-directed exact manufacturer image; no general licence asserted",
+      "receipt": "operations/image-provenance-2026-11-27.json"
+    },
+    "rightsEvidence": "Owner-directed use of exact public manufacturer photograph; source and credit retained. No manufacturer licence, partnership or customer installation asserted."
+  },
+  {
     "slug": "oakridge-gas-dryer-installation-renovation-handover",
     "title": "Adding a Gas Dryer in Oakridge: Plan the Gas Line and Keep a Useful Handover Record",
     "description": "Plan a customer-selected gas dryer connection in Oakridge with an exact LG Canadian input example, measured routes, shared loads and renovation handover records.",

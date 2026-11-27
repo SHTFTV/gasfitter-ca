@@ -81,3 +81,10 @@ const relocatedFeedPath = path.join(dist, 'feed.xml');
 const relocatedFeed = fs.readFileSync(relocatedFeedPath, 'utf8');
 const relocatedFeedItem = `<item><title>${esc(relocatedGuide.title)}</title><link>${esc(relocatedGuide.url)}</link><guid isPermaLink="true">${esc(relocatedGuide.url)}</guid><pubDate>${new Date(relocatedGuide.publishedAt).toUTCString()}</pubDate><description>${esc(relocatedGuide.description)}</description></item>`;
 fs.writeFileSync(relocatedFeedPath, relocatedFeed.replace('<item>', () => relocatedFeedItem + '<item>'));
+
+// Preserve every publication date while keeping combined editorial sources chronological.
+{
+ const feedPath=path.join(dist,'feed.xml');const xml=fs.readFileSync(feedPath,'utf8');const items=xml.match(/<item>[\s\S]*?<\/item>/g)||[];
+ const sorted=items.map((item,index)=>({item,index,time:Date.parse(item.match(/<pubDate>([^<]+)<\/pubDate>/)?.[1]||'')})).sort((a,b)=>(b.time||0)-(a.time||0)||a.index-b.index).map(x=>x.item);
+ fs.writeFileSync(feedPath,xml.replace(/<item>[\s\S]*?<\/item>/g,'').replace('</channel>',sorted.join('')+'</channel>'));
+}
