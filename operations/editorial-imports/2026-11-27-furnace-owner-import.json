@@ -1,0 +1,114 @@
+{
+  "site": "gasfitter.ca",
+  "source": "Supabase public.posts; prepared public record recovered through existing app reader",
+  "sourceProject": "ppdnkogmsfwhhknayolb",
+  "sourceSlug": "how-long-do-gas-furnaces-last",
+  "sourcePublishedAt": "2026-11-27T14:00:00+00:00",
+  "sourceBodySha256": "215998689164bd7db89fbca3fbd6159d45067fd36448d037eeb2c1328780f2d2",
+  "baseHead": "c07a24f29436724d9a8fc4a5db51c9deea89ec25",
+  "canonical": "https://www.gasfitter.ca/how-long-do-gas-furnaces-last/",
+  "bodyWords": 2054,
+  "reviewedAt": "2026-11-27T17:36:48.494445+00:00",
+  "ownerDirectedException": {
+    "date": "2026-11-27",
+    "scope": "This single prepared furnace guide and its supplied image as part of the owner-requested Claude prepared daily batch.",
+    "authority": "Current user instruction: Do the 24 posts of the day now; clarified as the already prepared Claude batch.",
+    "context": "Normal daily writer completed a different Grandview-Woodland guide and cleared its lease before this import. Preserve its guide, receipt, queue, lease history and completed date.",
+    "normalDailyCap": "Unchanged; resumes for normal daily automation. No second scheduler or recurring publisher configured.",
+    "visualException": "Use the prepared1536x1024image unchanged, as requested for this specific batch. Truthful AI illustration disclosure and visible own-brand layout label; no enlargement or crop."
+  },
+  "image": {
+    "url": "https://ppdnkogmsfwhhknayolb.supabase.co/storage/v1/object/public/post-images/gasfitter.ca/how-long-do-gas-furnaces-last.png",
+    "width": 1536,
+    "height": 1024,
+    "changed": false
+  },
+  "preservedExternalPublication": {
+    "commit": "c07a24f29436724d9a8fc4a5db51c9deea89ec25",
+    "slug": "grandview-woodland-relocating-laundry-gas-dryer-branch-planning",
+    "receipt": "operations/publishing-run-2026-11-27.json"
+  },
+  "reviewCorrections": [
+    "Treat15-20yearsas planning range,not expiry or safety assurance",
+    "Qualify95percentAFUEclaim withcurrent federalclassandexceptions",
+    "Replace404Fortisfurnace rebateURLandunsupportedblanketclaimwithcurrentdual-fuel eligibility",
+    "Removeassurance that failures usually give plenty warning",
+    "Separate changing bills and cycle patterns from confirmed diagnoses",
+    "Use current gas and carbon-monoxide emergency guidance;no DIY gas settings",
+    "Clarify alterationpermit forreplacementandremoval underappropriateauthority"
+  ],
+  "posts": [
+    {
+      "site": "gasfitter.ca",
+      "title": "How Long Do Gas Furnaces Last?",
+      "slug": "how-long-do-gas-furnaces-last",
+      "excerpt": "A well-maintained gas furnace typically lasts 15 to 20 years. Here's what affects that range, the signs a Lower Mainland furnace is nearing the end, and how efficiency rules and rebates factor into replacing it.",
+      "body_md": "Most gas furnaces last about **15 to 20 years with regular maintenance**. [Lennox](https://www.lennox.com/residential/lennox-life/consumer/how-long-does-a-furnace-last) gives that range, while [Carrier Canada](https://www.carrier.com/residential/en/ca/products/furnaces/gas-furnaces/gas-furnace-replacement/) notes that some operate longer. Treat it as a planning range, not an expiry date or a safety guarantee. The decision for a Lower Mainland home depends on the furnace's condition, repair history, installation and ability to heat the home properly.\n\nIf your furnace is approaching that age, arrange an assessment and gather replacement options while you still have time to compare them. An older furnace may remain serviceable; a younger one may have a serious fault. Neither its birthday nor the fact that warm air still comes from the registers establishes that it is safe.\n\n## What affects a furnace's lifespan?\n\n### Installation, sizing and airflow\n\nLennox identifies installation quality, ductwork, venting and equipment sizing as factors in service life. Repeated short cycling can add wear, but cycle length alone is not a diagnosis. Different furnace designs and operating modes behave differently. Tell the technician what has changed instead of deciding that every long heating cycle means the furnace is undersized.\n\nAsk whether the assessment considers the present home. Insulation improvements, additions, changed room uses and duct alterations may have happened since the original furnace was installed. Buying the same input rating because it fitted previously avoids the question that matters: what equipment and distribution system suit the building now?\n\n### Maintenance and service history\n\nRegular professional maintenance helps identify service needs before they become larger problems. [FortisBC recommends annual service by a licensed contractor](https://www.fortisbc.com/safety-outages/energy-safety/natural-gas-safety). Follow the selected model's instructions for homeowner maintenance, including filter care. Ask the technician to distinguish routine maintenance from a repair and to document any condition requiring prompt attention.\n\nA useful record includes service dates, findings, replaced parts and the next recommended visit. If you bought the house recently, ask for previous invoices without assuming the absence of paperwork proves neglect. The current assessment matters more than a neat but incomplete history.\n\n### Operating demands and changes around the equipment\n\nKeep supply and return openings unobstructed and preserve the required access around the furnace. Ask a professional to assess airflow or duct concerns instead of closing numerous registers to compensate for an uncomfortable room. Tell them about renovation dust, water exposure or changes around the equipment that could affect their inspection.\n\nAvoid promising a particular number of extra years from maintenance, a mild winter or a new thermostat. These may influence performance, but no article can forecast the remaining life of an individual heat exchanger, motor or control from the home's postal code.\n\n## Typical lifespan: what the number tells you\n\n| Observation | Useful interpretation | Next step |\n|---|---|---|\n| Furnace is under 15 years old | Age alone gives little reason to replace it | Maintain it and investigate specific faults |\n| Furnace is around 15 to 20 years old | Replacement planning becomes sensible | Obtain a condition report and comparable options |\n| Furnace is older than 20 years | Continued operation does not establish remaining life | Discuss parts, safety findings and replacement readiness |\n| Any age with an identified safety fault | The fault takes priority over an age estimate | Follow the attending professional's directions |\n\nThis table is a decision aid, not a maintenance standard. A planned replacement budget gives you options; it does not require you to discard working equipment automatically. Equally, a long manufacturer warranty is not a prediction that every component will last for its full term.\n\n## Signs that deserve a professional assessment\n\n[Carrier's replacement guide](https://www.carrier.com/residential/en/ca/products/furnaces/gas-furnaces/gas-furnace-replacement/) lists repeated repairs, unusual noises, unexplained higher energy use and uneven heating among reasons to investigate. Those symptoms can have repairable causes. Describe when each happens, which rooms are affected and whether it began after a change to the house or system.\n\nCompare fuel consumption with context. A larger bill can reflect rates, weather, occupancy or another gas appliance, not only furnace deterioration. Bring bills and service records to the visit, but ask the contractor to explain the evidence behind a diagnosis. A sales recommendation should identify the problem it will solve.\n\nIf a technician identifies a heat-exchanger or venting concern, ask for the finding in writing and follow their instructions about operation. Do not reopen service panels, adjust gas controls or repeatedly reset a furnace that has been shut down. A separate qualified opinion can help with a major decision, but it is not permission to restart unsafe equipment.\n\n## Gas smells and carbon monoxide require immediate action\n\nIf you smell gas, **go outside first**, then call the [FortisBC emergency line at 1-800-663-9911 or 911](https://www.fortisbc.com/safety-outages/energy-safety/natural-gas-safety). Do not remain inside to find the leak or use a furnace troubleshooting checklist.\n\nCarbon monoxide cannot be seen or smelled. If a carbon-monoxide alarm sounds or poisoning is suspected, leave the building and call 911 from outside, following [FortisBC's carbon-monoxide guidance](https://www.fortisbc.com/safety-outages/energy-safety/natural-gas-safety/carbon-monoxide-safety). Do not wait for an odour. Maintenance supports safer operation, but no maintenance history guarantees advance warning of every failure.\n\n## Repair or replace: compare the actual choices\n\nStart with a written diagnosis and a complete repair scope. Ask which component failed, whether the proposed repair addresses the cause, what warranty applies and whether other known defects remain. A replacement quote should answer the same underlying concern rather than relying entirely on the furnace's age.\n\nCompare the alternatives over a realistic ownership period. Include the immediate cost, likely maintenance, known unresolved work and your tolerance for another interruption. A large repair on older equipment deserves careful consideration, but a universal percentage rule cannot account for every installation. Discuss uncertainty openly rather than treating future repairs as certain.\n\nConsider a hypothetical 17-year-old furnace with a repairable control fault. An owner might reasonably repair it after a satisfactory assessment while budgeting for replacement. The same age with a serious safety defect and difficult parts availability could lead to a different choice. These examples describe questions to ask; they do not diagnose a furnace remotely.\n\nIf a quotation relies on energy savings, ask for its assumptions. Which existing efficiency was used? What annual consumption is attributed to space heating? Which fuel prices and household conditions were assumed? A precise payback period without those inputs can make a proposal appear more certain than it is.\n\n## How efficiency standards affect a replacement\n\nAFUE, or annual fuel utilization efficiency, describes rated fuel efficiency under a defined test. It is useful for comparing qualifying equipment, but it is not a guarantee of whole-house savings.\n\n[Section 259 of Canada's Energy Efficiency Regulations](https://laws-lois.justice.gc.ca/eng/regulations/SOR-2016-311/section-259.html) sets a 95% minimum AFUE for a defined class of residential-size gas furnaces manufactured from July 3, 2019. The current regulation contains exceptions and separate classes, including certain replacement non-condensing, relocatable-building, space-constrained and outdoor equipment. It is therefore inaccurate to say every new gas furnace must meet 95%.\n\nAsk the contractor to identify the exact proposed model, its classification and rated performance. An older unit's manufacture year does not reveal its actual AFUE by itself. Nor does a federal manufacturing standard mean an existing furnace must be replaced solely because newer equipment meets a higher minimum.\n\n## What furnace replacement involves in BC\n\n[Technical Safety BC's alteration-permitting bulletin](https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-gas-equipment-or-system-alteration-permitting) states that installation permits are required before gas equipment or system alterations, including replacement and removal. Use an appropriately licensed gas contractor and confirm whether Technical Safety BC or the local regulatory authority handles the project. Include permit responsibility in the agreement.\n\nA proposal should explain how the contractor will assess heating demand, ductwork, gas supply, venting, electrical connections, condensate arrangements where relevant and service access. Ask what can be confirmed during the quotation visit and what remains an allowance. Existing connections are not automatically suitable simply because another furnace occupied the space.\n\nIf you are changing fuel or adding a heat pump, include the retained and removed equipment in the scope. Removing a gas furnace also requires proper gas-work permitting and safe isolation; the work does not become unregulated because the replacement uses electricity. Coordinate the gas, electrical and heating work before committing to equipment.\n\nAt completion, request the model and serial details, operating manual, warranty terms, permit records and commissioning information. Ask the contractor to demonstrate normal controls and explain whom to call for a service problem. Confirm any required authority assessment rather than assuming that issuance of a permit is the same as a completed inspection.\n\n## Prepare a useful gas-line planning brief\n\nA furnace replacement can affect more than the appliance cabinet, particularly when other equipment is added or removed. Record the gas appliances you intend to retain, their known rating-plate inputs and any proposed changes. Mark unreadable or missing information as unknown instead of substituting a typical number.\n\nThe [Gasfitter.ca gas-line planner](/gas-line-planner/) helps organize entered appliance loads and route information for a conversation. A sketch showing a measured branch and a shared upstream route helps explain the proposal. It does not calculate pressure drop, choose pipe sizes or approve the capacity of the meter or existing piping.\n\nFor example, a homeowner may record an existing furnace, water heater and fireplace while asking about a future barbecue connection. The contractor needs to know which loads will remain and which new ones are genuinely planned. A neat total on a worksheet is supporting information, not proof that all equipment can operate safely together.\n\nBring accessible photographs and previous service documents to the appointment. Do not remove panels, disturb piping or climb into unsafe spaces to complete the brief. Ask the contractor to verify actual routing, materials, pressure and supply information where those affect the design.\n\n## Rebates: check the current program before signing\n\nAs checked November 27, 2026, [FortisBC lists a dual-fuel heating rebate](https://www.fortisbc.com/rebates/detail/dual-fuel-heating-system-rebate) for eligible systems combining a compatible heat pump and high-efficiency gas furnace. Eligibility includes the home and existing equipment, a listed matched system, contractor qualifications, sizing and commissioning documentation. A new furnace alone does not establish eligibility for that program.\n\nDo not apply an old rebate amount or deadline to a new quote. Ask the contractor to identify the official program, demonstrate the proposed system's eligibility and specify who prepares the application documents. If the incentive is essential to your budget, resolve those details before accepting the work. Program approval and payment should remain separate from the contractor's estimated price.\n\n## Compare quotes with the same scope\n\n### Establish the equipment's age and warranty first\n\nUse the original installation invoice where available, or ask the manufacturer or contractor to interpret the model and serial information. A home purchase date is not an installation date, and a replacement control does not make the entire furnace new. If the age remains uncertain, record that uncertainty instead of presenting a guessed year as fact.\n\nAsk for the warranty terms that apply to your equipment and ownership situation. A covered component can still involve labour or other costs, and a warranty does not resolve an installation defect automatically. Request a written explanation of the covered work and exclusions so the repair and replacement figures can be compared fairly.\n\nRequest the exact model and written inclusions for each option. Cover removal and disposal, installation access, duct changes, venting, electrical work, drainage, gas connections, permits and commissioning. Ask who repairs any affected finishes and whether taxes are included. Different boundaries can explain a large price difference.\n\nKeep uncertainty visible. A quote may reasonably depend on a site condition that cannot yet be confirmed, but the allowance and decision process should be clear. Ask how additional work is priced and approved. Avoid treating a brief online estimate as a fixed installed price for a property nobody has assessed.\n\nAlso compare aftercare. Who handles a no-heat call, how are parts and labour warranties separated, and what maintenance is required? Save the final scope alongside the equipment documents. Those records help the next technician understand what was installed and why.\n\n## Make the next service visit count\n\nBefore the appointment, write down the furnace's approximate age, known repairs and the particular comfort or reliability problem you want solved. Ask three direct questions: is it safe to operate, which repairs are needed now, and what replacement preparation would help? Request a plain-language explanation of any urgent finding.\n\nBetween visits, follow the manufacturer's filter instructions, keep registers and service access clear, and arrange recommended professional maintenance. Plan ahead when age and condition justify it, while recognizing that failures can occur without a long warning period. For a Lower Mainland enquiry, [contact Gasfitter.ca](/#contact) with your location, equipment details and proposed work, then confirm the appointment and scope directly.\n",
+      "faq": [
+        {
+          "q": "How long does a gas furnace last?",
+          "a": "Manufacturers including Lennox and Carrier give approximately 15 to 20 years as a typical service-life range, with some equipment lasting longer. It is a planning range, not an expiry date or assurance that a particular furnace is safe."
+        },
+        {
+          "q": "Should I replace a 20-year-old furnace that still works?",
+          "a": "Arrange a professional condition assessment and compare repair and replacement options. Age, safety findings, parts availability, repair history and the complete installation scope matter; producing heat alone does not establish safe operation."
+        },
+        {
+          "q": "How efficient are new gas furnaces in Canada?",
+          "a": "Federal regulations require at least 95% AFUE for a defined class of residential-size gas furnaces manufactured from July 3, 2019. Separate classes and exceptions apply, so ask the contractor to verify the exact model and applicable standard."
+        },
+        {
+          "q": "Are there FortisBC rebates for a new gas furnace?",
+          "a": "As checked November 27, 2026, FortisBC lists a rebate for eligible matched dual-fuel systems combining a heat pump and high-efficiency gas furnace. A furnace alone does not establish eligibility. Check the current equipment, home, contractor and application requirements before signing."
+        },
+        {
+          "q": "Does replacing or removing a gas furnace require a permit in BC?",
+          "a": "Technical Safety BC states that gas equipment alterations, including replacements and removals, require the appropriate installation permit before work starts. Confirm the applicable authority and permit responsibility with a licensed gas contractor."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.lennox.com/residential/lennox-life/consumer/how-long-does-a-furnace-last",
+          "title": "Lennox: How Long Does a Furnace Last?"
+        },
+        {
+          "url": "https://www.carrier.com/residential/en/ca/products/furnaces/gas-furnaces/gas-furnace-replacement/",
+          "title": "Carrier Canada: Furnace Replacement Guide"
+        },
+        {
+          "url": "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2016-311/section-259.html",
+          "title": "Justice Canada: Energy Efficiency Regulations, section 259"
+        },
+        {
+          "url": "https://www.technicalsafetybc.ca/regulatory-resources/regulatory-notices/information-bulletin-gas-equipment-or-system-alteration-permitting",
+          "title": "Technical Safety BC: Gas Equipment or System Alteration Permitting"
+        },
+        {
+          "url": "https://www.technicalsafetybc.ca/learn-about/technical-safety-bc/jurisdiction",
+          "title": "Technical Safety BC: jurisdiction"
+        },
+        {
+          "url": "https://www.technicalsafetybc.ca/technologies/gas/installation-permits",
+          "title": "Technical Safety BC: gas installation permits"
+        },
+        {
+          "url": "https://www.fortisbc.com/rebates/detail/dual-fuel-heating-system-rebate",
+          "title": "FortisBC: Dual Fuel Heating System Rebate"
+        },
+        {
+          "url": "https://www.fortisbc.com/safety-outages/energy-safety/natural-gas-safety",
+          "title": "FortisBC: gas safety and emergency information"
+        },
+        {
+          "url": "https://www.fortisbc.com/safety-outages/energy-safety/natural-gas-safety/carbon-monoxide-safety",
+          "title": "FortisBC: carbon monoxide safety"
+        }
+      ],
+      "image_url": "https://ppdnkogmsfwhhknayolb.supabase.co/storage/v1/object/public/post-images/gasfitter.ca/how-long-do-gas-furnaces-last.png",
+      "image_alt": "Older gas furnace in a basement utility room with its service panel removed, a technician checking the burner area with a flashlight",
+      "meta_description": "Most gas furnaces last about 15 to 20 years. What shortens or extends that, signs yours is near the end, and what replacement means in BC.",
+      "published_at": "2026-11-27T14:00:00+00:00"
+    }
+  ],
+  "verification": "Source reviewed and built; production verification pending. Existing planner interaction proof from the unchanged daily writer receipt retained, not newly claimed."
+}

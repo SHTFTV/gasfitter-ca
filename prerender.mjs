@@ -82,6 +82,15 @@ const relocatedFeed = fs.readFileSync(relocatedFeedPath, 'utf8');
 const relocatedFeedItem = `<item><title>${esc(relocatedGuide.title)}</title><link>${esc(relocatedGuide.url)}</link><guid isPermaLink="true">${esc(relocatedGuide.url)}</guid><pubDate>${new Date(relocatedGuide.publishedAt).toUTCString()}</pubDate><description>${esc(relocatedGuide.description)}</description></item>`;
 fs.writeFileSync(relocatedFeedPath, relocatedFeed.replace('<item>', () => relocatedFeedItem + '<item>'));
 
+
+// Explicit owner-directed November27 prepared-batch import; daily automation state and cap unchanged.
+const nov27ImportUrl="https://www.gasfitter.ca/how-long-do-gas-furnaces-last/";
+const nov27ImportSitemapPath=path.join(dist,"sitemap.xml");
+const nov27ImportSitemap=fs.readFileSync(nov27ImportSitemapPath,"utf8");
+if(!nov27ImportSitemap.includes(nov27ImportUrl))fs.writeFileSync(nov27ImportSitemapPath,nov27ImportSitemap.replace("</urlset>","<url><loc>https://www.gasfitter.ca/how-long-do-gas-furnaces-last/</loc><lastmod>2026-11-27</lastmod></url></urlset>"));
+const nov27ImportFeedPath=path.join(dist,"feed.xml");const nov27ImportFeed=fs.readFileSync(nov27ImportFeedPath,"utf8");
+if(!nov27ImportFeed.includes(nov27ImportUrl))fs.writeFileSync(nov27ImportFeedPath,nov27ImportFeed.replace("</channel>","<item><title>How Long Do Gas Furnaces Last?</title><link>https://www.gasfitter.ca/how-long-do-gas-furnaces-last/</link><guid isPermaLink=\"true\">https://www.gasfitter.ca/how-long-do-gas-furnaces-last/</guid><pubDate>Fri, 27 Nov 2026 14:00:00 GMT</pubDate><description>Most gas furnaces last about 15 to 20 years. What shortens or extends that, signs yours is near the end, and what replacement means in BC.</description></item></channel>"));
+
 // Preserve every publication date while keeping combined editorial sources chronological.
 {
  const feedPath=path.join(dist,'feed.xml');const xml=fs.readFileSync(feedPath,'utf8');const items=xml.match(/<item>[\s\S]*?<\/item>/g)||[];
