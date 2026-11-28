@@ -1,0 +1,94 @@
+{
+  "site": "gasfitter.ca",
+  "jobId": "publish-daily-vancouver-gas-guide:2026-11-28T17:23:20.403Z",
+  "status": "leased-source-publication-production-verification-pending",
+  "date": "2026-11-28",
+  "url": "https://www.gasfitter.ca/dunbar-southlands-outdoor-kitchen-gas-branch-before-patio-cabinets/",
+  "slug": "dunbar-southlands-outdoor-kitchen-gas-branch-before-patio-cabinets",
+  "title": "Planning an Outdoor Kitchen in Dunbar-Southlands? Settle the Gas Branch Before the Patio and Cabinets",
+  "bodyWords": 2309,
+  "claim": {
+    "owner": "codex:publish-daily-vancouver-gas-guide",
+    "jobId": "publish-daily-vancouver-gas-guide:2026-11-28T17:23:20.403Z",
+    "nonce": "5788bb00-18c4-4843-abfc-e7a53efe74e5",
+    "order": 5,
+    "date": "2026-11-28",
+    "expectedHead": "7bfbf4f0e2d0d80c3d520807caa9fbf4e0fece3c",
+    "claimedAt": "2026-11-28T17:24:11.415Z",
+    "expiresAt": "2026-11-28T17:54:11.415Z",
+    "commit": "86c100533d2c8f9c1d60049c120aba138b91d9d9",
+    "CAS": true
+  },
+  "sot": {
+    "revision": 4,
+    "qualityPolicyVersion": 1,
+    "sourceHead": "7bfbf4f0e2d0d80c3d520807caa9fbf4e0fece3c",
+    "sha256": "ae903d9c9fc9bfbbe24c28ac924e685973fb9e9cf636888d6d31812879d3b305",
+    "unchangedAtReload": true
+  },
+  "rotation": {
+    "previous": "Grandview-Woodland gasdryer2026-11-27 order4",
+    "next": "Dunbar-Southlands outdoor-kitchen normalizedBBQ order5",
+    "intent": "Beforepatio/cabinets:serviceaccess,quoteboundary,locates/restoration; distinct frombarbecuefirstvisit"
+  },
+  "validation": {
+    "body": true,
+    "canonical": true,
+    "article": true,
+    "FAQ": true,
+    "feed": true,
+    "sitemap": true,
+    "discovery": true,
+    "oldGuides": true,
+    "planner": true
+  },
+  "photograph": {
+    "receipt": "operations/image-provenance-2026-11-28.json",
+    "native": [
+      1800,
+      1800
+    ],
+    "output": [
+      1600,
+      900
+    ],
+    "exactModel": "Weber Summit SB38 S NG1500043",
+    "brand": "Gasfitter.ca",
+    "noUpscaling": true,
+    "wholeSubjectPreserved": true
+  },
+  "planner": {
+    "desktop": "1440x1000",
+    "phone": "390x844",
+    "actualAddEditPositionTested": "desktop only; finalphonepending",
+    "enteredArithmeticBTU": 181000,
+    "enteredLongestFeet": 50,
+    "desktopAddEditPositionTested": true,
+    "phonePending": true,
+    "limits": "No pipe sizing, pressure drop or meter capacity approval"
+  },
+  "search": {
+    "color": "yellow",
+    "gsc": "Current connector inventory lists domain+HTTPSpropertysiteOwner/readable; current sitemap request blocked property_not_selected, activatedfalse. Not an indexing failure or absent property.",
+    "bing": "Current feed request blocked upstream property_not_selected; historical not-listed observation retained, no current ownership/indexing conclusion.",
+    "launchBlocking": false
+  },
+  "fourRoles": {
+    "worker": "This existing Codex scheduledrun; no native cloud publisher claim",
+    "checker": "Actual production planner desktop/phone checked; new article/hero/card/social pending final release QA",
+    "supervisor": "Root manual source/lease/SOT/metadata review; not independent scheduledsupervisor",
+    "externalWatchdog": "Unverified: worker/supervisor silence, independent delivered incident/canary and recovery proof absent",
+    "operationally_complete": false
+  },
+  "environmentRepairs": [
+    "Bundlednpm child initially picked hardenedappNode; reran with exactruntimeNode",
+    "Viteconfigbundler cache write outsidecheckoutdenied; used supportedrunnerconfigloader without cachewrite"
+  ],
+  "production": {
+    "status": "pending",
+    "commit": null,
+    "deployment": null,
+    "browserScreenshots": "Actual final receipt retained by Codex after deployment; not fabricated before release"
+  },
+  "preparedAt": "2026-11-28T17:51:46.831Z"
+}

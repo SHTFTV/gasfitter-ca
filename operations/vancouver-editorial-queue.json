@@ -91,6 +91,16 @@
       "bodyWords": 2415,
       "url": "https://www.gasfitter.ca/grandview-woodland-relocating-laundry-gas-dryer-branch-planning/",
       "sourceState": "leased source publication; production verification pending"
+    },
+    {
+      "date": "2026-11-28",
+      "slug": "dunbar-southlands-outdoor-kitchen-gas-branch-before-patio-cabinets",
+      "title": "Planning an Outdoor Kitchen in Dunbar-Southlands? Settle the Gas Branch Before the Patio and Cabinets",
+      "neighbourhood": "Dunbar-Southlands",
+      "appliance": "outdoor-kitchen",
+      "bodyWords": 2309,
+      "url": "https://www.gasfitter.ca/dunbar-southlands-outdoor-kitchen-gas-branch-before-patio-cabinets/",
+      "sourceState": "leased source publication; production verification pending"
     }
   ],
   "queue": [
@@ -164,9 +174,15 @@
       "order": 5,
       "neighbourhood": "Dunbar-Southlands",
       "topic": "Outdoor kitchen planning before patio finishes are chosen",
-      "status": "requires-research-writing-and-visual-review",
+      "status": "published",
       "appliance": "outdoor-kitchen",
-      "requiresLongestRunAndPlannerExample": true
+      "requiresLongestRunAndPlannerExample": true,
+      "slug": "dunbar-southlands-outdoor-kitchen-gas-branch-before-patio-cabinets",
+      "title": "Planning an Outdoor Kitchen in Dunbar-Southlands? Settle the Gas Branch Before the Patio and Cabinets",
+      "date": "2026-11-28",
+      "bodyWords": 2309,
+      "url": "https://www.gasfitter.ca/dunbar-southlands-outdoor-kitchen-gas-branch-before-patio-cabinets/",
+      "productionVerification": "pending"
     },
     {
       "order": 6,
@@ -411,15 +427,15 @@
     }
   ],
   "lastScheduledRun": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "status": "source-ready-production-pending",
-    "jobId": "publish-daily-vancouver-gas-guide:2026-11-27T16:58:59.910Z",
-    "url": "https://www.gasfitter.ca/grandview-woodland-relocating-laundry-gas-dryer-branch-planning/",
-    "slug": "grandview-woodland-relocating-laundry-gas-dryer-branch-planning",
-    "title": "Moving the Laundry in Grandview-Woodland? Plan the Gas Dryer Branch Before Choosing the Room",
-    "bodyWords": 2415,
-    "neighbourhood": "Grandview-Woodland",
-    "appliance": "gas-dryer",
+    "jobId": "publish-daily-vancouver-gas-guide:2026-11-28T17:23:20.403Z",
+    "url": "https://www.gasfitter.ca/dunbar-southlands-outdoor-kitchen-gas-branch-before-patio-cabinets/",
+    "slug": "dunbar-southlands-outdoor-kitchen-gas-branch-before-patio-cabinets",
+    "title": "Planning an Outdoor Kitchen in Dunbar-Southlands? Settle the Gas Branch Before the Patio and Cabinets",
+    "bodyWords": 2309,
+    "neighbourhood": "Dunbar-Southlands",
+    "appliance": "outdoor-kitchen",
     "execution": "Existing Codex scheduled sole writer; not independent native cloud publisher proof"
   },
   "featuredImageStandard": {

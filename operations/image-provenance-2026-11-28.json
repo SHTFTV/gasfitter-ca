@@ -1,0 +1,22 @@
+{
+  "site": "gasfitter.ca",
+  "model": "Weber Summit SB38 S Built-In Natural Gas 1500043",
+  "sourcePage": "https://amer.weber.com/en-ca/products/summit-sb38-s-built-in-gas-grill-natural-gas-stainlesssteel-1500043",
+  "sourceImage": "https://amer.weber.com/cdn/shop/files/1500043_B_1800x1800_sync_85e420bb-6de3-4d6b-ac10-c3a0b4257ded.png?v=1783623370",
+  "native": {
+    "width": 1800,
+    "height": 1800,
+    "sha256": "ef6dc8e69650f626e94d243e14ed32819f0aa97924427d5fa7a44eabab71a653"
+  },
+  "derivative": {
+    "path": "/images/dunbar-southlands-weber-summit-sb38-s-outdoor-kitchen.jpg",
+    "width": 1600,
+    "height": 900,
+    "bytes": 47803,
+    "sha256": "1381e6ecc8dd3f097d7d479e1980fe67caeedee6cf39d5520a32139061c901ed",
+    "operation": "Contain entire manufacturer appliance photograph on white16:9canvas, downsample only; small own-brand label outside subject, no appliance retouching"
+  },
+  "credit": "Weber Canada official Summit SB38 S natural-gas1500043 product photograph. Framed and labelled Gasfitter.ca; not a customer installation.",
+  "rights": "Owner-directed use of exact public manufacturer photograph; source and credit retained. No manufacturer licence, partnership or endorsement asserted.",
+  "checkedAt": "2026-11-28T17:40:10.888Z"
+}
